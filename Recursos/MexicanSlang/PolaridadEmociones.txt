@@ -1,0 +1,3398 @@
+﻿# Si hace uso de este recurso, por favor cite en su trabajo el siguiente artículo:
+# Noé Alejandro Castro-Sánchez, Yolanda Raquel Baca-Gómez, Alicia Martínez. Development of Affective Lexicon for Spanish with Mexican 
+# Slang Expressions. Journal “Research in computing science”. ISSN: 1870-4069, vol. 100, 2015, pp. 9-18.
+#
+# Notación:
+# 	E	Palabras asociadas a emociones
+# 	++	Muy positivo
+# 	+	Positivo
+# 	--	Muy negativo
+# 	-	Negativo
+
+# Recursos fuente:
+#	GI	General Inquirer
+#	WNA	WordNettAffect
+#	OF	Opinion Finder
+
+Clasificación de emociones a partir de la teoria de Scherer y WordNetAffect
+admiración	admiration
+diversión	amusement
+ira	anger
+ansiedad	anxiety
+aburrimiento	boredom
+compasión	compassion
+desprecio	contempt
+desesperación	desperation
+decepción	disappointment
+asco	disgust
+envidia	envy
+miedo	fear
+amor	love
+gratitud	gratitude
+culpabilidad	guilt
+felicidad	happiness
+odio	hatred
+alegría	joy
+serenidad	serenity
+sorpresa	surprise
+sadness	tristeza
+vergüenza	shame
+
+español	Polaridad	Emoción	Emoción asociada	Morgan-Heise	Russell	Scherer	GI	WNA	OF	inglés
+
+plácido	+	E	serenidad									+								placid
+regocijo	+	E	alegría									+								rejoice
+regocijar	+	E	alegría
+equilibrio	+	E	serenidad								+								poise
+equilibrar	+	E	serenidad
+llanto	-	E	tristeza												-					tearfulness
+llorar	-	E	tristeza
+deplorable	-	E	tristeza										-	-					deplorable
+lacrimoso	-	E	tristeza											-					lachrymose
+oprimido	-	E	tristeza											-					downtrodden
+oprimir	-	E	tristeza
+patético	-	E	tristeza											-					pathetic
+lastimoso	-	E	tristeza
+desventura	-	E	tristeza
+desventurado	-	E	tristeza										-	-				hapless
+desafortunado	-	E	tristeza
+desafortunadamente	-	E	tristeza
+despojado	-	E	tristeza										-	-					bereft
+compunción	-	E	tristeza											-					compunction
+compungido	-	E	tristeza
+desmoralización	-	E	tristeza										-					demoralization
+desconsuelo	-	E	tristeza											-					disconsolateness
+desconsolar	-	E	tristeza
+penumbra	-	E	tristeza										-	-					gloom
+quebranto	-	E	tristeza											-					brokenheartedness
+quebrantado	-	E	tristeza
+quebrantar	-	E	tristeza
+pena	-	E	tristeza												-					sorrow
+penar	-	E	tristeza
+lúgubre	-	E	tristeza												-					mournfulness
+incertidumbre	-	E	miedo											-					suspense
+horrorosamente	-	E	miedo											-					horrifyingly
+titubeante	-	E	miedo												-					hesitantly
+titubear	-	E	miedo
+tímidamente	-	E	miedo												-					diffidently
+acobardado	-	E	miedo
+acobardar	-	E	miedo
+acobardarse	-	E	miedo												-					cower
+intimidado	-	E	miedo												-					browbeaten
+feo	-	E	miedo													-	-					ugly
+fealdad	-	E	miedo
+escalofriante	-	E	miedo											-					chilling
+espeluznante	-	E	miedo
+intimidación	-	E	miedo
+indecisión	-	E	miedo												-					hesitance
+vacilación	-	E	miedo
+vacilar	-	E	miedo
+fétido	-	E	aso														-					foul
+obsceno	-	E	asco													-					obscene
+obscenidad	-	E	asco
+maloliente	-	E	asco												-					noisome
+ofensa	-	E	ira														-					offense
+maléfico	-	E	ira													-					malefic
+agresividad	-	E	ira													-					aggressiveness
+codicia	-	E	ira														-					covetousness
+codicioso	-	E	ira
+agravio	-	E	ira														-					grievance
+queja	-	E	ira
+misantropía	-	E	ira													-					misanthropy
+animadversión	-	E	ira												-					ill will
+misántropo	-	E	ira
+misoginia	-	E	ira													-					misogyny
+misógino	-	E	ira
+crucificar	-	E	ira													-					crucify
+crucificado	-	E	ira
+crucifixión	-	E	ira
+desalentador	-	E	tristeza									-						daunting
+sulfurar	-	E	ira													-					rile		sacar de quicio
+enloquecedor	-	E	ira
+soplón	-	E	ira														-					nark
+exacerbar	-	E	ira													-					exacerbate
+exacerbado	-	E	ira
+gruñón	-	E	ira															-					huffy
+desaliento	-	E	tristeza										-						discouragement
+desalentado	-	E	tristeza											-					discouraged
+enturbiar	-	E	ira													-					roiled
+importunar	-	E	ira													-					pestering
+importunado	-	E	ira
+irritante	-	E	ira													-					irritating
+desesperante	-	E	ira
+burlón	-	E	ira														-					teasing
+cabreado	-	E	ira													-					pissed
+enojoso	-	E	ira
+mortificante	-	E	ira													-					galling
+berrinche	-	E	ira													-					tantrum, sulkiness
+rabieta	-	E	ira
+escándalo	-	E	ira												-	-					fuss, scene
+escandalizar	-	E	ira
+temeroso	--	E	miedo		--			--				--			-					afraid 
+temer	--	E	miedo
+atemorizado	--	E	miedo
+atemorizar	--	E	miedo
+atemorizante	--	E	miedo
+aterrador	--	E	miedo
+miedo	-	E	miedo												-						fear
+temor	-	E	miedo
+miedoso	--	E	miedo												--						fearful
+pánico	-	E	miedo												--						panic
+pavor	-	E	miedo												-						dread
+terror	-	E	miedo												-						terror
+horror	--	E	miedo												--						horror				Cantidad muy grande, se divierten horrores
+pavoroso	--	E	miedo
+temible	-	E	miedo												-						fearsome
+espantado	--	E	miedo		--															scared
+espantar	--	E	miedo
+paranoico	-	E	#												-						paranoid
+terrible	--	E	miedo												--						terrible
+horrendo	--	E	miedo
+horripilante	--	E	miedo
+cobarde	--	E	miedo												--						coward
+pusilánime	--	#	#
+asustar	-	E	miedo												-						frighten
+asustado	--	E	miedo		--							--								frightened, startled
+horrorizar	-	E	miedo											-						horrify
+erosionar	-	#	#												-						erode
+emergencia	--	#	#												--						emergency
+susto	-	E	miedo												-						alarm, scare
+alarmante	-	E	miedo									-		-						alarming
+coartada	-	#	#												-						alibi
+excusa	-	#	#
+pretexto	-	#	#												-						guise
+enajenar	--	#	#												--						alienate
+distanciar	-	#	#												-						estranged
+cabizbajo	-	E	tristeza				-												droopy
+caer	-	#	#													-						droop
+marchitar	-	#	#
+arte	+	#	#													+						art
+cumplir	+	#	#													+						abide
+acatar	+	#	#
+respetar	+	#	#
+respeto	+	#	#
+alegar	-	#	#													-						allegation, allege
+disputa	--	#	#													--						dispute
+atlético	++	#	#												++						athletic
+arresto	--	#	#													--						arrest				Arrestaron al culpable del asesinato.
+arrestar	--	#	#
+secuestro	--	#	#
+aprehender	--	#	#
+distante	-	#	#												-						aloof
+altercado	--	#	#												--						altercation
+ambigüedad	-	#	#												-						ambiguity
+ambiguo	-	#	#													-						ambiguous
+ambivalente	-	E	#												-						ambivalent
+ambivalencia	-	E	#
+emboscada	--	#	#												--						ambush
+trampa	--	#	#
+acecho	--	#	#
+acechar	--	#	#
+mal	-	#	#														-						amiss
+errar	-	#	#													-						err
+pecar	-	#	#
+impropio	-	#	#
+cazar	--	#	#													--						hunt
+cacería	--	#	#
+persecución	--	#	#
+hambriento	-	#	#												-						famished, hungry
+hambre	-	#	#													-						famine, hunger		Hambre de justicia.
+hambruna	-	#	#
+inanición	-	#	#
+flaquear	-	#	#												-						falter
+claudicar	-	#	#
+manipular	--	#	#												--						manipulate
+manipulado	--	#	#
+manipulación	--	#	#
+amputar	-	#	#													-						amputate
+mutilar	--	#	#													--						mangle
+anarquista	--	#	#												--						anarchist
+enojado	-	E	ira				-			--				--		-						angry
+enfadado	-	E	ira												-						vexed
+enfadar	-	E	ira
+enojo	-	E	ira
+enfado	-	E	ira
+enojar	-	E	ira
+ira	--	E	ira														--						anger
+irascible	--	E	ira
+irascibilidad	-	E	ira
+furia	--	E	ira													--						fury
+saña	--	E	ira
+cólera	--	E	ira											--								wrath
+encolerizar	--	E	ira										--								incense
+enfurecer	--	E	ira												--						infuriate, enrage
+enfurecido	--	E	ira										--		--						enraged
+encarnizado	--	E	ira
+enrabiar	--	E	ira
+ensañar	--	E	ira
+ensañarse	--	E	ira
+furioso	--	E	ira				--									--						furious
+furiosamente	--	E	ira
+colérico	--	E	ira
+rabioso	--	E	ira
+rabia	--	E	ira													--						rage
+iracundia	--	E	ira
+rabiar	--	E	ira
+rabiosamente	--	E	ira
+airado	--	E	ira				--															irate
+airadamente	--	E	ira
+iracundo	--	E	ira
+encolerizado	--	E	ira
+energúmeno	--	E	ira
+agravado	--	E	ira			--									--						aggravated
+empeorar	-	#	#												-						worsen
+atacar	--	#	#													--						attack
+austero	-	#	#													-						austere
+intransigente	-	#	#
+autocráta	--	#	#												--						autocrat
+tirano	--	#	#
+déspota	--	#	#
+peor	-	#	#													-						worst
+severo	-	#	#													-						grim
+grotesco	-	#	#												-						grotesque
+ridículo	-	#	#												-						ludicrous
+gruñido	-	#	#													-						growl
+gruñir	-	#	#
+refunfuñar	-	#	#
+refunfuño	-	#	#
+rezongar	-	#	#
+desconsiderado	-	E	#											-						thoughtless
+irreflexivo	-	#	#
+inconsciente	-	#	#
+guerrilla	--	#	#												--						guerrilla
+avaricia	-	E	ira												-						avarice
+vengar	--	E	ira													--						avenge
+venganza	--	E	ira												--						revenge
+vengativo	--	E	ira
+vengativamente	--	E	ira
+asaltar	--	E	ira													--						assail
+asalto	--	E	ira													--						assault
+atentado	--	E	ira
+atraco	--	E	ira
+allanamiento	--	E	ira
+robo	--	E	ira													--						burglary
+asesino	--	E	ira													--						assassin, killer
+criminal	--	E	ira
+matón	--	E	ira
+homicida	--	E	ira
+homicidio	--	E	ira
+parricida	--	E	ira
+fratricida	--	E	ira
+magnicida	--	E	ira
+matar	--	E	ira													--						assassinate			Muero de amor por ti.
+asesinar	--	E	ira
+asesinato	--	E	ira
+sacrificar	--	E	ira
+muerto	-	#	#													-						dead
+cadáver	-	#	#
+difunto	-	#	#
+fallecimiento	-	#	#											-						decease
+muerte	-	#	#													-						death
+defunción	-	#	#
+morir	-	#	#
+cuestionable	-	#	#											-						debatable
+deudor	-	#	#													-						debtor
+decadencia	-	#	#												-						decadence
+decaer	-	#	#
+deterioro	-	#	#												-						decay
+dominar	--	#	#													--						dominate			Sujetar, contener, reprimir. Conocer bien una ciencia, un arte, un idioma,
+someter	--	#	#
+subyugar	--	#	#
+estancamiento	--	#	#											--						deadlock
+mortal	--	#	#													--						deadly
+mortífero	--	#	#
+letal	--	#	#
+fatal	--	#	#
+fatalista	-	#	#												-						fatalistic
+sordo	-	#	#													-						deaf
+agresión	--	E	ira												--						aggression
+agresivo	--	E	ira												--						aggressive
+ofensivo	--	E	ira
+alienación	-	E	ira												-						alienation
+agresor	--	E	ira													--						aggressor
+atacante	--	E	ira
+asaltante	--	E	ira
+pendenciero	--	E	ira
+escasez	-	#	#													-						dearth
+carestía	-	#	#
+extraviado	-	#	#												-						astray
+descarriado	-	#	#
+desorientado	-	#	#
+perdido	-	#	#													-						lost
+desaparecido	-	#	#
+desaparecer	-	#	#
+agitado	-	E	#				-															agitated
+agitación	--	#	#												--						agitation
+bullicioso	--	#	#												--						boisterous
+tumultuoso	--	#	#
+alboroto	--	#	#
+revoltoso	--	#	#
+enredar	-	#	#													-						entangle
+enmarañar	-	#	#
+embrollo	-	#	#
+bombardear	--	#	#												--						bomb
+bombardeo	--	#	#												--						bombardment
+esclavizar	-	#	#												-						enslave
+cautiverio	-	#	#
+cautivo	-	#	#													-						captive
+prisionero	-	#	#
+preso	-	#	#
+capturar	-	#	#												-						capture			Capturar la contraseña.
+capturado	-	#	#
+aprisionar	-	#	#
+aprisionado	-	#	#
+atrapar	-	#	#													-						catch
+atrapado	-	#	#
+contagiar	-	#	#																						Me contagió con su alegría.
+contagiado	-	#	#
+censura	-	#	#													-						censor
+desafiar	--	#	#												--						challenge
+retar	--	#	#													--						defy
+reto	--	#	#
+impugnar	--	#	#
+recusar	--	#	#
+caos	-	#	#													-						chaos
+desorden	-	#	#												-						clutter
+desordenar	-	#	#
+desordenado	-	#	#
+revoltijo	-	#	#
+lío	-	#	#
+grosero	-	#	#													-						coarse
+lépero	-	#	#
+burdo	-	#	#
+maleducado	-	#	#
+vulgar	-	#	#													-						gaudy
+estridente	-	#	#
+chillón	-	#	#
+germen	--	#	#													--						germ
+microbio	--	#	#
+bacteria	--	#	#
+gueto	-	#	#													-						ghetto
+retrasar	-	#	#												-						delay
+demorar	-	#	#
+retardar	-	#	#
+aplazar	-	#	#
+postergar	-	#	#
+postergado	-	#	#
+postergación	-	#	#
+posponer	-	#	#
+tardanza	-	#	#
+persecusión	--	#	#												-						chase
+engreido	--	E	#												--						cockiness
+petulante	--	#	#
+fanfarrón	--	E	#												--						cocky
+atiborrar	-	#	#												-						cram
+atestar	-	#	#
+calambre	-	#	#												-						cramp
+retortijón	-	#	#
+arruga	-	#	#													-						crumple
+obligar	-	#	#													-						coerce
+coaccionar	-	#	#
+coaccionado	-	#	#
+forzar	-	#	#													-						force
+forzado	-	#	#
+diferir	-	#	#													-						differ
+discrepar	-	#	#
+divergir	-	#	#
+disentir	-	#	#
+incorrecto	-	#	#												-						improper
+indebido	-	#	#
+inadecuado	-	#	#												-						inadequate
+inapropiado	-	#	#
+apropiado	+	#	#												+						appropriate
+correspondiente	+	#	#
+pertinente	+	#	#
+encarcelamiento	-	#	#																	imprisonment
+encarcelar	-	#	#												-						imprison
+encarcelado	-	#	#
+preciso	+	#	#													+						accurate
+precisión	+	#	#												+						accuracy
+exactitud	+	#	#
+acertado	+	#	#
+imprecisión	-	#	#												-						imprecision
+imponer	--	#	#													--						impose
+hundir	--	#	#													--						engulf
+dictatorial	-	#	#												-						dictatorial
+mandar	-	#	#													-						dictate
+mandón	-	#	#
+constreñir	--	#	#												--						constrain
+coerción	-	#	#												-						coercion
+frío	-	#	#													-						cold
+resfriado	-	#	#
+catarro	-	#	#
+frialdad	--	#	#												--						cold
+castigar	--	#	#												--						chastise
+devaluar	-	#	#												-						cheapen
+patada	-	#	#													-						boot
+agonizar	-	#	#												-						agonize
+agonizante	-	#	#
+padecer	-	#	#
+padecimiento	-	#	#
+agonía	-	#	#													-						agony
+prejuicioso	--	E	#												--						prejudice
+prejuicio	--	E	#
+prejuzgar	--	E	#
+alterado	--	E	#			--															upset
+sonreir	+	E	diversión											+						smile
+sonrisa	+	E	diversión
+risueño	+	E	diversión
+sonriente	+	E	diversión
+divertirse	+	E	diversión								+								rollick
+reir	+	E	diversión									+								laugh
+risa	+	E	diversión
+bromear	+	E	diversión											+						fun
+broma	+	E	diversión
+entretener	+	E	diversión										+						entertain
+divertido	+	E	diversión	++							+		+						amused
+divertir	+	E	diversión										+						amuse
+esparcir	+	E	diversión																				La enfermedad se esparció rápidamente.					
+entretenido	+	E	diversión
+diversión	+	E	diversión										+						amusement
+entretenimiento	+	E	diversión									+						entertainment
+esparcimiento	+	E	diversión
+divertimento	+	E	diversión
+ángel	+	#	#													+						angel			ángel del demonio.
+angelical	+	#	#
+angélico	+	#	#
+ungir	+	#	#													+						anoint
+consagrar	+	#	#
+aniquilar	--	E	ira												--						annihilate
+aniquilado	--	E	ira
+masacrar	--	E	ira
+preocupado	--	E	ansiedad								--								worried
+preocupación	-	E	ansiedad									-						concern
+preocuparse	-	E	ansiedad
+preocupar	-	E	ansiedad
+desconcertado	--	E	ansiedad							--								taken aback
+nervioso	--	E	ansiedad	--															flustered, nervous
+nerviosismo	-	E	ansiedad										-						nervousness
+intranquilidad	-	E	ansiedad
+inseguro	--	E	ansiedad								--								insecure, diffident
+inseguridad	--	E	ansiedad
+inestable	--	E	ansiedad								--								jitter
+tímido	-	E	ansiedad											-						bashful
+timidez	-	E	ansiedad
+cohibido	-	E	ansiedad
+ansiedad	-	E	ansiedad										-						anxiety
+angustiado	--	E	ansiedad	--									--						anguished
+angustioso	--	E	ansiedad
+angustia	--	E	ansiedad										--						anguish
+aflicción	--	E	ansiedad
+embargo	--	E	ansiedad
+aprensivo	-	E	ansiedad	-									-						apprehensive
+recelar	-	E	ansiedad
+angustiar	-	E	ansiedad										-						distress
+aquejar	-	E	ansiedad
+aquejado	-	E	ansiedad
+congoja	-	E	tristeza											-						grief
+acongojado	-	E	tristeza
+pesadumbre	-	E	tristeza
+afligirse	-	E	tristeza										-						grieve
+afligir	-	E	tristeza
+entristecer	-	E	tristeza
+acongojar	-	E	tristeza
+molesto	--	E	ira				-							--		--						annoyed
+molestia	--	E	ira												--						annoyance
+fastidiar	--	E	ira												--						irk
+fastidioso	--	E	ira
+latoso	--	E	ira
+fastidio	-	E	ira
+fastidiado	-	E	ira			-															irked
+irritado	-	E	ira			-															irritated
+molestar	--	E	ira												--						bother 
+atosigar	--	E	ira
+aturdir	-	#	#													-						daze
+ofuscar	-	#	#
+ofuscamiento	-	#	#
+incomodar	-	#	#
+agobiar	-	#	#
+sofocar	-	#	#
+mortificado	--	E	tristeza	--															mortified
+mortificar	-	E	tristeza										-						mortify
+mortificación	-	E	tristeza
+ansioso	+	E	#				+															anxious				Estoy ansioso por presentar mi examen.
+ávido	+	#	#													+						avid
+ansioso	--	E	ansiedad									--		-						anxious				Si la persona tiene dificultad para quedarse quieta o está muy ansiosa, se le puede dar un medicamento relajante.
+anhelo	+	E	#											+								longing
+deseoso	+	#	#													+						desirous
+deseo	+	#	#
+aspiración	+	#	#												+						aspiration
+aspirar	+	#	#
+asentimiento	+	#	#											+						assent
+arbitrario	-	#	#												-						arbitrary
+duro	-	#	#													-						hard
+arduo	-	#	#													-						arduous
+laborioso	-	#	#
+riguroso	-	#	#
+privación	-	#	#												-						hardship
+penuria	-	#	#
+dificultad	-	#	#												-						difficulty
+dificultar	-	#	#
+aprieto	-	#	#
+apuro	-	E	#													-						plight
+inconveniente	-	#	#											-						inconvenient
+inoportuno	-	#	#
+deshabilitar	-	#	#											-						disable
+deshabilitado	-	#	#
+inhabilitar	-	#	#
+inhabilitado	-	#	#
+inutilizar	-	#	#
+inutilizado	-	#	#
+promoción	+	#	#												+						advocacy
+defensa	+	#	#
+amparo	+	#	#
+amparado	+	#	#
+amabilidad	+	#	#												+						amiability
+cordialidad	+	#	#
+afabilidad	+	#	#												+						affability
+cortesía	+	#	#												+						courtesy
+gentileza	+	#	#
+afable	+	#	#													+						affable
+genial	+	#	#
+fantástico	+	#	#
+fenomenal	+	#	#
+afecto	+	E	amor												+						affection
+afección	+	E	amor
+aconsejable	+	#	#												+						advisable
+oportuno	+	#	#
+prudente	+	#	#
+recurso	+	#	#													+						asset
+fondos	+	#	#
+auténtico	+	#	#												+						authentic			Eres un auténtico idiota.
+genuino	+	#	#
+original	+	#	#
+autenticidad	+	#	#											+						authenticity
+veracidad	+	#	#																							La veracidad está en duda.
+veraz	+	#	#
+favorable	++	#	#												++						advantageous
+provechoso	++	#	#
+conveniente	++	#	#
+ventaja	++	#	#													++						advantage
+provecho	++	#	#
+beneficio	++	#	#
+aumento	+	#	#													+						augmentation		Me dieron un aumento en el trabajo.
+desventaja	-	#	#												-						disadvantage
+dilema	-	#	#													-						dilemma
+difícil	-	#	#													-						difficult
+entrometido	-	#	#												-						busybody
+intruso	-	#	#													-						intrude
+calamidad	-	#	#												-						calamity
+desastre	-	#	#												-						disaster
+insensible	--	E	#												--						callous
+insidioso	-	#	#												-						insidious
+despiadado	--	E	ira												--						heartless
+inclemente	--	E	ira
+implacable	--	E	ira
+cancelar	-	#	#												-						cancel
+anular	-	#	#
+rescindir	-	#	#
+cáncer	-	#	#													-						cancer
+caníbal	--	#	#													--						cannibal
+antropófago	--	#	#
+cañón	--	#	#													--						cannon
+deshonesto	--	#	#												--						crooked
+deshonestidad	--	#	#
+rendirse	-	#	#												-						capitulate
+caprichoso	-	#	#												-						capricious
+voluntarioso	-	#	#
+voluble	-	E	#													-						fickle
+inconstante	-	#	#
+veleidoso	-	#	#
+zozobrar	-	#	#												-						capsize
+burla	--	#	#													--						jeer
+ridiculizar	--	#	#												--						deride
+burlarse	--	#	#																							burlón
+irrisión	--	#	#
+mofa	--	#	#
+escarnio	--	#	#
+despectivo	--	#	#												--						derogatory
+peyorativo	--	#	#
+avergonzado	-	E	vergüenza	--							-		-						embarrassed
+avergonzar	-	E	vergüenza
+abochornado	-	E	vergüenza
+apenado	-	E	vergüenza									-								ashamed
+apenar	-	E	vergüenza
+contender	--	#	#												--						contend
+contrario	-	#	#												-						contrary
+opuesto	-	#	#
+terco	-	#	#
+incompetencia	-	#	#											-						incompetence
+incompatible	-	#	#											-						incompatible
+controversia	-	#	#											-						controversy
+controvertido	-	#	#											-						controversial
+polémico	-	#	#
+convicto	--	#	#												-						convict
+presidiario	--	#	#
+recluso	--	#	#
+corroer	-	#	#													-						corrode
+corrosivo	-	#	#
+corrupción	--	#	#												--						corruption
+corrupto	--	#	#
+cómodo	++	E	#													++						comfortable
+a gusto	+	#	#				+															at ease
+confortable	+	#	#
+impresionado	+	E	admiración							+								awe-struck
+impactado	+	E	admiración
+mareado	-	#	#													-						dizzy
+vertiginoso	-	#	#
+marearse	-	#	#
+marear	-	#	#
+amargar	-	E	decepción									-								sour
+amargado	-	E	decepción	-									-						bitter
+amargo	-	E	decepción
+amargura	-	E	decepción										-						bitterness
+puño	--	#	#													--						fist
+puñetazo	--	#	#
+despedir	--	#	#												--						dismiss
+despedido	--	#	#
+descartar	--	#	#
+desechar	--	#	#
+desobedecer	--	#	#												--						disobedience
+destruir	--	#	#												--						destroy
+destrucción	--	#	#
+destruido	--	#	#
+desapegar	-	#	#												-						detachment
+desapego	-	#	#
+desinterés	-	#	#												-						disinterest
+detener	-	#	#													-						detain
+destrozado	--	E	#			--															broken-hearted
+despedazado	--	#	#
+deshecho	--	#	#
+exterminar	--	#	#												--						exterminate
+exterminación	--	#	#
+exterminado	--	#	#
+tranquilo	+	E	serenidad	+			+				++		+						calm				Y tú tranquilo, cómo si nada hubiera pasado; (tranquilo: indiferente,apático, indolente).	Estoy tranquilo, todo salió bien.	
+calmado	+	E	serenidad
+sosegado	+	E	serenidad
+sereno	+	E	serenidad					+						+						serene
+calma	+	E	serenidad											+						calmness
+tranquilidad	+	E	serenidad
+tranquilizar	+	E	serenidad
+serenidad	+	E	serenidad
+encanto	+	E	admiración											+						charm
+gracia	+	E	admiración
+encantado	++	E	admiración		++														charmed
+encantar	++	E	admiración
+embelesado	++	E	admiración
+embelesar	++	E	admiración
+encantador	++	E	admiración
+hechizado	++	E	admiración								++								spellbound
+animado	++	E	felicidad		++															cheered
+alentar	++	E	felicidad
+aliento	++	E	fecilidad
+desanimado	--	E	tristeza	--															cheerless, downhearted, low
+desánimo	--	E	tristeza
+desanimarte	--	E	tristeza
+decaído	--	E	tristeza
+desfallecer	--	E	tristeza
+desanimar	-	E	tristeza										-						dishearten
+desalmado	--	E	ira												--						fiend
+deshonrar	-	E	vergüenza										-						dishonor
+deshonor	-	E	vergüenza
+deshonroso	-	E	vergüenza
+desalojar	-	#	#												-						evict
+desalojado	-	#	#
+discriminar	-	#	#												-						discriminate
+discriminado	-	#	#
+discriminación	-	#	#
+discrepar	--	#	#												--						discrepant
+discrepancia	--	#	#
+desacreditar	--	#	#											--						discredit
+desacreditado	--	#	#
+desmoralizar	--	E	tristeza									--						demoralize
+desmoralizado	--	E	tristeza
+contento	+	E	alegría		+															contented
+aplastado	--	E	#			--									--						crushed				La injusticia de las sentencias judiciales la había aplastado y estaba agotada emocional y financieramente.		Se rompió el cuello, con vértebras aplastadas y la médula espinal intacta...		Luego de la cosecha, sus hojas se cortan y aplastan para separar la pulpa de las fibras.
+pisoteado	--	E	#
+destripar	--	#	#
+pisotear	--	#	#
+aplastar	--	#	#												--						crush
+abrumar	--	#	#
+aplastante	--	#	#												--						crushing
+abrumador	--	#	#			--
+abatido	--	E	desesperación	--							--								dejected, despondent
+abatimiento	--	E	desesperación
+abatir	--	E	desesperación
+derrumbado	--	E	desesperación
+derribado	--	E	desesperación
+arruinado	--	E	desesperación
+deleitado	++	E	felicidad	++			++				++								delighted
+placer	++	E	felicidad
+enfoque	+	#	#													+						approach			Desde un enfoque muy negativo.
+deprimido	--	E	tristeza	--			--				--		-						depressed
+deprime	--	E	tristeza
+deprimir	--	E	tristeza										--						depress
+deprimente	--	E	tristeza													--			depressing
+depresión	--	E	tristeza													--			depression
+atribulado	--	E	tristeza
+tribulación	--	E	tristeza
+infructuoso	-	#	#												-						fruitless
+desarmar	-	#	#												-						disarm
+desaprobar	--	#	#												-						disapprove
+decepcionado	--	E	decepción	--						--		--						disappointed, deception
+desilusionado	--	E	decepción
+desencantado	--	E	decepción
+defraudado	--	E	decepción
+desengañado	--	E	decepción
+decepción	-	E	decepción										-						disappointment
+desilusión	-	E	decepción										-						disillusion
+desengaño	-	E	decepción
+chasco	-	E	decepción
+decepcionar	-	E	decepción										-						disappoint
+desilusionar	-	E	decepción
+desalentar	-	E	tristeza										-						discourage 
+monótono	-	E	tristeza										-						drab
+discordia	--	#	#												--						discord
+descontento	-	E	decepción	-									-						discontented
+desencantar	-	E	deceptión	-									-						disenchant
+disgustado	-	E	decepción	-									-						ill at ease, disgruntled
+contrariado	-	E	decepción
+contrariar	-	E	decepción
+malhumorado	-	E	decepción										-						moody
+malhumor	-	E	decepción
+repugnante	-	E	asco											-						hideous
+asqueado	--	E	asco		--							--		--						disgusted
+hastiado	-	E	asco
+asco	--	E	asco												--						disgust
+náusea	--	E	asco
+asquear	-	E	asco												-						sicken
+nauseabundo	-	E	asco
+asqueroso	--	E	asco
+asquerosamente	--	E	asco
+repugnancia	--	E	asco
+repugnar	--	E	asco
+repulsivo	--	E	asco
+repulsión	--	E	asco
+indignación	--	E	ira												--						indignation
+indignante	--	E	ira
+distorsionar	--	#												--						distort
+tergiversar	--	#	#
+disentir	--	#	#												--						dissent
+disidir	--	#	#
+invadir	-	#	#													-						encroach, invade
+irrumpir	-	#	#
+usurpar	--	#	#													-						usurp
+usurpado	--	#	#
+júbilo	+	E	alegría												+						glee
+intrusión	-	#	#												-						encroachment
+aversión	--	E	asco									--		--						loathing, aversion
+desagrado	-	E	asco											-						dislike
+desagradar	-	E	asco
+ofender	--	E	ira													--						aggrieve
+ofendido	--	E	ira
+consternación	-	E	miedo										-						dismay
+consternar	-	E	miedo
+insatisfecho	-	E			-							-		--						dissatisfied
+afligido	--	E	tristeza	--			--				--		--						distressed, afflict
+dolido	--	E	tristeza
+desolado	-	E	tristeza										-						bleak
+mancha	-	#	#													-						blemish
+manchado	-	#	#
+imperfección	-	#	#
+imperfecto	-	#	#												-						imperfect
+ciego	-	#	#													-						blind
+ceguera	-	#	#
+cegado	-	#	#
+invidente	-	#	#
+mocoso	-	#	#													-						brat
+rechazar	--	#	#												--						reject
+rechazado	--	#	#
+rechazo	--	#	#													--						rejection
+declinar	-	#	#												-						decline
+declinación	-	#	#
+descenso	-	#	#
+bloquear	--	#	#												--						block
+estúpido	--	#	#												-			--			blockhead
+alcornoque	--	#	#
+descerebrado	--	#	#
+pendejo	--	#	#
+apendejado	--	#	#
+masacre	--	E	ira													--						massacre
+matanza	--	E	ira													--						bloodshed, butchery
+sanguinario	--	E	ira												--						bloodthirsty
+sádico	--	E	ira
+sangriento	-	E	ira
+ensangrentado	-	E	ira
+erróneo	-	#	#													-						erroneous
+error	-	#	#													-						error
+equívoco	-	#	#												-						equivocal
+alardear	-	#	#												-						brag
+jactarse	-	#	#												-						boast
+fanfarronear	-	#	#
+vanagloriarse	-	#	#
+ufanarse	-		#	#
+tramposo	-	#	#												-						cheater
+reprender	--	#	#												--						chide
+regañar	--	#	#
+regañado	--	#	#
+ahogar	-	#	#													-						drown
+ahogado	-	#	#
+inundar	--	#	#													--						inundate
+inundación	--	#	#
+inundado	--	#	#
+estrangular	-	#	#												-						choke
+estrangulado	-	#	#
+asfixiar	-	#	#
+asfixiado	-	#	#
+crónico	-	#	#													-						chronic
+clamor	-	#	#													-						clamour
+quejarse	--	#	#												--						complain
+reclamar	--	#	#
+lamento	-	E	tristeza											-						lament
+lamentar	-	E	tristeza											-					regret
+lamentación	-	E	tristeza
+lamentarse	-	E	tristeza
+lamentable	-	E	#												-						lamentable
+lamentablemente	-	#	#
+languidecer	-	#	#												-						languish
+pudrirse	-	#	#
+caducar	-	#	#													-						lapse
+caducado	-	#	#
+denunciar	--	#	#												--						denounce
+consternado	-	E	miedo											-						consternation
+fraude	-	#	#													-						deceit, fraud
+estafa	-	#	#
+estafar	-	#	#
+desfalco	-	#	#
+desfalcar	-	#	#
+enfrentamiento	--	#	#											--						clash
+estrépito	-	#	#												-						clatter
+estruendo	-	#	#
+ilegal	-	#	#													-						illegal, unlawful
+ilícito	-	#	#
+ilegalidad	-	#	#												-						illegality
+ilegitimidad	-	#	#
+ilegítimo	-	#	#
+analfabeta	-	#	#												-						illiterate
+iletrado	-	#	#
+inculto	-	#	#
+malicia	--	E	ira													--						malice
+maldad	--	E	ira
+malevolencia	--	E	ira
+enfermedad	-	#	#												-						illness
+síndrome	-	#	#
+dolencia	-	#	#
+ilógico	-	#	#
+inmaduro	-	#	#												-						immature
+inmadurez	-	#	#
+inmovilidad	-	#	#												-						immobility
+inmóvil	-	#	#
+pasividad	-	#	#
+inmoral	-	#	#													-						immoral
+impúdico	-	#	#
+indecoroso	-	#	#
+indecente	-	#	#												-						indecent
+indigno	-	#	#
+indeterminable	-	#	#											-						indeterminable
+indefinible	-	#	#
+indefinido	-	#	#												-						indefinite
+indeterminado	-	#	#
+impulsivo	-	#	#												-						impulsive
+impuro	-	#	#													-						impure
+inmoralidad	-	#	#												-						immorality
+indecencia	-	#	#
+impureza	-	#	#												-						impurity
+falacia	-	#	#													-						fallacy
+pandilla	-	#	#												-						clique
+pandillero	-	#	#
+fraudulento	-	#	#												-						bogus, fraudulent
+falaz	-	#	#
+doloso	-	#	#
+enfervorizado	++	E	alegría
+euforia	++	E	alegría												++						euphoria
+eufórico	++	E	alegría		++							++								elated
+vehemente	++	E	alegría
+exultante	++	E	alegría
+vacío	--	E	#				--															empty				Me siento vacío, tengo un vacío, estómago vacío, vacío por dentro
+hueco	--	#	#
+vano	-	#	#													-						vain
+avance	+	#	#													+						advancement
+ascenso	+	#	#
+promnoción	+	#	#
+mejoramiento	+	#	#
+avanzar	++	#	#													++						advance
+progreso	++	#	#
+progresar	++	#	#
+favorecer	++	#	#
+incompatibilidad	-	#	#										-						incompatibility
+adulación	++	E	#												++						adulation
+adular	++	#	#
+halago	++	#	#
+halagar	++	#	#
+competente	++	#	#												++						competent
+capaz	++	#	#												++						able, capable
+hábil	++	#	#
+diestro	++	#	#
+idóneo	++	#	#
+listo	++	#	#
+inteligente	++	#	#												++						brainy, clever
+sabio	++	#	#
+ingenioso	+	#	#												+						witty
+astuto	+	#	#													+						astute
+sagaz	+	#	#
+perspicaz	+	#	#
+apto	++	#	#													++						apt
+incapaz	-	#	#													-						incapable
+frívolo	-	#	#													-						frivolous
+oscuro	-	#	#													-						dark
+ensombrecer	-	#	#												-						darken
+oscuridad	-	E	miedo											-						darkness
+tinieblas	-	E	miedo
+desconocimiento	-	#	#
+infierno	-	#	#												-						hell
+infernal	-	#	#
+indefenso	-	#	#												-						helpless
+desvalido	-	#	#
+impotente	-	#	#
+imposibilitado	-	#	#
+impotencia	-	E	tristeza										-						helplessness
+indefensión	-	E	tristeza
+problema	--	#	#												--						hassle
+lío	--	#	#
+dañar	--	#	#													--						harm
+perjuicio	--	#	#
+daño	--	#	#													--						damage
+presunción	--	#	#												--						conceit				Era un presuntuoso que a menudo hacía jocosas bromas en voz alta, superficialmente feliz, pero íntimamente aterrorizado. 
+presuntuoso	--	#	#
+arrogancia	--	#	#												--						arrogance
+pretensión	-	#	#
+superficial	-	#	#												-						cursory
+somero	-	#	#
+inerte	-	#	#													-						lifeless
+falsedad	-	#	#												-						falsehood	
+artificial	-	#	#												-						artificial
+falso	-	#	#
+espurio	-	#	#
+fingir	-	#	#													-						feign
+aparentar	-	#	#
+zopenco	-	#	#													-						dunce
+bobo	-	#	#
+burro	-	#	#
+basurero	-	#	#												-						dump
+mazmorra	-	#	#
+calabozo	-	#	#
+mudo	-	#	#													-						dumb
+horrible	--	#	#												--						awful
+torpe	-	#	#													-						awkward, clumsy
+inepto	-	#	#
+ineptitud	-	#	#
+inútil	-	#	#
+negligente	-	#	#
+incompetente	-	#	#											-						incompetent
+inhábil	-	#	#
+ineficiencia	-	#	#											-						inefficiency
+ineficiente	-	#	#
+ineficacia	-	#	#												-						ineffectiveness
+inoperancia	-	#	#
+incoherencia	-	#	#											-						inconsistency
+inconsistencia	-	#	#
+inconsistente	-	#	#
+contradicción	-	#	#
+contradictorio	-	#	#
+desigual	-	#	#
+inconsecuencia	-	#	#
+inconsecuente	-	#	#
+incapacitado	-	#	#
+desigualdad	-	#	#												-						inequality
+balbuceo	-	#	#												-						babble
+balbucear	-	#	#
+atrasado	-	#	#												-						backward
+retrógrado	-	#	#
+retrasado	-	#	#
+malo	-	#	#													-						bad
+masoquista	-	#	#
+dañino	-	#	#
+fianza	-	#	#													-						bail
+negación	--	#	#												--						denial
+banal	-	#	#													-						banal
+trivial	-	#	#
+común	-	#	#
+insustancial	-	#	#
+delincuencia	-	#	#											-						delinquency
+delincuente	-	#	#												-						delinquent
+bandido	-	#	#													-						bandit
+delito	-	#	#
+delictivo	-	#	#
+delirio	-	#	#													-						delirium
+delirar	-	#	#
+desvarío	-	#	#															-			raving
+desvariar	-	#	#
+delirante	-	#	#
+diluvio	--	#	#													--						deluge
+inundación	--	#	#
+demoler	--	#	#													--						demolish
+demolido	--	#	#
+demolición	--	#	#
+desaparición	-	#	#											-						demise
+perdición	-	#	#												-						bane
+plaga	-	#	#
+excomulgar	--	#	#												--						excommunication
+excomunión	--	#	#
+excomulgado	--	#	#
+ejecutar	--	#	#												--						execute
+expulsar	--	#	#												--						expel
+expulsado	--	#	#
+desterrar	--	#	#												--						banish
+desterrado	--	#	#
+proscribir	--	#	#
+deportar	--	#	#
+deportado	--	#	#
+quebrado	-	#	#												-						bankrupt
+insolvente	-	#	#
+quiebra	-	#	#													-						bankruptc
+bancarrota	-	#	#												-						broke
+ruina	-	#	#
+estéril	-	#	#													-						barren
+árido	-	#	#
+inhóspito	-	#	#
+improductivo	-	#	#
+ineficaz	-	#	#												-						ineffectual
+luchar	--	#	#													--						fight		Lucha contra el cáncer.
+lucha	--	#	#
+pelear	--	#	#
+batallar	--	#	#
+quisquilloso	-	#	#											-						fussy
+melindroso	-	#	#
+futilidad	-	#	#												-						futility
+inutilidad	-	#	#
+esterilidad	-	#	#
+hiel	--	E	ira													--						gall
+desfachatez	--	E	irra
+feroz	--	E	E	ira												--						ferocious
+encarnizado	--	E	ira
+ferocidad	--	E	ira												--						ferocity
+violencia	--	E	ira													--						violence
+finta	-	#	#													-						feint
+treta	-	#	#
+estorbar	--	#	#												--						hamper
+estorbo	--	#	#
+capacidad	++	#	#												++						capability		Capacidad de destruir la vida a una escala inimaginable.
+competencia	++	#	#												++						competence		Sistema de educación basado en competencias.
+habilidad	++	#	#												++						ability			Tienes la habilidad de desesperar a las personas.
+aptitud	++	#	#													++						aptitude
+inteligencia	++	#	#
+ingenio	++	#	#
+talento	++	#	#
+discapacidad	-	#	#											-						handicap
+discapacitado	-	#	#
+minusvalía	-	#	#
+minusválido	-	#	#
+incapacidad	-	#	#												-						inability
+inhabilidad	-	#	#
+inexactitud	-	#	#												-						inaccuracy
+inexacto	-	#	#												-						inexact
+impreciso	-	#	#
+inaccesible	-	#	#												-						inaccessible
+ahorcar	--	#	#													--						hang
+ahorcado	--	#	#
+irregular	-	#	#												-						haphazard
+accidental	-	#	#
+accidentado	-	#	#
+barrera	-	#	#													-						barrier
+impedimento	--	#	#												--						impediment
+obstáculo	--	#	#												--						hindrance
+traba	--	#	#
+obstruir	-	#	#												-						clog
+compasivo	+	E	compasión										+						compassionate
+misericordioso	+	E	compasión
+empático	++	E	compasión								++								empathic
+empatía	+	E	compasión											+						empathy
+conmiseración	-	E	compasión									-						commiseration
+compasión	+	E	compasión										+						compassion
+misericordia	+	E	compasión
+piedad	+	E	compasión
+perpetrar	-	#	#												-						commit
+plebeyo	-	#	#													-						commoner
+corriente	-	#	#												-						commonplace
+peligro	-	#	#													-						danger
+peligrar	-	#	#
+desempleado	-	#	#												-						jobless
+desocupado	-	#	#
+asustadizo	-	E	miedo											-						jumpy, scary
+riesgo	-	#	#													-						gamble
+apuesta	-	#	#
+peligroso	-	#	#												-						dangerous
+arriesgar	-	#	#												-						hazard
+arriesgado	-	#	#												-						hazardous
+contingencia	-	#	#
+vaguedad	-	#	#												-						haziness
+confusión	-	#	#
+enredo	-	#	#
+brumoso	-	#	#													-						hazy
+cuchillada	-	#	#												-						gash
+jaqueca	-	#	#													-						headache
+cefalea	-	#	#
+acuchillar	-	#	#
+hender	-	#	#
+bastardo	--	#	#												--						bastard
+espurio	--	#	#
+batalla	--	#	#													--						battle
+contienda	--	#	#
+fiebre	-	#	#													-						fever
+calentura	-	#	#
+calenturiento	-	#	#											-						feverish
+febril	-	#	#
+afiebrado	-	#	#
+caluroso	-	#	#												-						hot
+fiasco	-	#	#													-						fiasco
+enemistad	--	E	ira												--						feud
+cizaña	--	E	ira
+disensión	--	E	ira
+ignorar	-	#	#													-						disregard
+ignorado	-	#	#
+combate	--	#	#													--						bout, combat		Combatir la pobreza.
+combatir	--	#	#
+bestial	--	#	#													--						beastly
+bestia	--	#	#
+bravata	-	#	#													-						bravado
+bravucón	-	#	#
+amontonar	-	#	#												-						hoard
+amontonado	-	#	#
+cojear	-	#	#													-						hobble
+renguear	-	#	#
+rengo	-	#	#
+cojo	-	#	#													-						lame
+agujero	-	#	#													-						hole
+hoyo	-	#	#
+bache	-	#	#
+grieta	-	#	#
+choque	--	#	#													-						knock
+noquear	--	#	#
+azotar	--	#	#													--						whip
+azotado	--	#	#
+golpear	--	#	#													-						hit
+descalabrar	--	#	#
+descalabrado	--	#	#
+pegar	--	#	#																								Pegar con resistol.
+pedrada	--	#	#
+golpe	--	#	#													--						beat				Golpe de suerte.
+pelea	--	#	#													--						brawl				Pelea de box
+riña	--	#	#
+pleito	--	#	#
+hipocresía	-	#	#												-						hypocrisy
+hipócrita	-	#	#												-						hypocrite
+histeria	-	E	miedo											-						hysteria
+histérico	-	E	miedo											-						hysterical
+puto	--	#	#													--						hustler
+ramera	--	#	#
+hiriente	-	E	#												-						hurtful
+ajetreo	--	#	#													--						hustle
+lesión	--	#	#													--						injury
+lesionado	--	#	#
+herida	--	#	#
+contusión	-	#	#												-						bruise
+moretón	-	#	#
+magullar	-	#	#
+machucar	-	#	#
+hematoma	-	#	#
+impaciencia	--	#	#												--						impatience
+epidemia	-	#	#												-						epidemic
+abollar	-	#	#													-						dent
+abollado	-	#	#
+abolladura	-	#	#
+envidioso	-	E	envidia	-								--		-						envious
+envidiar	-	E	envidia
+envidiado	-	E	envidia
+envidida	-	E	envidia										-							envy
+estafador	-	#	#												-						crook
+timador	-	#	#
+maleante	-	#	#
+egoísta	-	#	#
+egoísmo	-	#	#
+entusiasmado	++	E	alegría	++			++				++								excited
+entusiasta	++	E	alegría									++		++						enthusiastic
+ilusionado	++	E	alegría																						Ilusionar. Hacer que alguien se forje falsas ilusiones.
+harto	-	E	#				-															fed up
+neurótico	-	E	#												-						neurotic
+entumecido	-	E	#												-						numb
+entumecer	-	#	#
+insensibilizar	-	#	#
+opresivo	-	E	#												-						oppressive
+agobiante	-	#	#
+sofocante	-	#	#
+oprimente	-	#	#
+gravoso	-	#	#
+manosear	-	#	#												-						fumble
+fugitivo	-	#	#												-						fugitive
+prófugo	-	#	#
+disgusto	-	E	decepción										-						displeasure
+desplacer	-	E	decepción
+frustración	-	E	decepción										-						frustration
+frustrar	--	E	decepción										--						frustrate
+frustrado	--	E	decepción	--			--												frustrated
+frustrante	--	E	decepción
+malogrado	--	E	decepción
+fallido	--	E	decepción
+fallar	-	E	decepción											-						fail
+coqueto	-	E	#													-						flirt
+frenético	-	E	#												-						frantic
+desenfrenado	-	#	#
+frenéticamente	-	#	#											-						frantically
+violento	--	E	ira												--						fierce
+alegre	++	E	alegría			++			+				++								glad, joyful, cheerful
+alegría	++	E	alegría
+alegra	++	E	alegría
+alegrar	++	E	alegría
+optimista	++	E	alegría
+optimismo	++	E	felicidad
+alegremente	+	E	felicidad										+						gaily
+contentamiento	+	E	alegría 									+						contentment
+jubiloso	++	E	alegría 									++								joyous
+feliz	++	E	felicidad		++			++				++								happy
+radiante	++	E	alegría
+corazón roto	--	E	#		--															heart broken
+devastar	--	#	#												--						devastate
+devastación	--	#	#
+devastado	--	#	#
+asolar	--	#	#
+nostalgia	--	E	tristeza	--															homesick
+horrorizado	--	E	miedo		--															horrified, aghast
+atónito	--	E	miedo
+horroroso	--	E	miedo
+monstruoso	--	E	miedo
+siniestro	--	E	miedo
+terrorífico	--	E	miedo
+monstruo	-	#	#												-						freak
+fenómeno	-	#	#																							Fenómeno natural.
+monstruosidad	-	#	#
+herido	--	E	#	#			--									--						hurt
+herir	--	#	#
+lastimado	--	#	#
+lastimar	--	#	#
+dañado	--	#	#
+sufrir	--	E	#													--						suffer
+sufrimiento	-	#	#
+perjudicar	--	#	#												--						impair
+afectar	--	#	#
+afectado	--	#	#
+deteriorar	--	#	#
+deteriorado	--	#	#
+perjudicial	--	#	#												--						detrimental, harmful
+perjudicado	--	#	#
+incómodo	--	E	#										--		--						uncomfortable
+incomodidad	--	E	#
+intranquilo	-	E	#												-						restless
+insomne	-	#	#
+insomnio	-	#	#
+desasosiego	-	E	#												-						restlessness
+impaciente	-	E	#			-							-		-						impatient			África tiene prisa y está impaciente para que se corrija esa injusticia histórica. Son extremamente impacientes e inoportunos: interrumpen constantemente a los demás e irrumpen en cualquier contexto
+intolerante	-	#	#
+intransigente	-	#	#
+testarudo	-	#	#
+aislar	--	#	#													--						isolate
+aislamiento	--	#	#
+enamorado	++	E	amor		++															in love
+enamorar	+	E	amor											+						love
+enamorarse	+	E	amor
+amor	++	E	amor															++			love
+amar	+	E	amor												+						love
+querer	+	E	amor
+irónico	-	#	#													-						ironic
+ironía	-	#	#													-						irony
+irritable	-	E	ira												-						fretful
+enojadizo	-	E	ira
+irritación	-	E	ira
+irritar	-	E	ira
+romántico	+	E	amor											+						romantic
+celoso	--	E	#				--							-								jealous
+celos	--	E	#
+triste	--	E	tristeza		--			--				--								joyless, sad, sorrowful
+tristeza	--	E	tristeza										--						sadness
+entristecido	--	E	tristeza
+tristemente	--	E	tristeza										--						mournfully
+solitario	--	E	tristeza	--							--								lonely, lonesome
+solo	--	E	tristeza
+aislado	--	E	tristeza
+cansancio	-	E	#												-						exhaustion
+agotamiento	-	#	#
+extenuación	-	#	#
+señuelo	-	#	#													-						lure
+exilio	--	#	#													--						exile
+destierro	--	#	#
+sequía	-	#	#													-						drought
+atroz	--	#	#													--						heinous
+atrofia	-	#	#													-						atrophy
+abandonado	-	E	decepción										-						forlorn
+desamparado	-	E	decepción
+desgarrado	-	E	decepción
+desgarrar	-	E	decepción
+desgarrador	-	E	decepción
+abandonar	-	E	decepción										-						abandon
+desatender	-	E	decepción
+desamparar	-	E	decepción
+abandono	-	E	decepción										-						abandonment
+desamparo	-	E	decepción
+imprudente	-	#	#												-						foolish
+negligencia	-	#	#
+imprudencia	-	#	#
+agotar	-	#	#													-						deplete
+disminuir	-	#	#												-						abate, decrease, ease		Positivo: Disminuyó el nivel de delincuencia. Disminuyó su dolor. Disminuyó su valor.
+reducir	-	#	#
+mengua	-	#	#
+decrecimiento	-	#	#
+aminorar	-	#	#
+miseria	-	E	tristeza											-						misery
+resignar	-	E	decepción										-						resign
+resignarse	-	E	decepción
+resignación	-	E	decepción
+renunciar	-	E	decepción										-						forsake
+abdicar	-	E	decepción											-						abdicate
+dimitir	-	E	decepción
+quisquilloso	-	E	#											-						touchy
+malestar	-	#	#												-						discomfort
+dependiente	-	#	#												-						dependent
+descuidado	-	#	#												-						careless
+descuidar	-	#	#
+víctima	-	#	#													-						casualty
+cataclismo	--	#	#												--						cataclysm
+catástrofe	--	#	#
+catastrófico	--	#	#
+pistola	--	#	#													--						gun
+revólver	--	#	#
+arma	--	#	#
+pistolero	--	#	#												--						gunman
+piratear	-	#	#												-						hack
+bruja	-	#	#													-						hag
+vieja	-	#	#
+demacrado	-	#	#												-						haggard
+ojeroso	-	#	#
+macilento	-	#	#
+inadaptado	-	#	#												-						maladjusted
+desajustado	-	#	#
+ajuste	+	#	#													+						adjustment
+arreglo	+	#	#
+regulación	+	#	#
+adecuación	+	#	#
+inadaptación	-	#	#											-						maladjustment
+desajuste	-	#	#
+locura	-	#	#													-						madness
+conmoción	-	#	#												-						commotion
+sobresalto	-	#	#
+conmocionar	-	#	#
+sobresaltar	-	#	#
+manía	-	#	#													-						craze
+crédulo	-	#	#													-						credulous, gullible
+enfermo de amor	-	E	#		-															lovesick
+mal de amor	-	#	#
+demente	--	#	#													--						insane
+demencia	--	#	#
+disparatado	-	E	#													-					crazy
+desatinado	-	#	#
+chiflado	-	#	#
+lunático	-	#	#												-						lunatic
+loco	--	E	ira				--									--						mad					Ando como loco. Volverse loco. Loco de amor.
+orate	--	E	ira
+insensato	--	E	ira
+descabellado	--	E	ira
+melodramático	-	#	#											-						melodramatic
+melancolía	-	E	tristeza	-							-		-						melancholy
+añoranza	-	E	tristeza
+melancólico	-	E	tristeza										-						melancholic
+mustio	-	E	tristeza
+atractivo	+	#	#												+						attractive, allure
+agraciado	+	#	#
+guapo	+	#	#
+guapura	+	#	#
+acogedor	+	#	#												+						cozy
+atracción	++	#	#												++						attraction
+atraer	++	#	#													++						attract			Atraer la mala suerte.
+captar	++	#	#
+interesar	++	#	#
+lesionar	-	#	#												-						injure
+evasiva	--	#	#													--						hedge
+desatento	-	#	#												-						heedless
+inhumano	--	#	#												--						inhumane
+miserable	--	E	#			--			--				--		-						miserable
+avaro	-	E	ira													-						miser
+tacaño	-	E	ira
+mezquino	-	E	ira
+ruin	-	E	ira
+mísero	-	E	ira
+vil	-	#	#														-						vile
+desgraciado	--	#	#												--						wretch
+desdichado	--	E	tristeza										--						unfortunate
+desdicha	--	E	tristeza
+perverso	--	E	ira										--								wicked
+canalla	--	E	ira
+rufián	--	E	ira
+malicioso	--	E	ira												--						malicious
+malévolo	--	E	ira												--						spiteful
+maligno	--	E	ira													--						malignant
+malignidad	--	E	ira
+insignificante	-	#	#											-						insignificant
+irrelevante	-	#	#
+insolencia	--	#	#												--						insolence
+descaro	--	#	#
+insolente	--	#	#												--						insolent
+procaz	--	#	#
+inestabilidad	-	#	#											-						instability
+actual	+	#	#													+						actual
+presente	+	#	#
+real	+	#	#
+verdadero	+	#	#
+concreto	+	#	#
+actualidad	+	#	#												+						actuality
+realidad	+	#	#																						La realidad es muy dura.
+absolución	+	#	#												+						acquittal
+exoneración	+	#	#
+absolver	+	#	#												+						absolve
+absuelto	+	#	#
+eximir	+	#	#
+exonerar	+	#	#
+exonerado	+	#	#
+liberar	+	#	#
+perdonar	+	#	#
+abundar	+	#	#													+						abound			Abunda la estupidez.
+abundancia	++	#	#												++						abundance
+riqueza	++	#	#
+plenitud	++	#	#
+abundante	++	#	#												++						abundant, bountiful 
+aceptar	+	#	#													+						accept			Aceptó decir mentiras para lograr que lo promovieran. Acepta que la traten mal.
+adecuado	+	#	#												+						adequate
+suficiente	+	#	#
+admirable	+	E	admiración								+		+						admirable
+magnífico	++	#	#															++			great
+estupendo	++	#	#
+grandioso	++	#	#
+admisión	+	#	#												+						admittance
+adorable	+	E	admiración								+		+						adorable
+adoración	+	E	admiración								+								adoration
+adorar	+	E	admiración									+		+						adore
+adoro	+	E	admiración
+venerar	+	E	admiración
+adornar	++	#	#													++						adorn
+adorno	+	#	#													+						adornment
+decoración	+	#	#
+admitir	+	#	#													+						admit
+reconocer	+	#	#
+admirador	+	E	admiración										+						admirer
+admirar	+	E	admiración											+						admire
+admiración	++	E	admiración										++						admiration
+adecuar	+	#	#													+						befit
+ajustar	+	#	#													+						adjust
+adaptar	+	#	#
+pensión	+	#	#													+						allowance
+pensionado	+	#	#
+prestación	+	#	#
+remuneración	+	#	#
+remunerado	+	#	#
+adherente	+	#	#												+						adherent
+adherencia	+	#	#												+						adherence
+adhesión	+	#	#												+						adhesion
+aceptable	+	#	#												+						acceptable
+admisible	+	#	#												+						allowable
+permisible	+	#	#
+satisfactorio	+	#	#
+aceptación	+	#	#												+						acceptance
+aprobación	+	#	#												+						approval
+aprobado	+	#	#
+accesible	+	#	#												+						accessible
+aclamar	+	#	#													+						acclaim
+aclamado	+	#	#
+ovacionar	+	#	#
+ovacionado	+	#	#
+apreciación	+	#	#												+						appreciation
+aprecio	+	#	#
+apreciado	+	#	#
+valoración	+	#	#
+valorado	+	#	#
+apreciativo	+	#	#												+						appreciative
+sensible	+	E	love											+						sensitive
+sensibilidad	+	E	love										+						sensitivity
+respaldar	++	#	#												++						back
+apoyar	++	#	#																								Apoyar algo negativo.
+apoyo	++	#	#
+conciencia	++	#	#												++						awareness
+consciente	++	#	#
+sensibilización	++	#	#
+concienciación	++	#	#
+concienciar	++	#	#
+aclamación	+	#	#												+						acclamation
+premio	++	#	#													++						award
+premiar	++	#	#
+premiado	++	#	#
+galardón	++	#	#
+galardonado	++	#	#
+condecoración	++	#	#
+condecorado	++	#	#
+medalla	++	#	#
+elogio	++	#	#
+espaldarazo	+	#	#												+						accolade
+acomodar	+	#	#												+						accommodate
+alojar	+	#	#
+avenir	+	#	#
+alojamiento	+	#	#												+						accommodation
+acomodación	+	#	#
+alcanzar	++	#	#												++						achieve
+triunfar	++	#	#
+triunfo	++	#	#
+lograr	++	#	#													++						accomplish
+logro	++	#	#													++						accomplishment
+rendimiento	++	#	#												++						attainment
+éxito	++	#	#													++						achievement
+hazaña	++	#	#
+reconocimiento	+	#	#											+						acknowledgment
+conocido	+	#	#												+						acquaintance
+conocimiento	+	#	#											+						cognizance
+familiarizar	+	#	#											+						acquaint, familiarize
+informar	+	#	#
+conocer	+	#	#
+familiaridad	+	#	#											+						familiarity
+consentimiento	+	#	#											+						agreement
+socio	+	#	#													+						associate			Era mi socio en realizar extorsiones.
+compañero	+	#	#												+						companion
+colaborador	+	#	#												+						contributor
+donante	+	#	#
+asistir	+	#	#													+						attend
+asistido	+	#	#
+atender	+	#	#
+atendido	+	#	#
+ayudar	++	#	#													++						assist
+ayuda	++	#	#													++						aid
+socorrer	++	#	#
+auxiliar	++	#	#
+estimular	++	#	#
+asistencia	+	#	#												+						attendance
+concurrencia	+	#	#
+presencia	+	#	#
+encendido	+	#	#												+						alight
+vivo	++	#	#													++						alive
+vida	++	#	#
+viviente	++	#	#
+activo	++	#	#
+alerta	+	#	#													+						alertness		Estado de alerta. Alerta de temblor.
+atención	+	#	#																						Llamar la atención.
+armonizar	+	E	serenidad										+						attune
+armonía	+	E	serenidad
+coordinar	++	#	#												++						coordinate
+audible	++	#	#													++						audible			
+perceptible	++	#	#																						Percibir algo negativo.
+acuerdo	+	#	#													+						accord
+consenso	+	#	#												+						consensus
+convenio	+	#	#
+concordar	+	#	#
+dar	+	#	#																								Le dio unos golpes.
+conceder	+	#	#
+pactar	+	#	#
+otorgar	+	#	#
+concordancia	+	#	#											+						accordance
+congruencia	+	#	#
+conformidad	+	#	#
+responsable	+	#	#												+						accountable
+acompañamiento	+	#	#											+						accompaniment
+insuficiencia	-	#	#											-						insufficiency
+insuficiente	-	#	#											-						insufficient
+escaso	-	#	#													-						meager
+humilde	-	#	#													-						lowly
+cruel	--	E	ira													--						cruel
+crueldad	--	E	ira
+malvado	--	E	ira													--						evil
+conmovido	++	E	#			++															moved, touched
+conmover	++	E	#
+estremecer	++	E	#
+motivado	+	E													+						motivated
+ternura	+	E	love												+						tenderness
+tierno	+	E	love
+enternecer	+	E	love
+doliente	-	E	tristeza										-						mourner
+ensimismado	-	E	tristeza										-						myself
+ensimismarse	-	E	tristeza
+interferir	--	#	#												--						interfere
+inmiscuirse	-	#	#												-						meddle
+entrometerse	-	#	#											-						intrude
+interferencia	--	#	#											--						interference
+intromisión	--	#	#												--						intrusion
+interrupción	--	#	#											--						interruption
+indignado	-	E	ira										-								indignant
+ultrajado	--	E	ira			--															outraged
+ultrajar	--	E	ira
+violentar	--	E	ira
+atropellar	--	E	ira
+atropellado	--	E	ira
+ultraje	--	E	ira
+injusticia	--	E	ira
+atropello	--	E	ira												--						outrage
+atrocidad	--	E	ira
+atentado	--	E	ira
+desafuero	--	E	ira
+abuso	--	#	#													--						abuse
+abusar	--	#	#
+abusivo	--	#	#
+maltrato	--	#	#
+maltratar	--	#	#
+abismo	-	#	#													-						abyss
+precipicio	-	#	#
+sima	-	#	#
+accidente	-	#	#												-						accident
+percance	-	#	#
+incidente	-	#	#
+contratiempo	-	#	#
+amenidad	+	#	#												+						amenity
+ameno	+	#	#
+comodidad	+	#	#												+						comfort
+consolar	+	E	serenidad										+						console
+consolado	+	E	serenidad
+consuelo	+	E	serenidad
+reconfortar	+	E	serenidad
+reconfortado	+	E	serenidad
+inflamar	--	#	#												--						inflame
+villano	--	#	#													--						villain
+infringir	--	#	#												--						infringement
+violar	--	#	#													--						violate
+violado	--	#	#
+transgredir	--	#	#
+transgresión	--	#	#
+invasión	--	#	#
+intimidar	--	E	miedo											--						intimidate
+amedrentar	--	E	miedo
+amedrentado	--	E	miedo
+amedrentamiento	--	E	miedo
+amenazar	--	E	miedo
+tiranizar	--	E	miedo
+criado	-	#	#													-						menial			Criado por sus padres.
+servil	-	#	#
+amenaza	--	#	#													--						menace
+intolerable	-	E	#												-						intolerable
+insoportable	-	#	#
+insostenible	-	#	#
+desechos	-	#	#												-						litter
+desperdicios	-	#	#
+cojera	-	#	#													-						limp
+limitación	-	#	#												-						limitation
+intoxicar	-	#	#												-						intoxicate
+intoxicado	-	#	#
+intoxicación	-	#	#
+inflación	-	#	#												-						inflation
+infligir	-	#	#												-						inflict
+infiltración	--	#	#											--						infiltration
+infracción	-	#	#												-						infraction
+chocar	--	#	#													--						collide
+colisionar	--	#	#
+colusión	--	#	#												--						collusion
+confabular	--	#	#
+confabulación	--	#	#
+conspirar	--	#	#												--						conspiracy
+conspiración	--	#	#
+complot	--	#	#
+tuberculoso	--	#	#												--						consumptive
+tísico	--	#	#
+infección	--	#	#												--						infection
+infectado	--	#	#
+contagio	--	#	#
+infestación	--	#	#
+infestado	--	#	#
+infectar	--	#	#												--						infect
+infestar	-	#	#												-						infest
+contagioso	-	#	#												-						contagious
+contaminar	--	#	#												--						contaminate
+contaminación	--	#	#
+contaminado	--	#	#
+contaminante	--	#	#
+corromper	--	#	#
+corromperse	--	#	#
+corrompido	--	#	#
+arrebatar	--	#	#												--						grab
+arrebatado	--	#	#
+despojar	--	#	#
+saquear	--	#	#
+saqueado	--	#	#
+apego	+	E	#													+						attachment
+indiferencia	-	E	desprecio									-						indifference
+desinterés	-	E	desprecio
+displicencia	-	E	desprecio
+inferior	-	#	#												-						inferior			Ser inferior. La parte inferior de la caja.
+inferioridad	-	#	#											-						inferiority
+mediocridad	-	#	#
+lidiar	--	#	#													--						grapple
+costoso	-	#	#													-						costly
+caro	-	#	#													-						expensive
+maldito	--	#	#													--						accursed, damn, darn
+maldecir	--	#	#												--						curse
+blasfemar	--	#	#
+palabrota	--	#	#
+condenar	--	#	#												--						condemn
+sentenciar	--	#	#
+condenación	--	#	#												--						condemnation
+condenado	--	#	#
+acusación	--	#	#												--						accusation
+asusado	--	#	#
+imputación	--	#	#
+culpar	--	E	culpabilidad										--						accuse, blame
+inculpar	--	E	culpabilidad
+fractura	-	#	#												-						fracture
+fracturar	-	#	#
+fracturado	-	#	#
+fracturarse	-	#	#
+insulso	-	#	#													-						bland
+soso	-	#	#
+desenmascarar	-	#	#											-						expose
+desenmascarado	-	#	#
+expuesto	-	#	#															-			exposed
+explosión	--	#	#												--						blast
+estallido	--	#	#
+descarado	--	#	#												--						blatant, brazen
+incumplimiento	--	#	#											--						breach
+violación	--	#	#												--						violation
+romper	--	#	#													--						break
+rompimiento	--	#	#
+quebrar	--	#	#
+interrumpir	-	#	#												-						break
+fallo	-	#	#													-						breakdown
+ruptura	-	#	#
+avería	-	#	#
+averiado	-	#	#
+desperfecto	-	#	#
+fracaso	-	E	decepción											-						failure
+fracasado	-	E	decepción
+fracasar	-	E	decepción										-						founder
+hundirse	-	E	decepción
+descomponerse	-	#	#											-						decompose
+descomposición	-	#	#
+descompuesto	-	#	#
+descomponer	-	#	#
+colapso	-	#	#													-						collapse
+colapsar	-	#	#
+derrumbe	-	#	#
+derrumbar	-	#	#
+caída	-	#	#													-						downfall
+desmoronar	-	E	tristeza										-						crumble
+desmoronado	-	E	tristeza
+complejo	-	#	#												-						complex
+complejidad	-	#	#
+complicado	-	#	#
+complicar	-	#	#
+complicidad	-	#	#												-						complicity
+cómplice	-	#	#
+ocultar	--	#	#													--						conceal
+esconder	--	#	#
+encubrir	--	#	#
+borracho	-	#	#												-						drunk
+briago	-	#	#
+ebrio	-	#	#
+alcoholizado	-	#	#
+alcoholizar	-	#	#
+embriagar	-	#	#
+emborrachar	-	#	#
+cortar	--	#	#													--						cut
+cínico	--	#	#													--						cynical
+cinismo	--	#	#
+codiciar	-	#	#												-						covet
+confesar	-	#	#												-						confess
+confinar	--	#	#												--						confine
+confinado	--	#	#
+limitar	--	#	#													--						limit
+limitarse	--	#	#
+limitado	--	#	#
+restringir	--	#	#												--						curtail
+restringido	--	#	#
+escatimar	--	#	#
+escatimado	--	#	#
+restricción	--	#	#												--						constraint
+limitación	--	#	#
+encierro	--	#	#												--						confinement
+encerrado	--	#	#
+reclusión	--	#	#
+prisión	--	#	#
+cárcel	-	#	#													-						jail
+confiscar	-	#	#												-						confiscate
+embargar	-	#	#
+embargado	-	#	#
+decomisar	-	#	#
+decomisado	-	#	#
+incautar	-	#	#
+excluir	--	#	#													--						exclude
+excluido	--	#	#
+exclusión	--	#	#
+confrontar	--	#	#												--						confront
+confrontación	--	#	#											--						confrontation
+congestionar	-	#	#											-						congested
+congestionado	-	#	#
+saturado	-	#	#
+aglomeración	-	#	#											-						congestion
+embotellamiento	-	#	#
+ágil	++	#	#													++						agile
+agilidad	++	#	#												++						agility
+tambalearse	-	#	#												-						flounder
+derribar	--	#	#												--						floor
+confundir	-	#	#												-						confound, confuse
+confundido	-	#	#
+crudo	-	#	#													-						crude
+soborno	-	#	#													-						bribe
+sobornar	-	#	#
+sobornado	-	#	#
+frágil	-	#	#													-						brittle
+dolor	-	E	#													-						ache, ail, pain
+doloroso	-	#	#
+achaque	-	#	#
+indisposición	-	#	#
+indigestión	-	#	#
+sin objetivo	-	#	#											-						aimless
+sin meta	-	#	#
+suplicio	-	#	#
+exceso	-	#	#													-						excess
+desmán	-	#	#
+excesivo	-	#	#												-						excessive		Excesivamente bueno.
+excesivamente	-	#	#
+desmesurado	-	#	#
+desmedido	-	#	#
+gratitud	+	E	gratitud										+						gratitude
+agradecer	+	E	gratitud										+						thank
+agradecido	+	E	gratitud
+agradecimiento	+	E	gratitud
+ingratitud	-	#	#												-						ingratitude
+deslealtad	-	#	#
+desleal	-	#	#
+lealtad	+	#	#													+						allegiance
+fidelidad	+	#	#
+obediencia	+	#	#
+obediente	+	#	#
+aliviar	+	E	serenidad											+						alleviate, relieve
+alivio	+	E	serenidad
+mitigar	+	E	serenidad
+sosegar	+	E	serenidad
+sosiego	+	E	serenidad
+aligerar	+	E	serenidad
+calmar	+	E	serenidad
+desahogo	+	E	serenidad										+						relief
+satisfacer	+	E	#												+						satisfy
+complacer	+	#	#
+garantía	++	#	#												++						assurance
+aseguramiento	++	#	#
+asegurar	++	#	#												++						assure, ensure
+asegurado	++	#	#
+garantizar	++	#	#
+garantizado	++	#	#
+ciertamente	++	#	#												++						assuredly
+altruista	+	#	#												+						altruistic
+todopoderoso	++	E	#											++						almighty
+omnipotente	++	#	#
+aliar	++	#	#													++						ally
+alianza	++	#	#													++						alliance
+unión	++	#	#
+unirse	++	#	#
+aliado	++	#	#													++						allied
+afín	++	#	#
+permitir	+	#	#												+						allow			Le permitió hacer travesuras.
+autorizar	+	#	#
+inhibir	--	#	#													--						inhibit
+inhibición	--	#	#												--						inhibition
+objeción	--	#	#												--						exception
+exasperar	-	E	ira												-						exasperate
+exasperante	-	E	ira
+exasperación	-	E	ira											-	-					exasperation
+crimen	--	E	ira													--						crime
+criminal	--	E	ira
+lisiado	--	#	#													--						cripple
+lisiar	--	#	#
+tullido	--	#	#
+inválido	--	#	#
+invisible	-	#	#												-						invisible
+involuntario	-	#	#											-						involuntary
+crisis	-	#	#													-						crisis
+crítico	--	#	#													--						critic			comentarista, periodista, informador.
+criticar	--	#	#												--						criticize
+criticado	--	#	#
+conflicto	--	#	#												--						conflict
+conflictivo	--	#	#
+desacuerdo	--	#	#												--						disagreement
+disconformidad	--	#	#
+acrimonia	--	#	#												--						acrimony
+sarcasmo	--	#	#												--						sarcasm
+sarcástico	--	#	#												--						sarcastic
+droga	-	#	#													-						dope
+drogar	-	#	#
+drogarse	-	#	#
+estupefacientes	-	#	#
+adicto	-	#	#													-						addict
+drogadicto	-	#	#
+toxicomanía	-	#	#
+adicción	-	#	#												-						addiction
+vicio	-	#	#
+amonestar	--	#	#												--						admonish
+recriminar	--	#	#
+reprobar	--	#	#
+reprochar	--	#	#
+grasa	-	#	#													-						fat
+manteca	-	#	#
+gordo	-	#	#
+grasiento	-	#	#
+adulterar	-	#	#												-						adulterate
+adulterado	-	#	#
+farsa	-	#	#													-						farce
+falsificación	-	#	#											-						fake
+farsante	-	#	#
+impostor	-	#	#
+falsificar	-	#	#												-						counterfeit
+adulterio	-	#	#												-						adultery
+infidelidad	-	#	#
+fe	+	E	#														-						faith
+infiel	-	#	#													-						unfaithful
+adversario	-	#	#												-						adversary
+rival	-	#	#
+rivalidad	-	#	#
+contra	-	#	#													-						against
+antagonismo	--	E	#												--						antagonism
+oposición	--	#	#
+antisocial	-	#	#												-						antisocial
+abrumado	-	E	#			-															overwhelmed
+atareado	-	#	#
+apasionado	++	E	amor		++							+		++						passionate
+apasionar	++	E	amor
+fobia	-	E	miedo												-						phobia
+petrificado	--	E	miedo		--															petrified
+paralizar	--	E	miedo
+paralizado	--	E	miedo
+complacido	++	E	#			++			+				++								pleased
+orgulloso	++	E	#			++															proud
+enorgullecer	++	#	#
+ampliar	++	#	#													++						amplify
+aumentar	+	#	#												+						augment			Aumentó el índice de asesinatos.
+incrementar	+	#	#																						Incrementaron los precios.
+elevar	+	#	#
+ampliamente	++	#	#
+abundantemente	++	#	#											++						amply
+suficientemente	++	#	#
+adecuadamente	++	#	#
+deponer	--	#	#													--						depose
+destituir	--	#	#
+aliviado	++	E	serenidad	++															relieved
+liberado	++	E	serenidad
+confortar	++	E	serenidad
+mejorar	++	#	#													++						enhance
+recuperarse	++	#	#
+mejorarse	++	#	#
+resentido	-	E	ira			-															resentful
+agraviado	-	E	ira
+rencor	--	E	odio												--						grudge
+rencoroso	--	E	odio
+encono	--	E	odio
+enconado	--	E	odio											--						acrimonious
+resentimiento	--	E	ira											--						resentment
+satisfecho	+	E	alegría		+															satisfied
+autocompasión	--	E	#		--															self pitying
+lástima	--	E	#													--						pity
+acosar	-	E	ira													-						beset
+acosado	-	E	ira													-						harassed
+asediar	--	E	ira													--						besiege
+sitiar	--	E	ira
+traicionar	--	#	#												--						betray
+traicionado	--	#	#
+traidor	--	#	#													--						betrayer
+traición	--	#	#												--						betrayal
+engañar	--	#	#													--						fool
+engaño	--	#	#
+engañado	--	#	#
+malintencionado	--	E	ira											--						bitchy
+perra	--	#	#													--						bitch
+puta	--	#	#
+bizarro	-	#	#													-						bizarre
+estrafalario	-	#	#
+raro	-	#	#
+extraño	-	#	#													-						foreign
+extravagante	-	#	#											-						extravagant
+desplazar	-	#	#										-						displace
+desbancar	-	#	#
+chantaje	-	#	#												-						blackmail
+chantajear	-	#	#
+extorsión	--	#	#															--			extortion
+extorsionado	--	#	#
+extorsionar	--	#	#
+desorganizado	-	#	#											-						disorganized
+incredulidad	--	#	#											--						disbelief
+incrédulo	--	#	#
+trastorno	--	#	#												--						disorder
+disturbio	--	#	#												--						disturbance
+perturbado	--	E	#			--									--						shook-up, agitate
+trastornado	--	#	#
+desequilibrado	--	#	#
+desquiciado	--	#	#
+turbado	--	#	#
+perturbar	--	E	#													--					disturb
+turbar	--	#	#
+trastornar	--	#	#
+perturbador	--	#	#															--			disturbing
+perturbación	--	#	#
+tumba	-	#	#													-						tumba
+sepultura	-	#	#
+inmundo	-	#	#													-						filthy
+mugriento	-	#	#
+puerco	-	#	#
+suciedad	-	#	#												-						dirt
+mugre	-	#	#
+porquería	-	#	#
+basura	-	#	#													-						junk
+chatarra	-	#	#
+baratija	-	#	#
+secuestrar	--	#	#												--						kidnap
+patear	--	#	#													--						kick
+pateado	--	#	#
+inmundicia	-	#	#												-						filth
+cochinada	-	#	#
+ensuciar	-	#	#												-						dirty
+cochino	-	#	#
+grave	--	#	#													--						dire
+nefasto	--	#	#
+funesto	--	#	#
+frígido	-	#	#													-						frigid
+espantoso	-	E	miedo											-						frightful
+enfermo	--	E	#				--															sickened, ill
+indispuesto	--	#	#
+morboso	--	#	#
+enfermizo	--	#	#
+nocivo	--	#	#
+patología	--	#	#
+anorexia	--	#	#
+anoréxico	--	#	#
+bulimia	--	#	#
+bulímico	--	#	#
+dolorido	-	E	#												-						sore
+inflamado	-	#	#
+inflamación	-	#	#												-						soreness
+sollozar	-	E	tristeza										-						sob
+aterrorizar	--	E	miedo											--						terrify
+aterrorizado	--	E	miedo	--															terrified
+despavorido	--	E	miedo
+acoso	--	E	ira													--						harassment
+hostigamiento	--	E	ira
+hostigar	--	E	ira
+emocionado	++	E	alegría		++															thrilled
+atormentado	--	E	ira			--															tormented
+torturar	--	E	ira
+tortura	--	E	ira
+torturado	--	E	ira
+martirizar	--	E	ira
+martirio	--	E	ira
+hostilizar	--	E	ira
+atormentar	--	E	ira
+tormento	--	E	ira
+acribillar	--	E	ira
+fuego	--	#	#													--						fire
+incendio	--	#	#
+lumbre	--	#	#
+disparar	--	#	#
+incendiar	--	#	#
+inquietarse	-	E	desesperación									-						fret
+inquietar	-	E	desesperación
+impacientarse	-	E	desesperación
+impacientar	-	E	desesperación
+travesura	-	#	#												-						mischief
+diablura	-	#	#
+trastada	-	#	#
+travieso	-	#	#												-						mischievous
+inquieto	-	E	desesperación	-								-						uneasy
+infeliz	--	E	tristeza		--									--						unhappy
+hostil	--	E	ira											--		--						hostile
+hostilidad	--	E	ira												--						hostility
+hostilmente	--	E	ira
+multa	-	#	#													-						fine
+multar	-	#	#
+enemigo	--	E	ira													--						enemy
+adverso	-	E	ira													-						adverse
+negativo	-	#	#
+adversidad	-	E	ira												-						adversity
+refutar	-	#	#													-						disprove
+infortunio	-	#	#
+afectación	-	#	#												-						affectation
+alarmado	--	E	miedo					--				--								alarmed
+alarmar	--	E	miedo
+odioso	--	E	odio										--								hateful
+odio	--	E	odio												--						hate
+odiar	--	E	E	odio
+detestar	--	E	odio											--						detest
+detestado	--	E	odio
+detestable	--	E	odio											--						damnable
+detraer	-	#	#													-						detract
+menoscabar	-	#	#
+desvirtuar	-	#	#
+perseguir	--	#	#												--						haunt
+perseguido	--	#	#
+obsesionar	--	#	#
+obsesionado	--	#	#
+estrago	-	#	#													-						havoc
+arrogante	--	E	#												--						haughty
+envanecido	--	#	#
+altanero	--	#	#
+altivo	--	#	#
+soberbio	--	#	#
+divorcio	--	#	#												--						divorce
+desviar	-	#	#													-						deviate
+aborrecer	--	E	asco											--						abhor, loathing
+aborrecimiento	--	E	asco
+aborrecido	--	E	asco
+aborrecible	--	E	asco
+abyecto	-	#	#													-						abject
+anormal	-	#	#													-						abnormal
+deforme	-	#	#
+deficiente	-	#	#
+irresponsable	-	#	#											-						irresponsible
+irregularidad	-	#	#											-						irregularity
+defecto	-	#	#													-						defect
+falla	-	#	#
+defectuoso	-	#	#												-						defective
+incompleto	-	#	#
+demandado	-	#	#												-						defendant
+deficiencia	-	#	#												-						deficiency
+profanar	--	#	#												--						defile
+anómalo	-	#	#													-						anomalous
+anomalía	-	#	#												-						anomaly
+abolir	--	#	#													--						abolish
+derogar	--	#	#
+abrogar	--	#	#
+infame	-	#	#													-						infamous
+rastrero	-	#	#
+sucio	-	#	#
+desaliñado	-	#	#
+guarro	-	#	#
+extinguir	--	#	#												--						extinguish
+extinto	--	#	#
+extinción	--	#	#
+somnoliento	-	#	#						-						-						drowsiness
+somnolencia	-	#	#
+desvelado	-	#	#
+desvelar	-	#	#
+adormecido	-	#	#												-						drowsy
+depreciación	-	#	#											-						depreciation
+devaluación	-	#	#
+devaluado	-	#	#
+degenerado	-	#	#												-						degenerate
+depravado	-	#	#												-						depraved
+demonio	--	#	#													--						demon
+demoniaco	--	#	#
+diablo	--	#	#													--						devil
+diabólico	--	#	#												--						devilish, diabolic
+endemoniado	--	E	ira												--						damned
+endiablado	--	E	ira
+endiablar	--	E	ira
+endemoniar	--	E	ira
+rogar	-	#	#													-						entreat
+mendigar	-	#	#												-						beg
+suplicar	-	#	#
+implorar	-	#	#												-						beseech
+mendigo	-	#	#													-						beggar
+pordiosero	-	#	#
+pobre	-	#	#
+pobreza	-	#	#
+indigencia	-	#	#
+decapitar	--	#	#												--						behead
+decapitado	--	#	#
+degollar	--	#	#
+degollado	--	#	#
+mentiroso	--	#	#												--						liar
+embustero	--	#	#
+mentira	--	#	#													--						lie
+mentir	--	#	#
+tardío	-	#	#													-						belated
+derrota	--	#	#													--						defeat
+derrotado	--	#	#
+desmentir	--	#	#												--						belie
+contradecir	--	#	#												--						contradict
+menospreciar	--	#	#											--						belittle
+menosprecio	--	#	#
+desestimar	--	#	#
+subestimar	--	#	#
+indigente	-	#	#												-						destitute
+soledad	-	E	tristeza											-						loneliness
+desolación	-	E	tristeza										-						desolation
+inconsolable	-	E	desesperación						-								inconsolable
+desesperación	-	E	desesperación								-						desperation
+desesperar	-	E	desesperación									-						despair
+desconsolado	--	E	tristeza		--													grief-stricken
+beligerante	--	#	#												--						belligerent
+privar	--	#	#													--						deprive
+desproveer	--	#	#
+desproporcionado	-	#	#										-						desproporcionate
+luto	-	E	tristeza											-						bereavement
+duelo	-	E	tristeza
+enloquecido	--	E	#												--						berserk
+antipatía	-	#	#												-						antipathy
+antipático	-	#	#
+anticuado	-	#	#												-						antiquated
+obsoleto	-	#	#
+abominable	--	E	ira												--						abominable
+abominar	--	E	ira
+abominación	--	E	ira
+repudiable	--	E	ira
+repudiar	--	E	ira
+abrasivo	--	#	#												--						abrasive
+abrupto	-	#	#													-						abrupt
+brusco	--	#	#													--						brusque
+rudo	--	#	#
+tosco	--	#	#													--						gruff
+brutalidad	--	#	#												--						brutality
+bruto	--	#	#													--						brute
+brutal	--	#	#													--						brutish
+salvaje	--	#	#
+torcer	-	#	#													-						buckle
+virus	--	#	#													--						bug
+bala	--	#	#													--						bullet
+holgazán	-	#	#												-						bum
+holgazanear	-	#	#												-						dawdle
+vago	-	#	#
+vagabundo	-	#	#
+prohibir	-	#	#												-						forbid
+prohibido	-	#	#												-						forbidden
+prohibición	-	#	#
+exageración	-	#	#												-						exaggeration
+exagerado	-	#	#
+estropear	-	#	#												-						bungle
+estropeado	-	#	#
+desfigurar	-	#	#
+desfigurado	-	#	#
+embarullar	-	#	#
+deuda	-	#	#													-						liability
+dejar	-	#	#													-						let					Dejar de consumir drogas.
+fuga	-	#	#													-						leak
+gravoso	-	#	#													-						burdensome
+ladrón	--	#	#													--						burglar
+ratero	--	#	#
+fugarse	--	#	#													--						abscond
+huir	--	#	#													--						fled
+escapar	--	#	#
+pasajero	-	#	#												-						fleeting			Pasajeros del autobús.
+evadir	-	#	#													-						evade
+eludir	-	#	#
+desertar	--	#	#												--						desert
+desertor	--	#	#
+quemar	-	#	#													-						burn
+arder	-	#	#
+ardido	-	#	#
+enterrar	-	#	#												-						bury
+sepultar	-	#	#
+inhumar	-	#	#
+retraso	-	#	#													-						lag
+rezago	-	#	#
+rezagarse	-	#	#
+rezagado	-	#	#
+atrasarse	-	#	#
+atrasar	-	#	#
+carencia	-	#	#												-						deficit
+carente	-	#	#
+ausencia	-	#	#												-						absence
+faltar	-	#	#
+falta	-	#	#													-						lack
+carecer	-	#	#
+ausente	-	#	#													-						absent
+absentista	-	#	#												-						absentee
+irracional	-	#	#												-						irrational
+absurdo	-	#	#													-						absurd
+incoherente	-	#	#
+incongruente	-	#	#
+inadmisible	-	#	#
+necedad	-	#	#													-						foolishness
+tontería	-	#	#
+pendejez	-	#	#
+idiotez	-	#	#
+ridiculez	-	#	#
+pendejada	-	#	#
+putería	-	#	#
+ególatra	--	#	#												--						egotistical
+arrastrarse	-	#	#												-						crawl
+absurdidad	-	#	#												-						absurdity
+disparate	-	#	#												-						blunder
+estupidez	-	#	#
+sandez	-	#	#
+desafiante	--	E	#										--								defiant
+retador	--	#	#
+sumiso	-	#	#													-						meek
+tenso	--	E	#							--				--		--						tense
+desprecio	--	E	desprecio										--						scorn
+despreciar	--	E	desprecio
+despreciado	--	E	desprecio										--						scornful
+despreciativo	--	E	desprecio							--		--						contemptuous, contempt
+despreciable	--	E	desprecio									--						contemptible
+humillar	--	E	desprecio										--						humiliate
+humillación	--	E	desprecio										--						humiliation
+desvalorizado	--	E	desprecio	--														deflated
+rebajado	--	E	desprecio																					Hacer más bajo el nivel o superficie horizontal de un terreno u otro objeto.	Hacer nueva baja de una cantidad en las apuestas.	Disminuir el precio de algo.	Humillar.	
+humillado	--	E	desprecio
+desprestigiar	--	E	desprecio
+desprestigiado	--	E	desprecio
+denigrar	--	E	desprecio
+denigrante	--	E	desprecio
+denigrado	--	E	desprecio
+calumniar	--	E	desprecio
+calumniado	--	E	desprecio
+degradar	--	E	desprecio										--						degrade
+degradado	--	E	desprecio
+envilecer	--	E	desprecio
+difamar	-	E	desprecio											-						defame
+insultado	-	E	desprecio								-								insulted
+insultar	-	E	desprecio										-						insult
+injuriar	-	E	desprecio
+injuria	--	E	desprecio
+injurioso	--	E	desprecio										--						injurious
+dañoso	--	E	desprecio
+pernicioso	--	E	desprecio
+insulto	-	E	desprecio
+desdén	-	E	desprecio									-		-						disdain
+desdedñar	-	E	desprecio
+desconfiado	-	E	#										-		-						suspicious, distrustful
+desconfianza	-	#	#
+sospechoso	-	#	#
+turbio	-	#	#
+sospechar	-	E	#												-						suspicion
+sospecha	-	#	#
+desconfiar	-	#	#
+opaco	-	#	#													-						dull
+opacar	-	#	#
+pálido	-	#	#
+aburrimiento	-	E	aburrimiento						-								tedium, boredom
+aburrido	-	E	aburimiento				-				-		-						bored
+tedioso	-	E	aburrimiento
+desganado	-	E	aburrimiento
+inapetente	-	E	aburrimiento
+tedio	-	E	aburrimiento								-								ennui
+languidez	-	E	aburrimiento							-								languor
+pesimista	--	E	#						--				--								gloomy
+pesimismo	--	#	#
+tenebroso	--	#	#
+pésimo	--	#	#
+cuerno	-	#	#													-						horn
+desesperanzado	-	E	desesperación						-		-						hopeless
+desesperanza	-	E	desesperación
+horda	-	#	#													-						horde
+desesperado	--	E	desesperación							--								desperate
+indiferente	-	E													-						indifferent
+impasible	-	#	#
+mediocre	-	#	#												-						mediocre
+apático	-	E	#											-		-						apathetic
+apatía	-	E	#
+dejado	-	#	#
+indolente	-	#	#
+desidioso	-	#	#
+duda	-	E	#													-						doubt
+dudoso	--	E	#											--								doubtful
+dudar	--	#	#
+incierto	--	#	#
+problemático	--	#	#
+indeciso	--	E	miedo									--								hesitant
+vacilante	--	E	miedo
+titubeante	--	E	miedo
+confuso	--	E	miedo
+perezosamente	-	#	#											-						lazily
+perezoso	-	#	#												-						lazy
+ociosidad	-	#	#												-						idleness
+holgazanería	-	#	#
+desocupación	-	#	#
+flojera	-	#	#
+desidia	-	#	#
+ocioso	-	#	#																-			idle
+vago	-	#	#
+haragán	-	#	#
+incurable	-	#	#												-						incurable
+incorregible	-	#	#
+irremediable	-	#	#
+innoble	-	#	#													-						ignoble
+ignorancia	-	#	#												-						ignorance
+ignorante	-	#	#												-						ignorant
+tonto	-	#	#													-						fool
+menso	-	#	#
+necio	-	#	#
+imbécil	-	#	#
+baboso	-	#	#
+ojete	-	#	#
+idiota	-	#	#													-						idiot
+idiotizar	-	#	#
+idiotizado	-	#	#
+pérdida	-	#	#													-						forfeit
+pérdida	-	#	#													-						loss
+extravío	-	#	#
+perder	-	#	#													-						lose
+extraviar	-	#	#
+perdedor	-	#	#												-						loser
+olvido	-	#	#													-						forgetfulness
+desmayarse	-	#	#												-						faint
+desmayo	-	#	#
+moribundo	-	#	#										-								dying
+excéntrico	-	#	#										-								eccentric
+excentricidad	-	#	#
+debilidad	-	#	#												-						foible
+débil	-	#	#											-								languid
+flojo	-	#	#													-						feeble
+endeble	-	#	#													-						flimsy
+arrepentido	-	E	culpabilidad	-														regretful, remorseful
+arrepentimiento	-	E	culpabilidad
+arrepentir	-	E	culpabilidad
+arrepentirse	-	E	culpabilidad
+penitencia	-	E	culpabilidad
+penitenciar	-	E	culpabilidad
+contrición	-	E	culpabilidad							-								contrition
+remordimiento	-	E	culpabilidad								-						remorse
+remorder	-	E	culpabilidad
+remuerde	-	E	culpabilidad
+sentirse culpable	-	E	culpabilidad					-								feel guilt
+culpabilidad	-	E	culpabilidad								-						guilt
+culpa	-	E	culpabilidad										-						fault
+tachar de	-	E	culpabilidad
+culpable	-	E	culpabilidad									-						culpable, culprit, guilty
+engorroso	--	#	#												--						cumbersome
+armatoste	--	#	#
+deshonra	-	E	vergüenza										-						disgrace
+deshonrado	-	E	vergüenza
+infamante	-	E	vergüenza
+vergüenza	-	E	vergüenza										-						shame
+vergonzoso	-	E	vergüenza										-						shameful
+desvergonzado	-	E	vergüenza									-						shameless
+sinvergüenza	-	E	vergüenza
+fatiga	-	#	#													-						fatigue
+fatigar	-	#	#
+cansar	-	#	#
+cansado	--	E	#											--								tired
+fatigado	--	#	#
+extenuado	--	#	#
+extenuante	--	#	#
+extenúa	--	#	#
+exhausto	--	#	#
+exhaustivo	--	#	#
+rendido	--	#	#
+agotado	--	#	#
+asombro	++	E	sorpresa											++						amazement
+sopresa	++	E	sorpresa
+asombroso	++	E	sorpresa										++						amazing
+sorprendente	++	E	sorpresa
+increíble	++	E	sorpresa
+extraordinario	++	E	sorpresa									++						extraordinary
+excepcional	++	E	sorpresa
+despierto	++	E	#						++				++								aroused
+asombrar	++	E	sorpresa										++						astound
+sorprender	++	E	sorpresa
+asombrado	++	E	sorpresa				++				++								astonished
+sorprendido	++	E	sorpresa
+maravillado	++	E	admiración								++								marvel, wonder
+maravilloso	++	E	admiración
+maravillosamente	++	E	admiración
+maravillar	++	E	admiración
+maravilla	++	E	admiración
+extasiado	+	E	alegría									+								rapt
+éxtasis	+	E	alegría												+						ecstasy
+extático	+	E	alegría											+						ecstatic
+adaptabilidad	++	#	#									++								adaptability
+versatilidad	++	#	#
+versátil	++	#	#
+experto	++	#	#											++								adept
+especialista	++	#	#
+adaptado	++	#	#										++								adaptive
+adaptación	++	#	#										++								adaptation
+adaptable	++	#	#										++								adaptable
+flexible	++	#	#
+ajustable	+	#	#										+								adjustable
+triunfante	++	E	#										++		++						triumphant
+victorioso	++	#	#
+convencido	+	E	#										+								convinced
+seguro de si mismo	++	E	#								++								self-confident							
+valiente	++	E	#										++		++						courageous, brave
+afrontar	++	#	#
+valeroso	++	#	#
+audaz	++	#	#
+intrépido	++	#	#										++								dauntless
+amplio	++	#	#											++								ample
+generoso	++	#	#
+grande	++	#	#
+firme	++	#	#											++								adamant
+firmeza	++	#	#
+decidido	++	E	#										++								determined
+interesado	+	E	#										+								interested			mostrar interés. Es un interesado, sólo le importa el dinero.
+expectante	+	E	#										+								expectant
+agradable	+	#	#										+								agreeable
+placentero	+	E	felicidad										+						pleasurable
+grato	+	E	felicidad
+amigable	++	E	amor									++								friendly
+amistoso	++	E	amor
+amigo	++	E	amor
+amistosamente	++	E	amor
+acogedoramente	++	E	amor
+cordial	+	#	#													+						cordial
+cordialmente	+	#	#
+relajado	++	E	serenidad								++								relaxed
+pacífico	++	E	serenidad								++								peaceful
+esperanzado	+	E	#										+		+						hopeful				Lleno de esperanzas.
+cariñoso	+	E	amor											+						affectionate
+encariñar	+	E	amor
+encariñado	+	E	amor
+encariñarse	+	E	amor
+afinidad	++	#	#												++						affinity
+simpatía	+	E	#												+						sympathy
+apaciguar	+	#	#												+						appease
+aplacar	+	#	#
+aplaudir	+	#	#												+						applaud
+aprobar	+	#	#
+alabar	+	#	#
+aplauso	+	#	#												+						applause
+ovación	+	#	#
+apreciable	++	#	#												++						appreciable
+considerable	++	#	#
+estimable	++	#	#
+importante	+	#	#												+						important
+apreciar	+	#	#												+						appreciate
+entender	+	#	#
+afirmar	++	#	#													++						affirm
+ratificar	++	#	#
+confirmar	++	#	#																					Confirmé que no me quería.	
+sostener	++	#	#
+bienestar	+	#	#												+						welfare
+prosperidad	+	#	#												+						affluence
+afluencia	+	#	#
+holgura	+	#	#
+opulencia	+	#	#
+afluente	+	#	#												+						affluent
+rico	+	#	#
+opulencia	+	#	#
+acomodado	+	#	#
+próspero	+	#	#
+solvente	++	#	#												++						afloat
+agregar	+	#	#													+						aggregate
+sumar	+	#	#
+agregación	+	#	#												+						aggregation
+acopio	+	#	#
+incorporación	+	#	#
+aserción	+	#	#												+						assertion
+confirmación	+	#	#
+reafirmación	+	#	#
+afirmativo	+	#	#												+						affirmative
+afirmación	+	#	#												+						affirmation		Es una afirmación muy grave.
+amoroso	++	E	amor										++								amorous
+afectuoso	++	E	amor
+seguro	++	E	#	#										+		++						confident
+confiado	+	#	#
+convencido	+	#	#
+seguridad	++	E	#												++						certain
+reverente	++	E	#										++								reverent
+concienzudo	++	E	#										++		+						conscientious
+esmerado	++	#	#
+escrupuloso	++	#	#
+minucioso	++	#	#
+respetuoso	++	E	#										++								polite
+amable	++	#	#
+cortés	+	#	#													+						courteous
+atento	+	E	#											+		+						attentive
+anhelar	+	#	#
+propicio	+	#	#												+						auspicious
+autónomo	++	#	#												++						autonomous
+autonomía	++	#	#
+disponibilidad	+	#	#											+						availability
+disponible	+	#	#
+bautismo	+	#	#												+						baptism
+bautizo	+	#	#
+bautizar	+	#	#												+						baptize
+ganga	+	#	#													+						bargain
+oferta	+	#	#
+oportunidad	+	#	#
+chance	+	#	#
+básico	+	#	#													+						basic			*
+fundamental	+	#	#
+elemental	+	#	#
+esencial	++	#	#												++						essential
+primordial	++	#	#
+hermoso	+	#	#													+						beauteous
+bello	+	#	#
+bonito	+	#	#													+						bonny
+chévere	+	#	#
+lindo	+	#	#													+						cute
+mono	+	#	#																							Está mono tu vestido.
+embellecer	++	#	#												++						beautify
+belleza	+	#	#													+						beauty
+hermosura	+	#	#
+amistad	+	E	amor												+						befriend
+amado	+	E	amor												+						beloved
+querido	+	E	amor												+						dear
+estimado	+	E	amor
+estimar	+	E	amor
+benefactor	+	#	#												+						benefactor
+benéfico	+	#	#												+						beneficent
+beneficioso	+	#	#												+						beneficial
+saludable	+	#	#															+			healthy
+sano	+	#	#													+						wholesome
+salud	++	#	#													++						health
+beneficiario	+	#	#											+						beneficiary
+beneficiado	+	#	#
+beneficiar	+	#	#												+						benefit
+beneficiarse	+	#	#
+benevolencia	+	#	#											+						benevolence
+generosidad	 +	#	#
+benévolo	+	#	#												+						benevolent
+benevolente	+	#	#
+benigno	+	#	#													+						benign
+bondadoso	+	#	#
+mejor	+	#	#													+						best
+intachable	+	#	#												+						blameless
+irreprensible	+	#	#
+irreprochable	+	#	#
+inocente	+	#	#
+bendecir	+	#	#												+						bless
+bendición	+	#	#
+bendecido	+	#	#
+bendito	+	#	#
+dicha	+	E	felicidad											+						bliss
+dichoso	+	E	felicidad											+						blissful
+erizarse	-	E	#												-						bristle
+erizado	-	#	#
+florecer	+	#	#												+						bloom
+prosperar	+	#	#
+prosperado	+	#	#
+florecimiento	+	#	#											+						blossom
+consejo	+	#	#													+						board
+valentía	++	#	#												++						bravery
+valor	++	#	#
+audacia	++	#	#													++						boldness
+denuedo	++	#	#
+osadía	++	#	#
+reforzar	++	#	#												++						bolster
+fortalecer	++	#	#
+fortalecimiento	++	#	#
+bono	+	#	#													+						bonus
+bonificación	+	#	#
+incentivo	+	#	#
+incentivar	+	#	#
+gratificación	+	E	#											+						gratification
+gratificar	+	#	#
+gratificante	+	#	#
+gratificado	+	#	#
+auge	++	#	#													++						boom
+boom	++	#	#
+impulsar	++	#	#												++						boost
+impulso	++	#	#
+promover	++	#	#																						Promover la violencia.
+fomentar	+	#	#												+						encourage
+fomento	+	#	#
+estímulo	+	#	#												+						encouragement
+estimulante	+	#	#
+ilimitado	++	#	#												++						boundless
+infinito	++	#	#
+sustento	+	#	#												+						breadwinner
+sustentar	+	#	#
+sustentable	+	#	#
+sostén	+	#	#
+sostenible	+	#	#
+brillante	+	#	#												+						bright
+luminoso	+	#	#
+resplandeciente	+	#	#
+brillantemente	+	#	#
+brillo	+	#	#													+						brightness
+luminosidad	+	#	#
+claridad	+	#	#												+						clarity
+lucidez	+	#	#
+nitidez	+	#	#
+nítido	+	#	#
+pureza	+	#	#
+resplandor	+	#	#												+						brilliance
+esplendor	+	#	#
+lustre	+	#	#
+hermandad	++	#	#												++						brotherhood
+fraternidad	++	#	#
+fraternal	+	#	#												+						brotherly
+fraterno	+	#	#
+fraternalmente	+	#	#
+sincero	++	#	#													++						candid
+franco	++	#	#
+cándido	++	#	#
+sinceridad	++	#	#												++						candor
+franqueza	++	#	#
+candidez	++	#	#
+candor	++	#	#
+capitalizar	++	#	#												++						capitalize
+fascinar	+	E	admiración								+								enthrall
+fascinante	+	E	admiración
+fascinado	+	E	admiración
+fascinación	+	E	admiración								+								fascination
+cautivar	+	E	admiración										+						captivation			Ser hecho cautivo, o entrar en cautiverio.
+cautivado	+	E	admiración
+cuidado	+	#	#													+						care
+esmero	+	#	#
+esmerar	+	#	#
+esmerarse	+	#	#
+cuidar	+	#	#
+cuidarse	+	#	#
+despreocupado	+	E	serenidad									+						carefree
+despreocupación	+	E	serenidad
+despreocupar	+	E	serenidad
+cuidadoso	+	#	#												+						careful
+meticuloso	+	#	#
+cauteloso	+	#	#
+precavido	+	#	#
+diligente	++	#	#												++						diligent
+perseverante	++	#	#
+perseverar	++	#	#
+caricia	+	E	amor												+						caress
+acariciar	+	E	amor
+celebrar	+	#	#												+						celebrate
+festejar	+	#	#
+festejado	+	#	#
+conmemorar	+	#	#												+						commemorate
+celebración	+	#	#												+						celebration
+fiesta	+	#	#
+festejo	+	#	#
+conmemoración	+	#	#											+						commemoration
+celebridad	+	#	#												+						celebrity
+famoso	+	#	#																								Es famoso por sus múltiples crímenes.
+ceremonial	+	#	#												+						ceremonial
+solemne	+	#	#
+campeón	+	#	#													+						champion
+campeonato	+	#	#												+						championship
+carisma	+	#	#													+						charisma
+carismático	+	#	#
+caritativo	+	#	#												+						charitable
+caridad	+	#	#													+						charity
+beneficiencia	+	#	#
+casto	+	#	#													+						chaste
+puro	+	#	#
+incorrupto	+	#	#
+limpio	+	#	#													+						clean
+aseado	+	#	#
+virgen	+	#	#
+pulcro	+	#	#
+limpiar	+	#	#													+						cleanse
+lavar	+	#	#
+limpieza	+	#	#												+						cleanliness
+aseo	+	#	#
+pulcritud	+	#	#
+animar	+	E	felicidad									+		+						cheer
+ánimo	+	E	felicidad
+animarse	+	E	felicidad
+valorar	+	#	#													+						cherish
+abrigar	+	#	#
+abrigado	+	#	#
+querubín	+	#	#												+						cherub
+angelito	+	#	#
+elegante	+	#	#												+						chic
+refinado	+	#	#
+chic	+	#	#
+caballeroso	+	#	#												+						chivalry
+caballerosidad	+	#	#
+preferido	+	#	#												+						chosen
+seleccionado	+	#	#
+civilidad	+	#	#												+						civility
+urbanidad	+	#	#
+civilización	+	#	#											+						civilization
+civilizar	+	#	#
+civilizado	+	#	#
+aclarar	+	#	#													+						clarify
+clarificar	+	#	#
+esclarecer	+	#	#
+clásico	+	#	#													+						classic
+tradicional	+	#	#
+memorable	+	#	#
+claro	+	#	#													+						clear
+inconfundible	+	#	#
+despejado	+	#	#
+transparente	+	#	#
+lúcido	+	#	#
+cercanía	+	#	#												+						closeness
+proximidad	+	#	#
+intimidad	+	#	#
+cooperación	++	#	#												++						cooperation
+unidad	+	#	#
+mimar	+	#	#													+						coddle
+consentir	+	#	#
+coexistencia	+	#	#											+						coexistence
+convincente	+	#	#												+						cogent
+coherente	++	#	#												++						coherent
+congruente	++	#	#
+lógico	++	#	#
+coincidente	+	#	#												+						coincident
+colaborar	+	#	#												+						collaborate
+colaboración	++	#	#											++						collaboration
+colega	+	#	#													+						colleague
+colosal	+	#	#													+						colossal
+regreso	++	#	#													++						comeback			El asesino regresó.
+retorno	++	#	#
+resurgimiento	++	#	#
+comedia	+	#	#													+						comedy
+comicidad	+	#	#
+gentil	+	#	#													+						comely
+comestible	+	#	#												+						comestible, edible
+cómico	+	#	#													+						comic
+comienzo	+	#	#												+						commencement
+inicio	+	#	#
+apertura	+	#	#
+elogiar	+	#	#													+						commend
+elogiado	+	#	#
+alabar	+	#	#
+recomendable	+	#	#											+						commendable
+encomiable	+	#	#
+recomendación	+	#	#											+						commendation
+encomio	+	#	#
+alabanza	+	#	#
+conmensurado	+	#	#											+						commensurate
+acorde	+	#	#
+proporcional	+	#	#
+proporcionado	+	#	#
+comisión	+	#	#												+						commission
+compromiso	+	#	#												+						commitment
+responsabilidad	+	#	#
+sentido común	+	#	#											+						common sense
+comunicarse	+	#	#												+						communicate
+comunicar	+	#	#
+comunicativo	+	#	#											+						communicative
+comunión	+	#	#												+						communion
+comunidad	++	#	#												++						community
+compañerismo	+	#	#											+						companionship
+compañía	+	#	#												+						company				Malas compañías.
+compatible	+	#	#												+						compatible
+conciliable	+	#	#
+compensar	++	#	#												++						compensate
+indemnizar	++	#	#
+resarcir	++	#	#
+remunerar	++	#	#
+compensación	+	#	#											+						compensation
+indemnización	+	#	#
+recompensa	+	#	#
+retribución	+	#	#
+complemento	+	#	#												+						complement
+complementar	+	#	#
+completar	+	#	#												+						complete
+terminar	+	#	#																								Terminó conmigo y me siento muy triste.
+finalizar	+	#	#
+concluir	+	#	#
+acabar	+	#	#
+terminado	+	#	#
+íntegro	+	#	#
+complementario	+	#	#											+						complementary
+integridad	+	#	#												+						completeness
+completo	+	#	#
+completitud	+	#	#
+finalización	+	#	#											+						completion
+terminación	+	#	#
+cumplimiento	+	#	#											+						compliance
+cumplido	+	#	#												+						compliment
+compostura	++	#	#												++						composure
+entereza	++	#	#
+comprender	+	#	#												+						comprehend
+comprensión	+	#	#												+						comprehension
+comprendido	+	#	#
+entendimiento	+	#	#
+comprensivo	+	#	#												+						comprehensive
+integral	+	#	#
+completo	+	#	#
+privilegio	+	#	#												+						concession
+concluyente	+	#	#												+						conclusive
+contundente	+	#	#
+concurrir	+	#	#												+						concur
+coincidir	+	#	#
+convenir	+	#	#
+condonar	+	#	#												+						condone
+conducente	+	#	#												+						conducive
+conferir	+	#	#												+						confer
+confidente	+	#	#												+						confidant		Era el confidente de mis más sucios secretos.
+confiar	+	#	#													+						confide
+confianza	++	E	#												++						confidence
+simpático	+	E	#												+						congenial
+congenial	+	#	#
+felicitar	+	#	#												+						congratulate
+congratular	+	#	#
+felicitación	+	#	#											+						congratulation
+enhorabuena	+	#	#
+felicidades	+	#	#
+felicidad	+	E	felicidad										+						happiness
+congregarse	+	#	#												+						congregate
+reunirse	+	#	#
+conectar	+	#	#												+						connect
+unir	+	#	#
+conquistar	+	#	#												+						conquer
+vencer	+	#	#
+superar	+	#	#
+vencedor	++	#	#												++						conqueror
+conquista	+	#	#												+						conquest
+conservar	+	#	#												+						conserve
+preservar	+	#	#
+ahorrar	+	#	#
+considerar	+	#	#												+						consider
+analizar	+	#	#
+reflexionar	+	#	#
+considerado	+	#	#												+						considerate
+reflexionado	+	#	#
+consideración	+	#	#											+						consideration
+reflexión	+	#	#
+consistencia	++	#	#											++						consistency
+coherencia	++	#	#
+consistente	++	#	#												++						consistent
+constante	++	#	#
+consolidar	++	#	#												++						consolidate
+consolidarse	++	#	#
+unificar	++	#	#
+constancia	+	#	#												+						constancy
+perseverancia	+	#	#
+constructivo	++	#	#											++						constructive
+positivo	++	#	#
+positivamente	++	#	#
+útil	++	#	#
+consultar	+	#	#												+						consult
+continuidad	++	#	#												++						continuity
+contribuir	++	#	#												++						contribute			Contribuir a la deforestación.
+aportar	++	#	#
+participar	++	#	#																							Participar en un secuestro.
+contribución	++	#	#											++						contribution
+aportación	++	#	#
+aporte	++	#	#
+convicción	++	#	#												++						conviction
+certeza	++	#	#
+certero	++	#	#
+cooperar	++	#	#												++						cooperate
+cooperativo	++	#	#												++						cooperative
+coordinación	++	#	#											++						coordination
+corregir	+	#	#												+						correct
+rectificar	+	#	#
+enmendar	+	#	#
+subsanar	+	#	#
+correcto	+	#	#
+corrección	+	#	#												+						correction			Estoy triste porque me hicieron muchas correciones.
+rectificación	+	#	#
+crear	++	#	#													++						create
+creativo	+	E	#												+						creative
+creatividad	+	#	#												+						creativity
+credibilidad	+	#	#											+						credibility
+creíble	+	#	#													+						credible
+fiable	+	#	#
+fidedigno	+	#	#
+plausible	+	#	#
+verosímil	+	#	#
+crédito	+	#	#													+						credit				Tarjeta de crédito. Le dieron el crédito por su trabajo.
+mérito	+	#	#
+acreditar	+	#	#
+abrazo	+	#	#													+						cuddle
+apapacho	+	#	#
+apapachar	+	#	#
+apapachado	+	#	#
+abrazar	+	#	#													+						embrace
+culminar	+	#	#												+						culminate
+culminación	+	#	#												+						culmination
+cultivar	+	#	#												+						cultivate
+cultura	+	#	#													+						culture
+cupido	+	E	amor												+						cupid
+cura	+	#	#													+						cure
+curación	+	#	#
+sanar	+	#	#
+remedio	+	#	#
+remediar	+	#	#
+resolver	+	#	#
+reverencia	+	#	#												+						curtsey
+bailar	+	#	#													+						dance
+danzar	+	#	#
+danza	+	#	#
+baile	+	#	#
+atreverse	+	#	#												+						dare
+atrevido	+	#	#												+						daring
+cariño	+	#	#													+						darling
+tesoro	+	#	#
+atesorar	+	#	#
+amanecer	+	#	#												+						dawn
+alba	+	#	#
+comenzar	+	#	#
+deslumbrar	+	E	admiración										+						dazzle
+deslumbrado	+	E	admiración								+								dazed
+decencia	+	#	#												+						decency
+decente	+	#	#													+						decent
+honrado	+	#	#
+honradez	+	#	#
+honesto	+	#	#
+honestidad	+	#	#
+decoroso	+	#	#
+bueno	+	#	#																+			well
+bondad	+	#	#
+descifrar	+	#	#												+						decipher
+decorar	+	#	#													+						decorate
+condecorar	+	#	#
+decorativo	+	#	#												+						decorative
+dedicar	+	#	#													+						dedicate		Se ha dedicado a hacerme la vida imposible. Eres como mi MATTEL: dedicado a hacerme feliz
+consagrar	+	#	#
+dedicarse	+	#	#
+consagrarse	+	#	#
+dedicación	+	#	#												+						dedication
+dedicatoria	+	#	#
+defender	++	#	#												++						defend
+proteger	++	#	#
+defensor	++	#	#												++						defender
+protector	++	#	#
+defensa	++	#	#													++						defense
+protección	++	#	#
+delicadeza	+	#	#												+						delicacy
+delicia	+	#	#
+suave	+	#	#
+delicado	+	#	#												+						delicate		Es un asunto muy delicado. Se encuentra muy delicado de salud. Es muy delicado, de todo se queja. Delicado: fino, atento, suave, tierno. Delicado: débil, flaco, enfermizo. Delicado: quebradizo, fácil de deteriorarse.
+fino	+	#	#
+sutil	+	#	#
+deleitar	+	E	felicidad								+		+						delight
+deleitarse	+	E	felicidad
+deleitoso	+	E	felicidad
+deleite	+	E	felicidad
+disfrutar	+	E	felicidad								+		+						enjoy
+gozar	+	E	felicidad
+gozoso	+	E	felicidad
+entusiasmar	+	E	felicidad
+delicioso	+	#	#												+						delightful
+precioso	+	#	#
+fiabilidad	++	#	#												++						dependability
+formalidad	++	#	#
+confiable	++	#	#												++						dependable
+formal	++	#	#
+serio	++	#	#																								Se comportó serio e indiferente. Es un problema muy serio.
+merecer	+	#	#													+						deserve				Se merece una buena paliza.
+ameritar	+	#	#
+merecerse	+	#	#
+merecidamente	++	#	#											++						deservedly
+merecido	++	#	#																							Lo que hizo no estuvo bien, afortunadamente le dieron su merecido.
+justo	++	#	#
+deseable	+	#	#												+						desirable
+apetecible	+	#	#
+devoción	+	E	#												+						devotion
+devoto	+	#	#													+						devout
+piadoso	+	#	#
+destreza	++	#	#												++						dexterity
+digno	++	#	#													++						dignified
+dignificado	++	#	#
+noble	++	#	#
+dignificar	+	#	#												+						dignify
+dignidad	++	#	#												++						dignity
+solemnidad	++	#	#
+discernir	+	#	#												+						discern
+discreto	+	#	#												+						discreet
+circunspecto	+	#	#
+discreción	+	#	#												+						discretion
+prudencia	+	#	#
+circunspección	+	#	#
+discernimiento	+	#	#
+distinto	+	#	#												+						distinct
+inconfundible	+	#	#
+distinción	+	#	#												+						distinction		Tratar a todos igual sin distinción alguna. Distinción: Acción y efecto de distinguir o distinguirse. Prerrogativa, excepción y honor concedido a alguien.Buen orden, claridad y precisión en algo. Elevación sobre lo vulgar, especialmente en elegancia y buenas maneras.
+sobresaliente	+	#	#
+diferencia	+	#	#																						Hacer la diferencia.
+distintivo	+	#	#												+						distinctive
+característico	+	#	#
+diferente	+	#	#
+distinguir	+	#	#												+						distinguish
+destacar	+	#	#
+diferenciar	+	#	#
+distinguido	++	#	#												++						distinguished
+eminente	++	#	#																						Eminente fracaso.
+notable	++	#	#
+divino	++	#	#													++						divine
+sagrado	++	#	#
+sublime	++	#	#
+agrado	+	E	#													+						pleasure
+satisfacción	+	E	#											+						satisfaction
+divinidad	++	#	#												++						divinity
+dominio	+	#	#													+						dominance
+donar	+	#	#													+						donate
+donación	+	#	#												+						donation
+donativo	+	#	#
+indudablemente	++	#	#											++						doubtless		*	
+indudable	++	#	#
+durabilidad	++	#	#												++						durability
+resistencia	++	#	#												++						endurance
+perdurabilidad	++	#	#
+duradero	++	#	#												++						durable
+durable	++	#	#
+resistente	++	#	#
+fuerte	++	#	#																							Me dio un golpe muy fuerte.
+dinámico	++	#	#												++						dynamic
+seriamente	++	#	#												++						earnest			Con el choque se dañó seriamente.
+seriedad	+	#	#												+						earnestness
+facilitar	+	#	#												+						ease
+facilidad	+	#	#
+simplicidad	+	#	#
+fácil	+	#	#													+						easy			No hay respuestas fáciles, ni varitas mágicas que hagan desaparecer nuestras diferencias.
+sencillo	+	#	#
+fácilmente	+	#	#
+economizar	+	#	#												+						economize
+educado	+	#	#													+						educated
+culto	+	#	#
+instruido	+	#	#
+enseñado	+	#	#
+instruir	+	#	#
+educar	+	#	#
+enseñar	+	#	#
+educación	+	#	#												+						education
+enseñanza	+	#	#
+estudio	+	#	#
+formación	+	#	#
+instrucción	+	#	#
+educativo	+	#	#												+						educational
+educacional	+	#	#
+pedagógico	+	#	#
+instructivo	+	#	#
+efectivo	++	#	#												++						effective
+eficaz	++		#	#
+eficacia	++	#	#												++						effectiveness
+efectividad	++	#	#
+eficiencia	++	#	#
+eficiente	++	#	#												++						efficient
+regocijado	+	E	alegría											+						elate
+elegancia	+	#	#												+						elegance
+elocuente	+	#	#												+						eloquent
+eminencia	++	#	#												++						eminence
+eminente	++	#	#												++						eminent
+dotar	++	#	#													++						endorse
+energético	++	#	#												++						energetic
+energizar	++	#	#												++						energize
+reactivar	++	#	#
+mejora	+	#	#													+						enhancement
+realce	+	#	#
+perfeccionamiento	+	#	#
+goce	+	E	felicidad									+		+						enjoyment
+disfrute	+	E	felicidad
+gusto	+	E	felicidad
+gozo	+	E	felicidad
+iluminar	+	#	#												+						enlighten
+iluminado	+	#	#
+iluminación	+	#	#												+						enlightenment
+enriquecer	++	#	#												++						enrich
+enriquecerse	++	#	#
+enriquecimiento	++	#	#											++						enrichment
+entusiasmo	+	E	alegría											+						enthusiasm
+emprendedor	+	#	#												+						entrepreneurial
+imaginar	+	#	#												+						envision
+prever	+	#	#
+previsión	+	#	#
+prevenido	+	#	#
+igualdad	+	#	#												+						equality
+equitativo	+	#	#												+						equitable
+equidad	+	#	#													+						equity
+ecuánime	+	#	#
+ecuanimidad	+	#	#
+estima	+	#	#													+						esteem
+estimación	+	#	#
+ético	+	#	#													+						ethical
+moral	+	#	#
+ética	+	#	#													+						ethics
+moralidad	+	#	#
+eterno	++	#	#													++						everlasting
+exacto	+	#	#													+						exact
+exaltar	+	E	alegría												+						exalt
+enaltecer	+	E	alegría
+engrandecer	+	E	alegría
+sobresalir	++	#	#												++						excel
+distinguirse	++	#	#
+excelencia	+	#	#												+						excellence
+excelente	+	#	#												+						excellent
+emoción	+	E	alegría												+						excitement
+emocionar	+	E	alegría
+emocionarse	+	E	alegría
+esfuerzo	+	#	#												+						exertion
+ejercicio	+	#	#
+experiencia	++	#	#												++						experience			mala experiencia
+experimentar	++	#	#
+vivir	++	#	#
+exquisito	+	#	#												+						exquisite
+primoroso	+	#	#
+exuberante	+	#	#												+						exuberant
+exultar	+	#	#													+						exult
+fabuloso	+	#	#												+						fabulous
+héroe	++	#	#													++						hero
+heróico	++	#	#													++						heroic
+estudioso	+	#	#												+						studious
+estudiar	+	#	#
+estudiante	+	#	#
+seriamente	--	#	#															--			seriously
+gravemente	--	#	#
+severamente	--	#	#
+equivocación	--	#	#														--			mistake
+equivocado	--	#	#															--			mistaken
+equivocadamente	--	#	#														--			mistakenly
+erradamente	--	#	#
+descanso	+	#	#															+			restful
+descansar	+	#	#
+descansen	+	#	#
+extrañar	-	#	#															-			miss
+ganador	++	#	#																++			winner
+triunfador	++	#	#
+aventura	+	#	#															+			adventure			No signifiqué nada para él, sólo fui una aventura.
+especialmente	++	#	#														++			especially
+desfavorable	--	#	#														--			unfavorable
+libertad	+	#	#															+			freedom
+libre	++	#	#													++						free
+gratuito	+	#	#
+gratis	+	#	#
+corazón	+	#	#													+			+			heart
+dulce	+	#	#													+			+			sweet
+dulzura	+	#	#													+			+			sweetness
+endulzar	+	#	#												+			+			sweeten
+dulcemente	+	#	#															+			sweetly
+amablemente	+	#	#
+aconsejar	+	#	#												+						counsel
+recomendar	+	#	#															+			recommend			Te recomiendo que te des un tiro.
+brillar	+	#	#																+			shine
+perfecto	++	#	#												++			++			perfect
+favorito	++	#	#															++			favorite
+predilecto	++	#	#
+verdad	++	#	#																++			true
+gracias	++	#	#																++			thank
+esperanza	++	#	#															++			hope
+honor	++	#	#																++			honor
+honorable	++	#	#															++			honorable
+gustar	+	#	#													+						like
+apestar	--	#	#																--			stink
+peste	--	#	#
+hedor	--	#	#
+olvidar	-	#	#													-						forget
+olvidado	-	#	#
+gordinflón	--	#	#															--			fatty
+beso	+	#	#													+						kiss
+besar	+	#	#
+soñar	++	#	#																++			dream
+sueño	+	#	#																+			dream			Tengo sueño, me estoy cayendo de sueño... Eres parte de mis sueños.... 
+fiel	++	#	#																++			faithful
+leal	++	#	#
+talentoso	++	#	#												++			++			gifted
+dotado	++	#	#
+regalo	+	#	#													+						gift
+don	+	#	#
+paz	+	E	serenidad												+			+			peace
+familiar	+	#	#												+						familiar
+cordura	+	#	#													+						sanity
+sensatez	+	#	#
+sensato	+	#	#
+fresco	+	#	#													+			+			fresh
+bofetada	--	#	#												--			--			slap
+abofetear	--	#	#
+cachetada	--	#	#
+cachetadón	--	#	#
+manazo	--	#	#
+manotazo	--	#	#
+chisme	-	#	#													-						gossip
+chismoso	-	#	#
+chismear	-	#	#
+habladuría	-	#	#
+hablador	-	#	#
+necesidad	-	#	#												-			-			need
+necesitado	-	#	#
+afortunado	+	#	#												+						lucky
+suerte	++	#	#													++						luck
+superior	++	#	#												++						superior		Se siente superior a los demás
+apuñalar	--	#	#												--						stab
+apuñalado	--	#	#
+puñalada	--	#	#
+picotear	--	#	#
+mal	-	#	#														-						wrong
+distraer	-	#	#												-			-			distract
+distraído	-	#	#
+compartir	+	#	#												+						share
+compartido	+	#	#
+tormenta	-	#	#												-			-			storm
+tormentoso	-	#	#												-			-			stormy
+tumultuoso	-	#	#
+tempestad	--	#	#												--						tempest
+tempestuoso	--	#	#
+despecho	--	E	ira												--						spite
+despechado	--	E	ira
+despechar	--	E	ira
+luz	+	#	#														+						light
+sabiduría	+	#	#												+						wisdom
+sentimiento	+	#	#															+			sentiment		Estado del ánimo afligido por un suceso triste o doloroso. Estado afectivo del ánimo producido por causas que lo impresionan vivamente.
+único	+	#	#																+			unique
+paciencia	++	#	#												++			++			patience
+envenenar	--	#	#												--						poison
+envenenado	--	#	#
+emponzoñar	--	#	#
+incriminar	--	#	#
+incriminado	--	#	#
+incriminación	--	#	#
+veneno	--	#	#													--						venom
+venenoso	--	#	#												--						poisonous
+tóxico	--	#	#
+ponzoña	--	#	#
+psicopatía	-	#	#
+psicópata	-	#	#
+indeseable	-	#	#												-						undesirable
+indeseado	-	#	#
+recuperar	+	#	#															+			recover
+recuperado	+	#	#
+tumbado	-	#	#													-						lying
+inservible	-	#	#												-			-			useless
+revolcar	-	#	#												-			-			wallow
+revolcón	-	#	#
+revolcado	-	#	#
+revolcarse	-	#	#
+buen	+	#	#													+			+			good		buen gusto
+bien	+	#	#																+							Qué bien molestas!!! bien grave
+bienvenido	+	#	#												+			+			welcome
+jovial	+	#	#																+			jovial
+irrazonable	-	#	#												-						unreasonable
+sinrazón	-	#	#
+injusto	--	#	#													--						unfair, unjust
+estrés	-	#	#													-						stress
+estresado	-	#	#
+estresar	-	#	#
+obstaculizar	--	#	#											--						hinder
+obstaculizado	--	#	#
+entorpecer	--	#	#
+entorpecido	--	#	#
+embrutecer	--	#	#
+embrutecido	--	#	#
+atrabancado	-	#	#
+atrabancar	-	#	#
+robar	--	#	#													--						steal
+robo	-	#	#																-			stealing
+desgracia	--	#	#															--			disgrace
+desgraciadamente	--	#	#
+tragedia	--	E	#												--						tragedy
+trauma	--	#	#																--			trauma
+traumado	--	#	#
+traumar	--	#	#
+traumatizar	--	#	#
+traumático	--	#	#
+traumatizante	--	#	#
+malagradecido	--	#	#														--			ungrateful
+ingrato	--	#	#
+desagradecido	--	#	#
+podredumbre	--	#	#															--			rot
+putrefacción	--	#	#
+pudrir	--	#	#
+podrido	--	#	#																--			rotten
+depravar	--	E	ira															--			deprave
+pervertir	--	E	ira
+pervertido	--	E	ira
+perversión	--	E	ira
+brujería	--	#	#												--						witchcraft
+maleficio	--	#	#
+innecesario	-	#	#												-						unnecessary
+superfluo	-	#	#
+enervar	-	E	#													-						unnerve
+desagradable	-	#	#											-						unkind
+injustificado	--	#	#											--						unjustified
+relajación	+	E	serenidad										+						relaxation
+relajar	+	E	serenidad
+relajante	+	E	serenidad
+pecado	-	#	#													+						sin
+pecador	-	#	#
+adrede	-	#	#
+lárgate	-	#	#
+infelicidad	-	E	tristeza										-						unhappiness
+inquietante	-	E	#												-						unsettling
+intranquilizar	-	#	#
+inexpresable	-	E	#											-						unspeakable
+calidez	+	E	#													+						warmth
+cálido	+	E	#
+cauteloso	+	E	#												+						wary
+cauto	+	#	#
+quejido	-	E	#													-						whimper
+lloriquear	-	#	#
+apogeo	+	#	#													+						zenith
+arruinar	--	#	#												--						wreck
+desbaratar	--	#	#
+destrozar	--	#	#
+paliza	--	E	ira													--						whack
+díscolo	-	#	#													-						wayward
+despilfarro	-	#	#												-						wastefulness
+despilfarrador	-	#	#
+derrochar	-	#	#
+derrochador	-	#	#
+malgastador	-	#	#
+despilfarrado	-	#	#											-						wasteful
+derrochado	-	#	#
+desperdiciar	-	#	#											-						waste
+desperdiciado	-	#	#
+malgastar	-	#	#
+malgastado	-	#	#
+despilfarrar	-	#	#
+despilfarrado	-	#	#
+desaprovechar	-	#	#
+desaprovechado	-	#	#
+deformar	-	#	#												-						warp
+deformarse	-	#	#
+deformado	-	#	#
+vómito	-	E	asco												-						vomit
+vomitar	-	E	asco
+vomitado	-	E	asco
+vívido	+	#	#													+						vivid
+vitalidad	++	#	#												++						vitality
+vicioso	--	#	#													--						vicious
+vanidad	-	#	#													-						vanity

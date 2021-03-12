@@ -1,0 +1,53 @@
+#	sin contenido
+interjección	polaridad	utilización	significado
+
+wo	+/-	exclamación	#
+snif	-	tristeza	#
+wow	+/-	expclamación	#
+yeah!	+	satisfacción	#
+yei	+	satisfacción	#
+yea	+	satisfacción	#
+ts	-	burla	#
+wi	+	satisfacción	#
+hdspm	-	enojo	hijo de su puta madre
+aw	+	lindo	#
+ow	+	lindo	#
+ogts	-	enojo	ojetes
+ogt	-	enojo	ojete
+mta	-	enojo	#
+uta	-	enojo	#
+tqm	+	cariño	te quiero mucho
+osh	-	desagrado	#
+bb	+	cariño	bebé
+tk	+	cariño	te quiero
+ash	-	desagrado	#
+yupi	+	satisfacción	#
+agh	-	desagrado	#
+yuju	+	satisfacción	#
+auch	-	dolor	#
+bua	-	llorar	#
+buah	-	llorar	#
+uf	+/-	exclamación	#
+pf	+/-	exclamación	#
+wtf	+/-	exclamación	what the fuck
+ajá	-	incredulidad	#
+ay ajá	-	incredulidad	#
+omg	+/-	exclamación	oh my God
+np	+	conformidad	no problem
+nhp	+	conformidad	no hay pedo
+achi	+/-	exclamación	ah chingado
+npi	-	desconocer	ni puta idea
+ntc	+	broma	no te creas
+ntp	+		no te preocupes
+mms	-	mamadas	tonterías
+no mms	+/-	exclamación	no mames
+ah jijo	+/-	exclamación	#
+ups	-	desagrado	#
+ops	-	desagrado	#
+changos	-	desagrado	#
+híjole	-	desagrado	#
+chanfle	-	desagrado	#
+chin	-	desagrado	#
+chispas	-	desagrado	#
+fuchi	-	asco	#
+ay	+/	exclamación	#

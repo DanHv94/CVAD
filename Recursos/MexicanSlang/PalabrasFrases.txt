@@ -1,0 +1,244 @@
+﻿# Sin contenido
+Expresión	Polaridad	Significado	EjemploPositivo	EjemploNegativo
+
+mala onda	-	#	#
+no manches	+/-	exclamación	no manches!! que bien nos salió el evento	no manches! atropellaron a mi compañero de clases
+no mames	+/-	exclamación	no mames!!! me gané la lotería!!	no mames!!!
+no ma	+/-	no mames	#	#
+puta madre	+/-	exclamación	Somos una banda de puta madre y hacemos música como nadie	puta madre!!! ya nos cargó el payaso
+a toda madre	+	estupendo	Aquí a toda madre!! asoléandome en Acapulco
+estas bien wey	-	tonto	#	estas bien wey, no sabes hacer nada	#
+wey	+/-	amigo	que onda wey, que gusto verte!	a ver wey, que parte de no te soporto no entendiste
+hasta el keke	-	borracho	#	andaba hasta el keke y no se como llegué a mi casa
+hasta el keke	-	harto	#	me tienen hasta el keke estos mensos
+hasta la madre	-	borracho	#	nos pusimos hasta la madre y despertamos con la cara de crudos y oliendo bien culero
+hasta la madre	-	enojo	#	este tráfico ya me tiene hasta la madre, siempre llego tarde
+hasta la mauser	-	enojo	#	#
+hasta la ma	-	borracho	#	#
+hasta la ma	-	harto	#	#
+ta madre	-	molestia	#	ta madre! se me acabó el crédito del celular
+mta madre	-	molestia	#	mta madre! no puedo pedir un favor sin que me pidan nada a cambio
+partir la madre	-	golpear	#	si sigues chingando te voy a partir la madre!!!
+romper la madre	-	golpear	#	como vuelvas a faltarme al respeto te rompo la madre!!!
+ni madres	-	no	#	Queeee!!!!! tanto dinero!!!!?? Ni madres !!!...pendejo!
+ni pedo	-	ni modo	#	Ni pedo!! me tocó perder esta vez
+que pedo	-	reclamación	#	que pedo contigo!! ya te estás pasando de ojete
+que pedo	+	saludo	que pedo wey, ya saliste de la uni, vamos por unas frías!	#
+andar pedo	-	borracho	#	ya ando pedo, se va a poner fea la cosa
+estar pedo	-	borracho	#	estas diciendo pendejadas, ya estas pedo!!
+peda	-	borrachera	#	#
+andar cuete	-	borracho	#	#
+estar cuete	-	borracho	#	#
+hay pedo	-	problema	#	ya hubo pedo, esto no va a terminar bien
+sacar un pedo	-	asustar	#	#
+pex	-	problema	#	ya hubo pex!!! no nos van a dejar entrar!!
+que pex	-	reclamación	#	que pex contigo!! dijiste que ya te ibas a portar bien!
+que pex	+	saludo	#	que pex!!!! ¿cómo has estado?
+me lleva la chingada	-	problema	#	todo salió mal!! me lleva la chingada!!
+me carga la chingada	-	problema	#	este trabajo es una porquería lo hicieron con las patas!!! me carga la chingada!!
+me lleva la fregada	-	problema	#	#
+me carga la fregada	-	problema	#	#
+vete a la chingada	-	lárgate	#	vete a la chingada!! ya me tienes harto!
+vete a la verga	-	lárgate	#	#
+vete a la mierda	-	lárgate	#	#
+poca madre	+/-	exclamación	este carro que acabo de comprarme está poca madre!!!	que poca madre tienes!!!! pudiste avisarme que no ibas a llegar!
+putear	-	golpear	#	#
+chinga	-	golpiza	#	su madre le dio una chinga por portarse mal!!
+chinga	-	molestar	#	ahhh como chinga este vecino con su ruidero!!
+putiza	-	golpiza	#	le dieron una putiza y casi lo matan
+madriza	-	golpiza	#	le dieron la madriza de su vida!!! ahora si aprendió la lección
+tranquiza	-	golpiza	#	#
+putiza	-	apurado	#	ando en putiza tengo mucho trabajo y aun lo termino
+putazo	-	golpe	#	de un putazo lo tiré al suelo
+putazo	+	rápido	terminé el trabajo de un putazo y quedé libre para el fin de semana	#
+puteado	-	golpeado	#	#
+puteado	-	enfermo	#	#
+puteado	-	cansado	#	#
+puteado	-	feo	#	#
+chingadazo	+	rápido	#	#
+vergazo	-	golpe	#	le tuve que dar sus vergazos 
+chingadazo	-	golpe	#	#
+madrear	-	golpear	#	#
+madreado	-	golpeado	#	#
+madreado	-	enfermo	#	ando bien madreado, la gripa me dio muy fuerte
+madreado	-	cansado	#	tuve mucho trabajo hoy, terminé bien madreado
+madreado	-	feo	#	ese wey nació madreado
+chupar	+/-	beber alcohol	estamos chupando tranquilos!!! que siga la fiesta!!!	por andar chupando en la calle, casi me meten al bote
+pistear	+/-	beber alcohol	#	#
+chingar	-	molestar	#	esos del banco siempre están chingando por teléfono
+joder	-	molestar	#	#
+fregar	-	molestar	#	#
+fregar	-	descomponer	#	#
+no la chingues	+/-	exclamación	no la chingues!!! todos pasaron el examen	no la chingues!!! esta comida sabe asqueroso
+ah chinga	+/-	exclamación	ah chinga!!! que bonita sorpresa no me la esperaba	ah chinga!!! me están echando la culpa de algo que yo no hice!!!
+ah cabrón	+/-	exclamación	#	#
+se chingó	-	descompuso	#	ya se chingó la televisión!!!
+se chingó	-	robar	#	ese amigo se chingó un teléfono del supermercado!!
+se lo chingó	+	ganar	se los chingó a todos jugando cartas!!	#
+me chingué	-	robar	#	me lo robé
+ya me chingué	-	resignar	#	ni modo! ya me chingué, me toca llevar el desayuno para todos
+ya chingué	+	exclamación	ya chingué!!! me darán un bono por puntualidad	#
+un chingo	+/-	mucho	te quiero un chingo!!	se tardaron un chingo en atenderme!!
+desmadre	-	desorden	#	que pinche desmadre tienes en tu cuarto!!
+desmadroso	-	relajiento	#	#
+en la madre	-	desilución o desesperación	#	en la madre!!! se me olvidó hacer la tarea
+en la torre	-	desilución o desesperación	#	#
+en la madre	-	golpear	#	ayer en la tarde se dieron en la madre dos coches en la autopista
+una madre	-	muy poco	#	las palomitas en el cine están carísimas y traen una madre
+agüitar	-	deprimir	#	ando medio agüitado, mi novia me dejó
+agüitado	-	deprimido	#	#
+cagar	-	equivocar	#	ya la cagué, dije algo que no debía decir
+cagarla	-	equivocarse	#	#
+cagar de risa	+	carcajadas	me divertí mucho en la fiesta!! me cagaba de la risa!! no podía dejar de reír	#
+cagar de miedo	-	asustado	#	#
+ni verga	-	no	#	ni verga!!! a mi nadie va a obligarme a hacer algo que yo no quiero
+valer madre	-	exclamación	#	ya valió madre!!! no estudié para el examen
+me vale madre	-	indiferencia	#	me vale madre lo que pienses, aquí se hace lo que yo digo
+tómala	+/-	exclamación	Tomála!! soy el mejor de la clase	Tómala por pendejo!!!
+gacho	-	feo	#	que gacho estuvo el accidente
+chingadera	-	inservible	#	pinche chingadera de teléfono, salió defectuoso!!
+chingadera	-	injusticia	#	esas son chingaderas!! no se vale que hagan esas cosas
+manchado	-	grosero	#	que manchado!! le contestas muy feo a tu novia
+fregón	+	inteligente	Es muy fregón para las matemáticas	#
+fregón	-	fastidioso	#	que fregón eres!! ya no te soporto!!
+fregón	-	exclamación	#	ah que fregón saliste!!te quedaste con mi cambio!
+chafa	-	mala calidad	#	que chafa salió esta computadora!
+encabronar	-	enojar	#	me encabrona que las cosas no estén listas cuando yo las necesito!!!
+encabronado	-	enojado	#	#
+encabronamiento	-	enojo	#	#
+me emputa	-	enojo	#	#
+emputar	-	enojar	#	#
+emputado	-	enojado	#	#
+al chingadazo	-	incorrecto	#	hizo todo su trabajo al chingadazo y no le quedó bien
+chingón	+	inteligente	ese wey es bien chingón	#
+chingón	-	exclamación	#	ah mira que chingón!! yo trabajo y te pagan a ti
+chingón	+	bueno	para juegos chingones, Mario Kart!!!	#
+culero	-	canalla	#	que culero te portaste hoy!!! heriste mis sentimientos!!
+mierda	-	canalla	#	ese wey una una mierda!!
+cabrón	-	canalla	#	#
+culero	-	terrible	#	estuvo culero el accidente de ayer
+no tiene madre	-	canalla	#	no tiene madre!!! es un insensible!!
+no tiene madre	+	exclamación	ese coche no tiene madre!!! está padrísimo!!!
+echar la hueva	+/-	flojear	hoy es un día para descansar y echar la hueva	por estar echando la hueva no estudié y reprobé el examen
+hueva	-	flojera	#	que hueva me da ir a trabajar!!
+huevonada	-	flojera	#	#
+huevón	-	flojo	#	que pinche huevón eres!!! ya ponte a trabajar!!
+guevón	-	flojo	#	#
+huevas	-	flojo	#	que huevas es ese wey!!
+está cabrón	-	difícil	#	está cabrón la situación, no se en que va a terminar todo esto
+castroso	-	molesto	#	que castroso es tener que llenar tantos papeles
+castrante	-	molesto	#	#
+neta	+	verdad	las cosas como son, yo siempre digo la neta!!	#
+ser la neta	+	inteligente	ese wey es la neta	#
+ser la neta	+	bueno	este nuevo videojuego e la neta	#
+al chile	+/-	ser directo	al chile!!! a lo que vas!! sin darle vueltas al asunto	al chile!!! rómpele su madre!!
+mierda	-	exclamación	#	mierda!!! pero que te hiciste en el cabello, quedaste horrible!!
+jodido	-	pobre	#	ando jodido, me quedé sin dinero
+jodido	-	feo	#	que jodido está tu perro!!
+jodido	-	enfermo	#	#
+jodido	-	cansado	#	#
+fregado	-	pobre	#	#
+fregado	-	enfermo	#	#
+fregado	-	cansado	#	#
+fregado	-	descompuesto	#	#
+desmadrado	-	descompuesto	#	#
+desmadrar	-	descomponer	#	#
+hasta la fregada	-	lejos	#	la universidad está hasta la fregada, me tardo mucho en llegar!!
+hasta la chingada	-	lejos	#	#
+cagetear	-	equivocar	#	ya la cagetié!!! no entregué los papeles a tiempo!!
+cagar	-	regañar	#	#
+caguiza	-	regaño	#	mi mamá me dio una mega caguiza por llegar tarde!!
+cagetiza	-	regaño	#	nos pusieron una cagetiza a todos en el trabajo por culpa de los que no cumplen con su trabajo
+a webo	-	obligar	#	me hicieron ir a webo, pero yo no quería ir
+a webo	+	exclamación	a webo!!! si pasé el examen	#
+a huevo	-	obligar	#	#
+a huevo	+	exclamación	#	#
+huevos	+	valiente	que huevos tiene!!! si lo logró!!	#
+chulo	+	bonito	que chula te ves hoy!!!	#
+chulada	+	bonito	que chulada de amiga, siempre me escucha	#
+chido	+	estupendo	que chido nos quedó el árbol de navidad!!	#
+chévere	+	fantástico	#	#
+se abrió	-	huir	#	se abrió!! le dio miedo!!!
+abrir	-	quitar	#	ábranse!!! que aquí estorban!
+abrir	-	acobardarse	#	se le abrió a ese wey 
+poner el cuerno	-	engañar	#	me puso el cuerno con mi mejor amiga!!
+apanicar	-	asustar	#	#
+apanicado	-	asustado	#	#
+en chinga	-	apresurado	#	ando en chinga, no he tenido un descanso en todo el día
+en friega	-	apresurado	#	#
+rascuacho	-	feo	#	#
+mamada	-	tontería	#	que mamadas son estas!!! y luego no quieren que me enoje!
+aguado	-	apático	#	¿por qué te vas??? que aguado eres!!! 
+aguado	-	aburrido	#	que aguada está la fiesta!!
+cruda	-	#	#	#
+resaca	-	#	#	#
+cool	+	genial	#	#
+que padre	+	genial	qué padre estuvo el paseo!!!	#
+muy padre	+	genial	la película estuvo muy padre	#
+gacho	-	desagradable	#	que gacho nos trataron!! ya no volveremos a ese lugar
+cuentear	-	engañar	#	nada mas nos cuentearon!!! no era cierto!!
+meter la pata	-	equivocar	#	siempre mete la pata, todo lo echa a perder!!
+bullying	-	#	#	#
+bronca	-	problema	#	tengo broncas con mi jefé en el trabajo
+naco	-	expresión despectiva	#	mira ese naco!! se le perdió la granja!
+mentada	-	ofensa	#	#
+mentada de madre	-	ofensa	#	#
+pinche	-	intensificador	#	que pinche calor está haciendo!!!
+está grueso	-	difícil	#	está gruesa la situación en ese lugar!
+está denso	-	difícil	#	#
+chales	-	exclamación	#	chales!! cagetearon a ese wey
+chale	-	exclamación	#	chale! no me alcanzó el dinero para pagar
+ardilla	-	ofendido	#	anda de ardilla!! y por eso quiere desquitarse!
+mala copa	-	fastidioso	#	siempre que toma anda de mala copa y es insoportable!!!
+a darle	+	exclamación	hoy es un excelente día para trabajar, a darle!!!	#
+chingarle	+	echarle ganas	apenas es martes? En fin, a chingarle!!	#
+chingándole	+	echarle ganas	apenas es martes? En fin, a seguir chingándole	#
+si la arma	+	hábil	si la arma en eso de la programación!	#
+se la rifa	+	hábil	se la rifa jugando videojuegos	#
+rifándose	+	esmerarse	#	El profe rifandose el físico por darnos clases	#
+no me pela	-	ignorar	#	no me pela, para que insistir
+achicopalar	-	deprimir	#	#
+achicopalado	-	decaído	#	#
+agarrón	-	riña	#	#
+argüende	-	lío	#	#
+baquetón	-	desvergonzado	#	#
+caer gordo	-	fastidio	#	me cae gordo tener que venir los sábados a la escuela
+carrilla	-	burla	#	#
+conchudo	-	desobligado	#	#
+canas verdes	-	abrumar	#	me va a sacar canas verdes!!! no entiende nada de lo que le digo
+chilapastroso	-	andrajoso	#	#
+chivear	+	sonrojar	#	#
+choteado	-	desprovisto de originalidad	#	esa historia ya está muy choteada, no tienen imaginación
+desconchinflar	-	descomponer	#	#
+desconchinflado	-	descompuesto	#	#
+de grapa	+	gratis	me fui de grapa en el autobús	#
+echar madres	-	maldecir	#	andaba echando madres porque el trabajo no estaba terminado
+poner al brinco	-	reaccionar agresivamente	#	me querían cobrar de mas y tuve que ponerme al brinco
+fodongo	-	desaliñado	#	#
+gandalla	-	arribista	#	#
+guacarear	-	vomitar	#	#
+guacareado	-	vomitado	#	#
+guamazo	-	golpe	#	#
+güila	-	prostituta	#	#
+hocicón	-	grosero	#	#
+hojaldra	-	ojete	#	#
+ínguesu	+/-	exclamación	#	#
+joto	-	homosexual	#	#
+lambiscón	-	adulador	#	#
+tranza	-	acto ilegal	#	#
+sangrón	-	antipático	#	#
+sacatón	-	miedoso	#	#
+rollero	-	mentiroso	#	#
+ñáñaras	-	miedo	#	#
+amolado	-	descompuesto	#	#
+amolar	-	descomponer	#	#
+méndigo	-	infame	#	#
+mayate	-	homosexual	#	#
+malandrín	-	delincuente	#	#
+machetear	+	trabajar duro	#	#
+aplatanado	-	sin energía	#	#
+batear	-	rechazar	#	le pedí que fuera mi novia y me bateó
+siscado	-	asustado	#	#
+siscar	-	asustar	#	#
+carajo	-	enojo	#	#
+carajos	-	enojo	-#	#
