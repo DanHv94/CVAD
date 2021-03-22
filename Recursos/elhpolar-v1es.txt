@@ -4068,15 +4068,15 @@ zumbado	negative
 
 ## Twitter
 # Twitter specific terms /items. usually hashtags.
-rt      positive
-tt      positive
-ht      positive
-fa      positive
-ff      positive
-tks     positive
-thx     positive
-ty      positive
-wtf     negative
+rt	positive
+tt	positive
+ht	positive
+fa	positive
+ff	positive
+tks	positive
+thx	positive
+ty	positive
+wtf	negative
 
 # Terms extracted from a Twitter corpus. Mispelled words are included if they are frequent enough.
 Besitos	positive
