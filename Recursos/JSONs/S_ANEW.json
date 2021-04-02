@@ -1,1 +1,5174 @@
-{"abandonado": {"val": 1.68, "aro": 5.88, "dom": 3.11}, "abejas": {"val": 3.18, "aro": 6.59, "dom": 3.42}, "aborto": {"val": 2.8, "aro": 6.07, "dom": 4.17}, "abrasador": {"val": 2.46, "aro": 6.0, "dom": 4.0}, "abrazo": {"val": 8.13, "aro": 5.7, "dom": 6.12}, "abrumado": {"val": 2.9, "aro": 5.36, "dom": 3.84}, "absurdo": {"val": 3.8, "aro": 4.9, "dom": 4.44}, "abundancia": {"val": 6.8, "aro": 5.4, "dom": 5.68}, "aburrido": {"val": 2.33, "aro": 2.9, "dom": 4.78}, "accidente": {"val": 1.32, "aro": 7.58, "dom": 2.62}, "ácido": {"val": 3.41, "aro": 5.57, "dom": 4.29}, "acogedor": {"val": 7.64, "aro": 4.37, "dom": 6.08}, "acontecimiento": {"val": 5.99, "aro": 5.81, "dom": 5.01}, "acre": {"val": 4.23, "aro": 4.19, "dom": 4.5}, "activar": {"val": 6.0, "aro": 6.5, "dom": 5.82}, "acuerdo": {"val": 7.24, "aro": 4.83, "dom": 6.22}, "acurrucarse": {"val": 6.98, "aro": 4.28, "dom": 6.01}, "adicto": {"val": 2.41, "aro": 5.77, "dom": 3.28}, "adinerado": {"val": 6.21, "aro": 5.58, "dom": 5.69}, "admirado": {"val": 7.33, "aro": 6.53, "dom": 5.48}, "adorable": {"val": 7.48, "aro": 5.24, "dom": 5.76}, "adulto": {"val": 5.68, "aro": 4.9, "dom": 5.16}, "afectar": {"val": 3.48, "aro": 5.61, "dom": 3.77}, "afecto": {"val": 8.1, "aro": 6.19, "dom": 5.83}, "afianzar": {"val": 5.93, "aro": 5.46, "dom": 5.66}, "afligido": {"val": 1.96, "aro": 4.41, "dom": 3.93}, "afortunado": {"val": 7.71, "aro": 6.26, "dom": 5.28}, "agilidad": {"val": 6.73, "aro": 5.97, "dom": 5.82}, "agobiado": {"val": 2.06, "aro": 6.73, "dom": 3.48}, "agonía": {"val": 1.74, "aro": 6.2, "dom": 2.94}, "agradecido": {"val": 7.84, "aro": 5.5, "dom": 5.79}, "agresión": {"val": 1.67, "aro": 6.88, "dom": 3.72}, "agresivo": {"val": 1.96, "aro": 6.94, "dom": 3.69}, "agua": {"val": 7.47, "aro": 4.8, "dom": 5.72}, "aguanieve": {"val": 5.11, "aro": 4.79, "dom": 4.21}, "aguja": {"val": 3.18, "aro": 5.66, "dom": 4.43}, "ahogarse": {"val": 1.32, "aro": 7.61, "dom": 2.41}, "ahorrar": {"val": 6.4, "aro": 4.94, "dom": 6.09}, "aire": {"val": 6.83, "aro": 4.19, "dom": 4.6}, "alba": {"val": 7.48, "aro": 4.18, "dom": 4.46}, "alcohólico": {"val": 2.01, "aro": 5.7, "dom": 3.51}, "alegre": {"val": 8.41, "aro": 7.66, "dom": 6.37}, "alergia": {"val": 4.01, "aro": 5.84, "dom": 4.11}, "alerta": {"val": 3.69, "aro": 7.58, "dom": 4.17}, "almohada": {"val": 6.79, "aro": 3.1, "dom": 6.29}, "amabilidad": {"val": 8.22, "aro": 5.26, "dom": 6.24}, "amable": {"val": 7.81, "aro": 4.92, "dom": 6.22}, "amado": {"val": 7.99, "aro": 6.43, "dom": 5.79}, "amanecer": {"val": 8.01, "aro": 4.08, "dom": 4.5}, "amarillo": {"val": 5.67, "aro": 4.84, "dom": 5.17}, "ambición": {"val": 5.01, "aro": 6.42, "dom": 5.6}, "ambulancia": {"val": 2.34, "aro": 7.44, "dom": 3.58}, "amenaza": {"val": 1.99, "aro": 7.1, "dom": 2.86}, "amigable": {"val": 8.14, "aro": 5.08, "dom": 6.24}, "amigo": {"val": 8.41, "aro": 6.73, "dom": 6.04}, "amor": {"val": 8.5, "aro": 7.46, "dom": 4.86}, "ampolla": {"val": 2.54, "aro": 4.99, "dom": 4.33}, "ángel": {"val": 6.87, "aro": 4.86, "dom": 4.49}, "angustiado": {"val": 1.67, "aro": 5.89, "dom": 3.33}, "anhelo": {"val": 4.42, "aro": 5.27, "dom": 4.39}, "ánimo": {"val": 7.36, "aro": 6.72, "dom": 6.19}, "ansioso": {"val": 3.63, "aro": 7.7, "dom": 3.14}, "aplastado": {"val": 2.28, "aro": 5.59, "dom": 3.21}, "aplausos": {"val": 7.67, "aro": 7.39, "dom": 6.36}, "aprender": {"val": 7.13, "aro": 6.0, "dom": 6.33}, "aprobación": {"val": 7.11, "aro": 5.94, "dom": 5.81}, "apuros": {"val": 2.61, "aro": 6.86, "dom": 3.68}, "araña": {"val": 3.07, "aro": 6.4, "dom": 4.02}, "árbol": {"val": 6.53, "aro": 4.18, "dom": 5.07}, "arco-iris": {"val": 7.39, "aro": 4.81, "dom": 3.73}, "arma": {"val": 1.81, "aro": 6.26, "dom": 2.9}, "armario": {"val": 5.1, "aro": 4.31, "dom": 5.16}, "arrepentido": {"val": 4.5, "aro": 5.14, "dom": 4.93}, "arrogante": {"val": 2.07, "aro": 5.83, "dom": 4.14}, "arte": {"val": 7.09, "aro": 5.31, "dom": 4.92}, "as": {"val": 6.41, "aro": 5.51, "dom": 5.17}, "ascensor": {"val": 4.99, "aro": 4.71, "dom": 4.73}, "asediado": {"val": 2.4, "aro": 6.18, "dom": 3.51}, "asesinar": {"val": 1.18, "aro": 7.44, "dom": 2.72}, "asesino": {"val": 1.23, "aro": 7.49, "dom": 2.16}, "asfixiarse": {"val": 1.48, "aro": 7.8, "dom": 2.33}, "asiento": {"val": 5.7, "aro": 4.0, "dom": 5.77}, "asombrado": {"val": 5.52, "aro": 5.96, "dom": 4.26}, "áspero": {"val": 3.27, "aro": 4.53, "dom": 4.39}, "asqueado": {"val": 1.81, "aro": 5.58, "dom": 4.32}, "asqueroso": {"val": 1.86, "aro": 6.13, "dom": 4.12}, "astronauta": {"val": 5.67, "aro": 5.38, "dom": 3.93}, "asustado": {"val": 2.54, "aro": 6.56, "dom": 3.12}, "ataúd": {"val": 1.63, "aro": 6.06, "dom": 2.81}, "aterrorizado": {"val": 1.96, "aro": 6.79, "dom": 2.64}, "ático": {"val": 6.74, "aro": 5.0, "dom": 4.99}, "atracador": {"val": 2.02, "aro": 7.32, "dom": 2.34}, "atrevido": {"val": 6.51, "aro": 6.71, "dom": 5.38}, "atrocidad": {"val": 1.74, "aro": 6.68, "dom": 3.22}, "aurora": {"val": 7.29, "aro": 4.92, "dom": 4.87}, "autobús": {"val": 4.51, "aro": 5.0, "dom": 4.43}, "avalancha": {"val": 2.46, "aro": 7.2, "dom": 2.48}, "avaricia": {"val": 2.44, "aro": 5.54, "dom": 4.14}, "avenida": {"val": 4.86, "aro": 5.01, "dom": 4.16}, "aventura": {"val": 7.76, "aro": 7.62, "dom": 5.48}, "avergonzado": {"val": 2.51, "aro": 5.59, "dom": 3.44}, "avión": {"val": 6.13, "aro": 6.07, "dom": 4.96}, "avispa": {"val": 2.54, "aro": 7.01, "dom": 3.12}, "azúcar": {"val": 6.68, "aro": 5.59, "dom": 5.67}, "azul": {"val": 7.01, "aro": 3.99, "dom": 5.39}, "bailarín": {"val": 7.14, "aro": 6.52, "dom": 5.43}, "bala": {"val": 2.01, "aro": 7.18, "dom": 3.59}, "bancarrota": {"val": 1.63, "aro": 6.11, "dom": 2.69}, "banco": {"val": 5.14, "aro": 4.38, "dom": 5.09}, "bandera": {"val": 4.92, "aro": 4.36, "dom": 5.04}, "bañera": {"val": 6.76, "aro": 3.66, "dom": 5.94}, "baño": {"val": 7.21, "aro": 4.08, "dom": 6.59}, "bar": {"val": 6.53, "aro": 6.02, "dom": 5.32}, "barco": {"val": 6.0, "aro": 5.08, "dom": 5.02}, "barril": {"val": 4.73, "aro": 4.12, "dom": 4.9}, "bastardo": {"val": 2.89, "aro": 5.3, "dom": 4.2}, "basto": {"val": 3.07, "aro": 4.57, "dom": 4.66}, "bastón": {"val": 3.83, "aro": 4.09, "dom": 5.19}, "basura": {"val": 2.06, "aro": 4.31, "dom": 4.42}, "bebé": {"val": 7.6, "aro": 5.54, "dom": 5.31}, "bebida": {"val": 6.26, "aro": 5.62, "dom": 5.39}, "belleza": {"val": 7.47, "aro": 5.76, "dom": 5.13}, "bendecir": {"val": 5.7, "aro": 4.37, "dom": 4.8}, "beso": {"val": 8.43, "aro": 7.71, "dom": 6.16}, "bestia": {"val": 2.8, "aro": 6.88, "dom": 2.87}, "blanco": {"val": 6.1, "aro": 3.99, "dom": 5.5}, "blasfemia": {"val": 2.79, "aro": 5.57, "dom": 4.4}, "boda": {"val": 6.87, "aro": 5.91, "dom": 5.64}, "bodega": {"val": 5.23, "aro": 4.54, "dom": 5.18}, "bofetada": {"val": 2.06, "aro": 7.16, "dom": 4.67}, "bomba": {"val": 1.42, "aro": 7.79, "dom": 2.22}, "bombilla": {"val": 5.29, "aro": 4.59, "dom": 5.81}, "botella": {"val": 5.1, "aro": 4.68, "dom": 5.44}, "boxeador": {"val": 3.62, "aro": 5.02, "dom": 3.9}, "brazo": {"val": 5.37, "aro": 4.83, "dom": 5.58}, "brillante": {"val": 7.03, "aro": 5.74, "dom": 5.61}, "brío": {"val": 5.78, "aro": 5.77, "dom": 5.32}, "brisa": {"val": 7.31, "aro": 4.51, "dom": 4.99}, "brutal": {"val": 1.9, "aro": 6.68, "dom": 3.9}, "buceador": {"val": 5.52, "aro": 5.22, "dom": 4.83}, "bueno": {"val": 7.92, "aro": 4.87, "dom": 6.53}, "búho": {"val": 5.92, "aro": 4.59, "dom": 4.22}, "bulto": {"val": 3.1, "aro": 5.29, "dom": 3.71}, "burla": {"val": 2.2, "aro": 6.21, "dom": 3.94}, "caballo": {"val": 6.36, "aro": 5.66, "dom": 4.78}, "cable": {"val": 4.53, "aro": 4.4, "dom": 5.17}, "cachorro": {"val": 7.21, "aro": 5.69, "dom": 5.86}, "cadáver": {"val": 1.41, "aro": 6.87, "dom": 2.54}, "caída": {"val": 2.26, "aro": 6.17, "dom": 3.42}, "calidad": {"val": 6.78, "aro": 5.02, "dom": 5.68}, "callado": {"val": 4.03, "aro": 3.57, "dom": 4.76}, "calle": {"val": 5.53, "aro": 5.43, "dom": 5.24}, "callejón": {"val": 3.46, "aro": 5.58, "dom": 4.03}, "calmar": {"val": 6.6, "aro": 3.56, "dom": 5.8}, "calor": {"val": 5.92, "aro": 5.66, "dom": 4.44}, "cama": {"val": 7.71, "aro": 4.57, "dom": 6.02}, "camión": {"val": 4.67, "aro": 4.56, "dom": 4.87}, "campeón": {"val": 7.29, "aro": 6.84, "dom": 6.09}, "campo": {"val": 7.23, "aro": 4.18, "dom": 5.97}, "cáncer": {"val": 1.23, "aro": 6.18, "dom": 1.91}, "canción": {"val": 8.01, "aro": 6.61, "dom": 6.44}, "cansado": {"val": 2.47, "aro": 2.58, "dom": 4.17}, "cañón": {"val": 2.74, "aro": 6.04, "dom": 3.51}, "caos": {"val": 2.0, "aro": 7.02, "dom": 2.6}, "capaz": {"val": 7.52, "aro": 5.92, "dom": 6.7}, "capricho": {"val": 5.92, "aro": 6.21, "dom": 5.42}, "cara": {"val": 6.02, "aro": 5.11, "dom": 5.03}, "caramelo": {"val": 7.33, "aro": 4.41, "dom": 6.11}, "cárcel": {"val": 1.87, "aro": 5.18, "dom": 3.41}, "caricia": {"val": 8.27, "aro": 6.04, "dom": 6.68}, "cariñoso": {"val": 8.41, "aro": 6.21, "dom": 6.09}, "carretera": {"val": 5.0, "aro": 5.6, "dom": 4.82}, "carro": {"val": 4.53, "aro": 4.18, "dom": 5.26}, "carroña": {"val": 2.08, "aro": 5.09, "dom": 4.52}, "carta": {"val": 6.79, "aro": 5.99, "dom": 5.72}, "casa": {"val": 7.03, "aro": 4.69, "dom": 6.12}, "cascada": {"val": 7.2, "aro": 5.2, "dom": 4.68}, "casino": {"val": 4.84, "aro": 4.8, "dom": 4.3}, "casita": {"val": 6.69, "aro": 4.5, "dom": 5.84}, "castigo": {"val": 1.87, "aro": 6.41, "dom": 3.72}, "celos": {"val": 2.27, "aro": 6.87, "dom": 3.1}, "célula": {"val": 4.91, "aro": 4.39, "dom": 4.37}, "cementerio": {"val": 2.06, "aro": 5.01, "dom": 3.19}, "cena": {"val": 6.58, "aro": 5.14, "dom": 5.81}, "cerdo": {"val": 3.71, "aro": 4.67, "dom": 4.52}, "césped": {"val": 6.31, "aro": 4.03, "dom": 5.81}, "cesta": {"val": 5.18, "aro": 3.79, "dom": 5.82}, "chaleco": {"val": 4.92, "aro": 4.3, "dom": 5.36}, "champiñón": {"val": 4.88, "aro": 4.23, "dom": 5.11}, "chantaje": {"val": 2.13, "aro": 5.92, "dom": 3.76}, "chica": {"val": 5.97, "aro": 4.92, "dom": 5.1}, "chico": {"val": 7.13, "aro": 6.54, "dom": 5.42}, "chiflado": {"val": 4.03, "aro": 5.59, "dom": 3.31}, "chillido": {"val": 2.78, "aro": 6.78, "dom": 4.58}, "chiste": {"val": 7.2, "aro": 5.97, "dom": 5.59}, "chocolate": {"val": 7.72, "aro": 6.1, "dom": 5.84}, "choque": {"val": 2.01, "aro": 6.93, "dom": 3.14}, "cicatriz": {"val": 3.01, "aro": 5.01, "dom": 3.88}, "ciclón": {"val": 2.13, "aro": 6.34, "dom": 2.04}, "ciego": {"val": 2.41, "aro": 5.21, "dom": 3.24}, "cielo": {"val": 7.56, "aro": 4.56, "dom": 4.48}, "ciempiés": {"val": 4.12, "aro": 4.88, "dom": 4.26}, "cieno": {"val": 3.77, "aro": 4.51, "dom": 4.22}, "circo": {"val": 6.2, "aro": 5.56, "dom": 4.72}, "círculo": {"val": 4.82, "aro": 4.2, "dom": 4.92}, "cirugía": {"val": 3.08, "aro": 5.7, "dom": 3.68}, "ciudad": {"val": 5.66, "aro": 5.97, "dom": 4.56}, "cobarde": {"val": 2.56, "aro": 5.49, "dom": 4.1}, "coche": {"val": 6.67, "aro": 5.83, "dom": 4.93}, "cocina": {"val": 5.71, "aro": 4.93, "dom": 5.61}, "cocinero": {"val": 5.99, "aro": 5.11, "dom": 5.38}, "codo": {"val": 4.59, "aro": 4.26, "dom": 5.28}, "coito": {"val": 7.26, "aro": 7.58, "dom": 6.07}, "cólera": {"val": 2.11, "aro": 7.58, "dom": 3.64}, "color": {"val": 6.77, "aro": 5.84, "dom": 5.52}, "columna": {"val": 4.71, "aro": 4.14, "dom": 5.29}, "comedia": {"val": 7.71, "aro": 6.33, "dom": 5.62}, "comer": {"val": 7.18, "aro": 5.53, "dom": 5.82}, "comida": {"val": 6.77, "aro": 5.5, "dom": 5.09}, "comprometido": {"val": 6.23, "aro": 5.47, "dom": 6.38}, "concentrado": {"val": 6.12, "aro": 5.21, "dom": 6.23}, "conejito": {"val": 6.46, "aro": 4.88, "dom": 5.03}, "conejo": {"val": 6.18, "aro": 5.02, "dom": 4.81}, "confianza": {"val": 7.78, "aro": 5.29, "dom": 5.77}, "confort": {"val": 8.04, "aro": 3.56, "dom": 6.63}, "confuso": {"val": 2.78, "aro": 5.78, "dom": 3.28}, "conocimiento": {"val": 7.73, "aro": 6.29, "dom": 7.22}, "considerado": {"val": 6.99, "aro": 4.77, "dom": 5.07}, "consigna": {"val": 4.79, "aro": 4.69, "dom": 4.89}, "consolado": {"val": 5.54, "aro": 4.49, "dom": 5.06}, "contaminar": {"val": 1.58, "aro": 6.56, "dom": 4.6}, "contenido": {"val": 5.21, "aro": 4.27, "dom": 4.63}, "contexto": {"val": 5.0, "aro": 4.89, "dom": 5.01}, "convencido": {"val": 6.51, "aro": 5.29, "dom": 6.43}, "coqueto": {"val": 5.79, "aro": 5.13, "dom": 5.3}, "corazón": {"val": 6.64, "aro": 6.22, "dom": 4.84}, "corcho": {"val": 4.93, "aro": 4.16, "dom": 5.2}, "cordero": {"val": 5.38, "aro": 4.74, "dom": 5.06}, "corona": {"val": 5.21, "aro": 4.48, "dom": 4.64}, "corredor": {"val": 4.08, "aro": 5.5, "dom": 4.22}, "correo": {"val": 6.43, "aro": 5.54, "dom": 4.76}, "corrupto": {"val": 2.08, "aro": 6.14, "dom": 3.38}, "corte": {"val": 2.88, "aro": 6.0, "dom": 3.9}, "cortesía": {"val": 6.92, "aro": 4.8, "dom": 5.76}, "cortina": {"val": 4.79, "aro": 4.08, "dom": 5.22}, "costa": {"val": 7.23, "aro": 4.87, "dom": 4.9}, "costumbre": {"val": 5.43, "aro": 4.32, "dom": 5.76}, "cotilleo": {"val": 4.19, "aro": 5.72, "dom": 4.64}, "cráneo": {"val": 4.42, "aro": 4.94, "dom": 4.63}, "crepe": {"val": 6.88, "aro": 5.24, "dom": 5.53}, "crepúsculo": {"val": 6.32, "aro": 4.02, "dom": 4.38}, "criatura": {"val": 5.93, "aro": 5.39, "dom": 4.73}, "crimen": {"val": 1.64, "aro": 6.67, "dom": 3.02}, "criminal": {"val": 1.77, "aro": 6.81, "dom": 2.97}, "crisis": {"val": 1.88, "aro": 6.41, "dom": 2.94}, "crucificar": {"val": 1.87, "aro": 6.26, "dom": 3.19}, "cruel": {"val": 1.77, "aro": 6.63, "dom": 3.73}, "cuadrado": {"val": 4.87, "aro": 4.16, "dom": 5.16}, "cucaracha": {"val": 2.57, "aro": 6.14, "dom": 4.53}, "cuchillo": {"val": 2.86, "aro": 5.68, "dom": 4.64}, "cuenco": {"val": 5.01, "aro": 3.89, "dom": 5.34}, "cuerpo": {"val": 6.02, "aro": 5.59, "dom": 5.53}, "culpa": {"val": 2.09, "aro": 6.46, "dom": 3.62}, "culpable": {"val": 2.36, "aro": 6.19, "dom": 3.82}, "cumpleaños": {"val": 7.54, "aro": 6.74, "dom": 5.74}, "cura": {"val": 4.52, "aro": 5.08, "dom": 4.99}, "curar": {"val": 7.66, "aro": 6.27, "dom": 5.67}, "curioso": {"val": 5.62, "aro": 6.07, "dom": 5.08}, "daga": {"val": 3.66, "aro": 5.84, "dom": 4.63}, "daño": {"val": 1.8, "aro": 6.83, "dom": 3.66}, "débil": {"val": 2.56, "aro": 4.99, "dom": 3.46}, "decepcionar": {"val": 1.57, "aro": 6.01, "dom": 3.64}, "decorar": {"val": 6.83, "aro": 5.98, "dom": 6.68}, "dedicado": {"val": 6.51, "aro": 5.34, "dom": 6.03}, "dedo": {"val": 4.86, "aro": 4.06, "dom": 5.47}, "defendido": {"val": 6.17, "aro": 5.28, "dom": 4.9}, "deforme": {"val": 2.23, "aro": 5.22, "dom": 3.0}, "deleite": {"val": 7.23, "aro": 5.73, "dom": 5.41}, "delicado": {"val": 5.64, "aro": 4.13, "dom": 5.18}, "demente": {"val": 2.27, "aro": 5.63, "dom": 3.16}, "demonio": {"val": 2.91, "aro": 6.47, "dom": 3.58}, "dentista": {"val": 3.0, "aro": 6.42, "dom": 3.69}, "deportes": {"val": 6.56, "aro": 6.6, "dom": 6.23}, "depresión": {"val": 1.56, "aro": 4.88, "dom": 3.04}, "deprimido": {"val": 1.5, "aro": 4.19, "dom": 2.86}, "desagrado": {"val": 2.21, "aro": 5.46, "dom": 4.12}, "desanimado": {"val": 2.16, "aro": 3.29, "dom": 3.42}, "desastre": {"val": 1.6, "aro": 6.92, "dom": 3.09}, "descanso": {"val": 7.52, "aro": 2.76, "dom": 6.54}, "descomposición": {"val": 1.94, "aro": 4.99, "dom": 2.87}, "desdén": {"val": 3.08, "aro": 5.0, "dom": 3.77}, "desdeñoso": {"val": 2.66, "aro": 4.76, "dom": 4.43}, "desenfadado": {"val": 6.26, "aro": 5.44, "dom": 5.28}, "deseo": {"val": 7.98, "aro": 7.31, "dom": 5.26}, "desertor": {"val": 3.38, "aro": 5.08, "dom": 3.81}, "desesperado": {"val": 2.0, "aro": 7.27, "dom": 2.68}, "desleal": {"val": 1.74, "aro": 5.92, "dom": 3.13}, "deslumbramiento": {"val": 4.38, "aro": 6.02, "dom": 3.8}, "desnudo": {"val": 5.48, "aro": 6.43, "dom": 5.3}, "desordenado": {"val": 3.33, "aro": 5.44, "dom": 4.78}, "despedazar": {"val": 2.52, "aro": 6.29, "dom": 4.16}, "desperdicio": {"val": 2.7, "aro": 4.52, "dom": 4.43}, "despreciar": {"val": 1.98, "aro": 5.79, "dom": 4.5}, "despreocupado": {"val": 5.07, "aro": 4.0, "dom": 4.67}, "destrucción": {"val": 1.5, "aro": 6.7, "dom": 2.53}, "destruir": {"val": 2.09, "aro": 6.29, "dom": 3.97}, "desventaja": {"val": 2.34, "aro": 5.37, "dom": 3.43}, "desvestido": {"val": 5.12, "aro": 6.02, "dom": 4.9}, "detalle": {"val": 6.33, "aro": 5.62, "dom": 5.31}, "detestar": {"val": 2.18, "aro": 5.77, "dom": 4.13}, "deuda": {"val": 1.92, "aro": 6.09, "dom": 4.26}, "devoto": {"val": 4.22, "aro": 4.16, "dom": 4.76}, "diablo": {"val": 2.7, "aro": 6.17, "dom": 3.49}, "diamante": {"val": 6.69, "aro": 4.96, "dom": 4.81}, "dicha": {"val": 6.7, "aro": 5.51, "dom": 5.16}, "dificultar": {"val": 2.21, "aro": 6.21, "dom": 4.22}, "digno": {"val": 7.0, "aro": 4.76, "dom": 6.02}, "dinero": {"val": 7.46, "aro": 6.4, "dom": 5.5}, "díos": {"val": 5.59, "aro": 4.29, "dom": 4.0}, "diploma": {"val": 7.46, "aro": 6.1, "dom": 6.01}, "disgustado": {"val": 2.19, "aro": 5.46, "dom": 3.49}, "distante": {"val": 2.73, "aro": 4.48, "dom": 4.46}, "disturbio": {"val": 2.57, "aro": 6.64, "dom": 3.31}, "diversión": {"val": 8.32, "aro": 7.68, "dom": 6.23}, "divorcio": {"val": 2.28, "aro": 6.46, "dom": 3.64}, "doctor": {"val": 4.77, "aro": 5.62, "dom": 4.3}, "dólar": {"val": 5.68, "aro": 5.12, "dom": 4.89}, "dolencia": {"val": 1.83, "aro": 5.69, "dom": 2.74}, "dolor": {"val": 1.61, "aro": 6.4, "dom": 2.6}, "dormir": {"val": 7.79, "aro": 2.51, "dom": 5.78}, "duro": {"val": 4.24, "aro": 5.14, "dom": 4.96}, "edificio": {"val": 4.97, "aro": 4.48, "dom": 5.12}, "educación": {"val": 7.07, "aro": 5.73, "dom": 6.48}, "efectivo": {"val": 6.8, "aro": 5.4, "dom": 6.04}, "egoísta": {"val": 2.12, "aro": 6.04, "dom": 4.18}, "ejecución": {"val": 2.48, "aro": 6.68, "dom": 3.96}, "ejercicio": {"val": 5.7, "aro": 6.33, "dom": 6.26}, "ejército": {"val": 2.49, "aro": 5.79, "dom": 3.19}, "electrodoméstico": {"val": 5.1, "aro": 4.02, "dom": 5.32}, "elegante": {"val": 7.23, "aro": 5.03, "dom": 6.11}, "empleo": {"val": 6.34, "aro": 5.76, "dom": 5.21}, "enamorado": {"val": 8.33, "aro": 7.32, "dom": 4.56}, "encanto": {"val": 7.68, "aro": 5.86, "dom": 5.86}, "enérgico": {"val": 7.16, "aro": 6.88, "dom": 5.56}, "enfadado": {"val": 2.2, "aro": 6.61, "dom": 3.84}, "enfado": {"val": 2.5, "aro": 7.33, "dom": 4.4}, "enfermedad": {"val": 1.51, "aro": 6.1, "dom": 2.44}, "enfermera": {"val": 4.83, "aro": 5.66, "dom": 4.74}, "enfermo": {"val": 1.61, "aro": 4.5, "dom": 3.01}, "enfurecido": {"val": 2.02, "aro": 7.48, "dom": 3.76}, "engaño": {"val": 1.89, "aro": 6.61, "dom": 3.58}, "engreído": {"val": 2.16, "aro": 6.06, "dom": 4.08}, "ensalada": {"val": 6.12, "aro": 4.17, "dom": 5.84}, "entierro": {"val": 1.36, "aro": 6.32, "dom": 2.4}, "entrometido": {"val": 2.72, "aro": 6.07, "dom": 4.09}, "entusiasmo": {"val": 7.86, "aro": 7.49, "dom": 5.87}, "erótico": {"val": 7.44, "aro": 7.47, "dom": 5.84}, "error": {"val": 2.62, "aro": 6.4, "dom": 3.71}, "erudito": {"val": 5.83, "aro": 4.8, "dom": 5.17}, "escándalo": {"val": 3.47, "aro": 6.32, "dom": 3.63}, "escéptico": {"val": 4.22, "aro": 4.97, "dom": 4.63}, "esclavo": {"val": 1.62, "aro": 5.97, "dom": 3.39}, "esconder": {"val": 3.63, "aro": 5.28, "dom": 4.43}, "escopeta": {"val": 2.32, "aro": 6.33, "dom": 4.16}, "escorbuto": {"val": 2.22, "aro": 5.21, "dom": 3.4}, "escoria": {"val": 1.87, "aro": 5.53, "dom": 4.22}, "escorpión": {"val": 2.86, "aro": 7.13, "dom": 3.16}, "escritor": {"val": 6.47, "aro": 4.74, "dom": 5.1}, "esfera": {"val": 5.27, "aro": 4.24, "dom": 4.84}, "espacio": {"val": 6.3, "aro": 5.14, "dom": 4.66}, "espantoso": {"val": 2.18, "aro": 6.54, "dom": 3.93}, "esperanza": {"val": 8.11, "aro": 6.59, "dom": 5.79}, "esperanzado": {"val": 7.41, "aro": 6.24, "dom": 5.69}, "espina": {"val": 2.64, "aro": 5.8, "dom": 4.28}, "espíritu": {"val": 5.51, "aro": 4.86, "dom": 4.27}, "esposa": {"val": 5.61, "aro": 4.88, "dom": 5.41}, "esposo": {"val": 6.03, "aro": 5.5, "dom": 5.41}, "espuma": {"val": 6.47, "aro": 4.84, "dom": 5.66}, "esquina": {"val": 4.47, "aro": 4.57, "dom": 4.76}, "estancado": {"val": 2.63, "aro": 4.57, "dom": 3.84}, "estatua": {"val": 5.32, "aro": 3.94, "dom": 4.92}, "estiércol": {"val": 2.02, "aro": 4.64, "dom": 4.4}, "estómago": {"val": 4.39, "aro": 4.73, "dom": 4.63}, "estrella": {"val": 7.52, "aro": 4.6, "dom": 4.48}, "estremecerse": {"val": 3.67, "aro": 6.17, "dom": 3.27}, "estrés": {"val": 1.83, "aro": 7.32, "dom": 3.13}, "estufa": {"val": 6.37, "aro": 3.74, "dom": 5.98}, "estúpido": {"val": 2.6, "aro": 5.58, "dom": 3.86}, "eufórico": {"val": 6.8, "aro": 7.53, "dom": 4.62}, "excelencia": {"val": 6.01, "aro": 5.39, "dom": 5.08}, "excitado": {"val": 6.5, "aro": 7.89, "dom": 4.6}, "excusa": {"val": 3.14, "aro": 6.11, "dom": 5.06}, "éxito": {"val": 7.69, "aro": 6.83, "dom": 5.79}, "exquisito": {"val": 7.44, "aro": 5.74, "dom": 5.47}, "éxtasis": {"val": 4.76, "aro": 6.69, "dom": 4.14}, "exterior": {"val": 6.41, "aro": 5.62, "dom": 4.83}, "extraordinario": {"val": 7.37, "aro": 6.12, "dom": 5.09}, "extraterrestre": {"val": 4.66, "aro": 5.87, "dom": 3.52}, "fácil": {"val": 6.92, "aro": 4.48, "dom": 6.8}, "falso ": {"val": 1.73, "aro": 6.17, "dom": 4.16}, "fama": {"val": 5.46, "aro": 6.18, "dom": 4.34}, "famélico": {"val": 2.12, "aro": 5.82, "dom": 3.68}, "familia": {"val": 8.18, "aro": 5.31, "dom": 5.89}, "famoso": {"val": 5.18, "aro": 5.07, "dom": 4.54}, "fantasía": {"val": 7.39, "aro": 6.96, "dom": 5.46}, "faro": {"val": 5.48, "aro": 4.2, "dom": 4.93}, "farol": {"val": 4.93, "aro": 4.47, "dom": 5.17}, "fascinar": {"val": 7.42, "aro": 6.84, "dom": 5.89}, "fase": {"val": 4.82, "aro": 4.8, "dom": 4.66}, "fastidiar": {"val": 2.26, "aro": 5.9, "dom": 4.77}, "fatigado": {"val": 2.61, "aro": 4.08, "dom": 4.01}, "favor": {"val": 6.58, "aro": 5.7, "dom": 5.33}, "feliz": {"val": 8.37, "aro": 6.97, "dom": 6.44}, "feo": {"val": 3.08, "aro": 4.16, "dom": 3.88}, "festivo": {"val": 7.97, "aro": 6.47, "dom": 5.36}, "fétido": {"val": 2.14, "aro": 5.31, "dom": 3.94}, "fiebre": {"val": 1.86, "aro": 4.03, "dom": 2.98}, "fiesta": {"val": 8.26, "aro": 7.66, "dom": 5.96}, "firmamento": {"val": 7.79, "aro": 4.8, "dom": 4.14}, "flemón": {"val": 1.96, "aro": 5.36, "dom": 3.39}, "flexible": {"val": 5.91, "aro": 4.84, "dom": 5.29}, "flor": {"val": 7.34, "aro": 4.46, "dom": 5.69}, "florecer": {"val": 7.49, "aro": 5.38, "dom": 4.81}, "fofo": {"val": 3.01, "aro": 4.02, "dom": 4.49}, "folleto": {"val": 4.79, "aro": 4.33, "dom": 5.38}, "follón": {"val": 2.62, "aro": 6.77, "dom": 4.04}, "fortuito": {"val": 5.89, "aro": 5.57, "dom": 3.59}, "fracaso": {"val": 1.64, "aro": 5.51, "dom": 3.52}, "fragancia": {"val": 7.76, "aro": 5.22, "dom": 5.97}, "fraude": {"val": 1.86, "aro": 5.82, "dom": 3.29}, "frío": {"val": 3.21, "aro": 4.98, "dom": 4.33}, "frustrado": {"val": 1.88, "aro": 5.1, "dom": 3.19}, "fuego": {"val": 5.0, "aro": 6.51, "dom": 3.97}, "fuerte": {"val": 6.3, "aro": 5.88, "dom": 5.32}, "funeral": {"val": 1.48, "aro": 5.06, "dom": 2.5}, "furcia": {"val": 2.66, "aro": 4.86, "dom": 4.23}, "fusil": {"val": 2.08, "aro": 6.41, "dom": 3.26}, "ganancias": {"val": 7.58, "aro": 6.34, "dom": 5.3}, "ganar": {"val": 7.84, "aro": 7.68, "dom": 6.12}, "gangrena": {"val": 1.68, "aro": 6.62, "dom": 2.82}, "gatito": {"val": 6.96, "aro": 4.86, "dom": 5.73}, "gato": {"val": 6.13, "aro": 4.94, "dom": 5.14}, "gélido": {"val": 3.28, "aro": 4.97, "dom": 4.08}, "género": {"val": 4.87, "aro": 4.9, "dom": 4.84}, "generoso": {"val": 7.57, "aro": 5.53, "dom": 5.67}, "genial": {"val": 7.98, "aro": 6.62, "dom": 6.37}, "gente": {"val": 6.53, "aro": 6.24, "dom": 4.57}, "gérmenes": {"val": 1.78, "aro": 6.26, "dom": 3.42}, "gimnasta": {"val": 5.91, "aro": 5.42, "dom": 5.26}, "glaciar": {"val": 5.76, "aro": 5.03, "dom": 4.1}, "glamour": {"val": 5.94, "aro": 5.51, "dom": 5.47}, "gloria": {"val": 6.9, "aro": 5.8, "dom": 5.51}, "goce": {"val": 8.09, "aro": 6.62, "dom": 5.8}, "golfista": {"val": 4.43, "aro": 4.33, "dom": 5.18}, "golpe": {"val": 2.33, "aro": 6.03, "dom": 3.74}, "gordo": {"val": 3.56, "aro": 4.89, "dom": 4.84}, "graduado": {"val": 7.09, "aro": 6.16, "dom": 6.59}, "granada": {"val": 3.42, "aro": 6.61, "dom": 3.87}, "granja": {"val": 5.53, "aro": 4.9, "dom": 5.22}, "grave": {"val": 1.89, "aro": 6.83, "dom": 3.24}, "grito": {"val": 3.39, "aro": 7.42, "dom": 4.43}, "grosero": {"val": 2.22, "aro": 5.99, "dom": 4.3}, "guapa": {"val": 7.22, "aro": 5.4, "dom": 5.18}, "guapo": {"val": 7.79, "aro": 6.64, "dom": 5.07}, "guardería": {"val": 6.59, "aro": 6.07, "dom": 4.98}, "guerra": {"val": 1.23, "aro": 7.28, "dom": 2.04}, "guillotina": {"val": 1.87, "aro": 6.13, "dom": 3.17}, "guiño": {"val": 6.93, "aro": 6.09, "dom": 5.28}, "gusano": {"val": 2.99, "aro": 5.07, "dom": 4.6}, "habitante": {"val": 5.91, "aro": 4.61, "dom": 5.19}, "hábito": {"val": 4.84, "aro": 4.33, "dom": 5.87}, "halcón": {"val": 5.29, "aro": 5.13, "dom": 4.26}, "hambriento": {"val": 3.12, "aro": 6.29, "dom": 3.56}, "hamburguesa": {"val": 5.78, "aro": 4.86, "dom": 5.38}, "harto": {"val": 2.73, "aro": 5.78, "dom": 4.27}, "hastío": {"val": 2.46, "aro": 4.0, "dom": 3.61}, "hedor": {"val": 1.91, "aro": 5.62, "dom": 3.81}, "heno": {"val": 5.0, "aro": 3.97, "dom": 5.24}, "heridas": {"val": 2.07, "aro": 6.43, "dom": 3.99}, "herido": {"val": 1.98, "aro": 6.73, "dom": 3.31}, "hermano": {"val": 7.81, "aro": 5.08, "dom": 5.86}, "hermoso": {"val": 7.61, "aro": 5.44, "dom": 5.13}, "heroína": {"val": 3.61, "aro": 6.09, "dom": 4.54}, "herramienta": {"val": 4.58, "aro": 4.51, "dom": 5.43}, "hervir": {"val": 4.81, "aro": 4.77, "dom": 5.21}, "hierro": {"val": 4.44, "aro": 4.44, "dom": 4.93}, "historia": {"val": 5.37, "aro": 4.32, "dom": 4.93}, "hogar": {"val": 7.63, "aro": 5.01, "dom": 6.29}, "hombre": {"val": 6.91, "aro": 6.06, "dom": 5.1}, "homicida": {"val": 1.68, "aro": 6.69, "dom": 3.1}, "honesto": {"val": 7.52, "aro": 5.02, "dom": 6.09}, "hongo": {"val": 2.91, "aro": 4.9, "dom": 4.0}, "honor": {"val": 7.36, "aro": 5.53, "dom": 6.47}, "hornear": {"val": 5.47, "aro": 4.71, "dom": 5.54}, "horquilla": {"val": 5.11, "aro": 4.21, "dom": 5.71}, "horror": {"val": 1.68, "aro": 6.89, "dom": 2.81}, "hospital": {"val": 2.07, "aro": 5.49, "dom": 3.46}, "hostil": {"val": 2.2, "aro": 5.97, "dom": 3.96}, "hotel": {"val": 6.39, "aro": 5.49, "dom": 5.54}, "huevo": {"val": 5.01, "aro": 3.94, "dom": 5.31}, "humano": {"val": 6.67, "aro": 5.49, "dom": 5.17}, "humilde": {"val": 6.59, "aro": 4.16, "dom": 5.64}, "humillar": {"val": 1.68, "aro": 6.42, "dom": 3.68}, "humor": {"val": 7.7, "aro": 6.9, "dom": 5.47}, "huracán": {"val": 2.28, "aro": 7.16, "dom": 2.63}, "idea": {"val": 7.36, "aro": 6.62, "dom": 6.46}, "identidad": {"val": 6.2, "aro": 5.04, "dom": 6.01}, "idiota": {"val": 2.56, "aro": 5.11, "dom": 4.73}, "ídolo": {"val": 6.29, "aro": 5.8, "dom": 4.86}, "iglesia": {"val": 3.77, "aro": 4.31, "dom": 4.78}, "ignorancia": {"val": 2.0, "aro": 5.18, "dom": 4.51}, "imaginar": {"val": 7.58, "aro": 6.33, "dom": 6.29}, "imparcial": {"val": 4.68, "aro": 4.83, "dom": 4.84}, "impotente": {"val": 1.98, "aro": 5.58, "dom": 2.82}, "impresionado": {"val": 6.09, "aro": 6.69, "dom": 4.2}, "incentivo": {"val": 7.39, "aro": 6.71, "dom": 5.66}, "incomodidad": {"val": 2.16, "aro": 6.57, "dom": 4.33}, "incordio": {"val": 2.29, "aro": 5.83, "dom": 4.26}, "indefenso": {"val": 1.89, "aro": 5.71, "dom": 2.83}, "indiferente": {"val": 3.98, "aro": 4.72, "dom": 4.9}, "industria": {"val": 4.21, "aro": 4.83, "dom": 4.47}, "infección": {"val": 1.69, "aro": 6.47, "dom": 2.94}, "infeliz": {"val": 1.43, "aro": 4.73, "dom": 3.27}, "inferior": {"val": 2.5, "aro": 4.86, "dom": 4.01}, "infiel": {"val": 1.7, "aro": 6.81, "dom": 4.13}, "infierno": {"val": 2.47, "aro": 5.4, "dom": 3.46}, "ingenio": {"val": 7.34, "aro": 6.28, "dom": 5.7}, "inmaduro": {"val": 3.18, "aro": 5.1, "dom": 4.67}, "inmoral": {"val": 2.86, "aro": 5.91, "dom": 4.76}, "inocente": {"val": 6.31, "aro": 4.39, "dom": 5.14}, "inquieto": {"val": 4.47, "aro": 6.83, "dom": 4.23}, "insecto": {"val": 3.24, "aro": 5.57, "dom": 4.13}, "inseguro": {"val": 2.18, "aro": 6.29, "dom": 2.72}, "insolente": {"val": 2.44, "aro": 5.82, "dom": 4.17}, "inspirado": {"val": 7.04, "aro": 5.78, "dom": 6.03}, "inspirar": {"val": 7.17, "aro": 5.14, "dom": 5.46}, "insulto": {"val": 2.33, "aro": 6.3, "dom": 4.17}, "intelecto": {"val": 6.56, "aro": 5.16, "dom": 6.47}, "interés": {"val": 6.57, "aro": 5.89, "dom": 5.96}, "íntimo": {"val": 7.46, "aro": 5.13, "dom": 6.38}, "intruso": {"val": 2.36, "aro": 6.64, "dom": 3.33}, "inundación": {"val": 1.99, "aro": 6.3, "dom": 2.52}, "inútil": {"val": 2.09, "aro": 5.19, "dom": 4.0}, "invasor": {"val": 2.52, "aro": 6.96, "dom": 3.57}, "invertir": {"val": 5.27, "aro": 5.63, "dom": 5.09}, "invitación": {"val": 7.86, "aro": 6.79, "dom": 5.42}, "irritar": {"val": 1.93, "aro": 6.34, "dom": 4.14}, "jaqueca": {"val": 1.58, "aro": 4.38, "dom": 2.62}, "jardín": {"val": 7.99, "aro": 4.47, "dom": 5.96}, "jarra": {"val": 4.81, "aro": 4.17, "dom": 5.83}, "joven": {"val": 7.71, "aro": 6.6, "dom": 4.93}, "jovial": {"val": 7.23, "aro": 5.59, "dom": 5.7}, "joya": {"val": 6.51, "aro": 5.32, "dom": 5.51}, "júbilo": {"val": 7.61, "aro": 6.92, "dom": 5.68}, "jubiloso": {"val": 7.44, "aro": 6.62, "dom": 5.88}, "juego": {"val": 6.94, "aro": 6.72, "dom": 5.62}, "juguete": {"val": 6.72, "aro": 5.06, "dom": 6.13}, "justicia": {"val": 7.0, "aro": 5.78, "dom": 4.98}, "juventud": {"val": 7.82, "aro": 6.6, "dom": 4.49}, "ketchup": {"val": 4.76, "aro": 4.39, "dom": 5.3}, "ladrón": {"val": 1.93, "aro": 6.98, "dom": 3.41}, "lago": {"val": 7.19, "aro": 4.33, "dom": 5.02}, "lámpara": {"val": 5.42, "aro": 4.24, "dom": 6.01}, "lánguido": {"val": 3.0, "aro": 3.49, "dom": 4.0}, "lápiz": {"val": 4.98, "aro": 4.63, "dom": 6.0}, "lástima": {"val": 1.79, "aro": 5.62, "dom": 3.92}, "lavabo": {"val": 4.72, "aro": 4.3, "dom": 5.39}, "leal": {"val": 7.73, "aro": 4.88, "dom": 5.82}, "leche": {"val": 5.83, "aro": 4.07, "dom": 5.92}, "lento": {"val": 3.71, "aro": 4.27, "dom": 4.81}, "león": {"val": 4.98, "aro": 7.09, "dom": 3.73}, "lepra": {"val": 1.42, "aro": 6.91, "dom": 2.88}, "lesbiana": {"val": 5.37, "aro": 4.81, "dom": 4.68}, "lesión": {"val": 1.92, "aro": 5.69, "dom": 3.54}, "leyenda": {"val": 6.7, "aro": 5.66, "dom": 4.57}, "liberación": {"val": 7.97, "aro": 6.63, "dom": 5.77}, "libertad": {"val": 8.54, "aro": 6.4, "dom": 6.26}, "libre": {"val": 8.28, "aro": 6.38, "dom": 7.01}, "libro": {"val": 6.42, "aro": 5.3, "dom": 5.84}, "licenciado": {"val": 7.56, "aro": 6.31, "dom": 6.2}, "líder": {"val": 5.47, "aro": 6.16, "dom": 5.33}, "liga": {"val": 5.38, "aro": 5.06, "dom": 4.78}, "linterna": {"val": 5.11, "aro": 4.22, "dom": 5.56}, "liso": {"val": 5.4, "aro": 4.51, "dom": 5.2}, "litro": {"val": 5.07, "aro": 4.14, "dom": 5.26}, "llano": {"val": 5.18, "aro": 3.84, "dom": 4.78}, "llave": {"val": 5.57, "aro": 4.28, "dom": 5.89}, "lloriqueo": {"val": 2.22, "aro": 5.96, "dom": 4.07}, "lluvia": {"val": 4.52, "aro": 4.43, "dom": 3.11}, "lóbrego": {"val": 3.39, "aro": 5.26, "dom": 4.16}, "loco": {"val": 3.41, "aro": 6.67, "dom": 3.6}, "logro": {"val": 8.01, "aro": 6.99, "dom": 6.58}, "lotería": {"val": 6.98, "aro": 6.22, "dom": 3.63}, "lucha": {"val": 2.4, "aro": 6.67, "dom": 4.24}, "lujo": {"val": 6.51, "aro": 5.57, "dom": 4.66}, "lujuria": {"val": 5.43, "aro": 6.94, "dom": 4.4}, "madre": {"val": 8.19, "aro": 5.19, "dom": 5.74}, "maestro": {"val": 5.5, "aro": 4.98, "dom": 4.82}, "magdalena": {"val": 6.27, "aro": 4.26, "dom": 5.64}, "mágico": {"val": 7.17, "aro": 6.13, "dom": 4.3}, "magistral": {"val": 6.34, "aro": 5.67, "dom": 5.72}, "malaria": {"val": 1.81, "aro": 6.4, "dom": 2.83}, "maleducado": {"val": 2.21, "aro": 6.06, "dom": 4.03}, "maletero": {"val": 4.21, "aro": 4.19, "dom": 4.7}, "malicia": {"val": 2.08, "aro": 6.02, "dom": 3.7}, "maltrato": {"val": 1.39, "aro": 7.39, "dom": 2.64}, "malvado": {"val": 1.8, "aro": 6.46, "dom": 4.07}, "manera": {"val": 5.0, "aro": 4.5, "dom": 4.99}, "manguera": {"val": 5.26, "aro": 4.62, "dom": 5.42}, "maníaco": {"val": 1.88, "aro": 6.84, "dom": 3.0}, "maniquí": {"val": 4.38, "aro": 3.91, "dom": 4.99}, "mano": {"val": 6.04, "aro": 5.1, "dom": 6.09}, "manosear": {"val": 3.99, "aro": 5.64, "dom": 5.11}, "manso": {"val": 5.9, "aro": 3.51, "dom": 5.21}, "mantequilla": {"val": 5.2, "aro": 4.03, "dom": 5.4}, "máquina": {"val": 4.44, "aro": 4.83, "dom": 5.42}, "maquinilla": {"val": 4.22, "aro": 4.59, "dom": 5.3}, "maravilla": {"val": 7.96, "aro": 6.13, "dom": 5.23}, "mareado": {"val": 2.01, "aro": 5.33, "dom": 2.6}, "mariposa": {"val": 6.74, "aro": 4.6, "dom": 5.31}, "mariquita": {"val": 5.8, "aro": 4.6, "dom": 5.17}, "martillo": {"val": 4.38, "aro": 4.92, "dom": 5.48}, "masacre": {"val": 1.32, "aro": 7.01, "dom": 1.92}, "mascota": {"val": 7.33, "aro": 5.58, "dom": 5.84}, "masturbarse": {"val": 5.79, "aro": 6.41, "dom": 6.49}, "matanza": {"val": 1.66, "aro": 7.7, "dom": 2.39}, "material": {"val": 5.01, "aro": 4.19, "dom": 5.4}, "medicina": {"val": 5.38, "aro": 5.56, "dom": 4.56}, "mejorar": {"val": 7.46, "aro": 6.41, "dom": 6.69}, "melodía": {"val": 7.71, "aro": 5.31, "dom": 6.39}, "memoria": {"val": 6.41, "aro": 5.14, "dom": 5.26}, "mendigo": {"val": 2.92, "aro": 5.6, "dom": 3.69}, "menosprecio": {"val": 1.72, "aro": 5.8, "dom": 3.5}, "mente": {"val": 6.41, "aro": 5.81, "dom": 5.93}, "mentira": {"val": 1.88, "aro": 6.51, "dom": 4.32}, "mentón": {"val": 4.67, "aro": 4.38, "dom": 4.47}, "mercado": {"val": 5.41, "aro": 4.98, "dom": 5.07}, "mermelada": {"val": 5.93, "aro": 4.47, "dom": 5.71}, "mes": {"val": 5.03, "aro": 4.61, "dom": 4.6}, "mesa": {"val": 4.8, "aro": 4.21, "dom": 5.13}, "metal": {"val": 4.98, "aro": 4.42, "dom": 4.97}, "método": {"val": 5.07, "aro": 4.68, "dom": 4.76}, "miedoso": {"val": 2.57, "aro": 6.09, "dom": 3.67}, "miel": {"val": 5.46, "aro": 4.06, "dom": 5.66}, "milagro": {"val": 6.84, "aro": 5.86, "dom": 3.46}, "millonario": {"val": 6.57, "aro": 6.0, "dom": 4.89}, "miseria": {"val": 1.47, "aro": 5.57, "dom": 3.1}, "místico": {"val": 5.64, "aro": 4.98, "dom": 4.87}, "modesto": {"val": 6.31, "aro": 4.24, "dom": 5.86}, "moho": {"val": 2.61, "aro": 4.87, "dom": 4.33}, "molde": {"val": 4.76, "aro": 4.02, "dom": 5.46}, "molestar": {"val": 2.33, "aro": 6.37, "dom": 4.02}, "molestia": {"val": 2.17, "aro": 6.0, "dom": 3.82}, "molino": {"val": 5.36, "aro": 4.22, "dom": 4.61}, "momento": {"val": 6.0, "aro": 5.31, "dom": 5.41}, "moneda": {"val": 6.01, "aro": 5.72, "dom": 5.64}, "monja": {"val": 3.79, "aro": 3.64, "dom": 4.79}, "mono": {"val": 5.29, "aro": 5.1, "dom": 4.49}, "montaña": {"val": 6.49, "aro": 4.99, "dom": 4.84}, "moral": {"val": 6.12, "aro": 5.31, "dom": 6.09}, "morboso": {"val": 4.29, "aro": 6.36, "dom": 4.69}, "morgue": {"val": 2.71, "aro": 5.33, "dom": 3.21}, "mosquito": {"val": 2.54, "aro": 5.84, "dom": 4.28}, "motor": {"val": 4.83, "aro": 4.91, "dom": 4.63}, "movilidad": {"val": 7.16, "aro": 6.23, "dom": 6.14}, "mucosidad": {"val": 2.58, "aro": 4.69, "dom": 4.08}, "mueca": {"val": 5.2, "aro": 5.11, "dom": 5.29}, "muerte": {"val": 1.23, "aro": 6.46, "dom": 1.93}, "muerto": {"val": 1.17, "aro": 5.99, "dom": 1.98}, "mugre": {"val": 1.93, "aro": 5.21, "dom": 5.04}, "mujer": {"val": 6.4, "aro": 4.89, "dom": 5.51}, "muleta": {"val": 2.87, "aro": 4.5, "dom": 4.24}, "multa": {"val": 1.98, "aro": 6.67, "dom": 3.62}, "mundo": {"val": 6.57, "aro": 6.12, "dom": 3.9}, "muñeca": {"val": 6.24, "aro": 4.48, "dom": 5.79}, "musculoso": {"val": 5.04, "aro": 4.89, "dom": 5.22}, "museo": {"val": 6.26, "aro": 4.52, "dom": 5.44}, "música": {"val": 8.16, "aro": 6.62, "dom": 6.61}, "mutación": {"val": 3.27, "aro": 5.24, "dom": 3.0}, "mutilar": {"val": 1.36, "aro": 7.01, "dom": 2.93}, "nadador": {"val": 5.92, "aro": 5.4, "dom": 5.04}, "narcótico": {"val": 2.92, "aro": 5.71, "dom": 4.32}, "natural": {"val": 7.17, "aro": 4.26, "dom": 5.19}, "naturaleza": {"val": 8.03, "aro": 5.38, "dom": 4.58}, "navidad": {"val": 6.69, "aro": 6.1, "dom": 5.09}, "néctar": {"val": 6.1, "aro": 4.6, "dom": 5.28}, "negligencia": {"val": 1.88, "aro": 6.06, "dom": 3.17}, "negro": {"val": 4.87, "aro": 4.47, "dom": 4.81}, "nene": {"val": 7.36, "aro": 5.4, "dom": 5.62}, "nervioso": {"val": 3.26, "aro": 7.36, "dom": 3.02}, "neurótico": {"val": 2.57, "aro": 6.51, "dom": 3.94}, "nevera": {"val": 5.44, "aro": 4.84, "dom": 5.5}, "nieve": {"val": 7.0, "aro": 5.34, "dom": 4.4}, "niño": {"val": 7.34, "aro": 6.4, "dom": 5.38}, "nombre": {"val": 5.72, "aro": 4.58, "dom": 5.41}, "noticias": {"val": 5.16, "aro": 5.77, "dom": 3.69}, "novia": {"val": 6.63, "aro": 5.79, "dom": 5.04}, "novio": {"val": 7.49, "aro": 6.7, "dom": 5.13}, "nubes": {"val": 6.37, "aro": 4.21, "dom": 3.51}, "nublado": {"val": 3.27, "aro": 3.61, "dom": 3.0}, "nudo": {"val": 3.96, "aro": 4.76, "dom": 5.19}, "nutrir": {"val": 6.3, "aro": 5.12, "dom": 5.91}, "obedecer": {"val": 3.84, "aro": 5.28, "dom": 4.89}, "obesidad": {"val": 2.28, "aro": 5.22, "dom": 3.73}, "obsceno": {"val": 2.51, "aro": 5.79, "dom": 4.12}, "obsequio": {"val": 7.8, "aro": 6.29, "dom": 5.37}, "obsesión": {"val": 2.78, "aro": 6.09, "dom": 3.09}, "ocaso": {"val": 6.39, "aro": 4.54, "dom": 4.19}, "océano": {"val": 7.54, "aro": 5.36, "dom": 4.38}, "odiar": {"val": 1.86, "aro": 6.48, "dom": 4.23}, "odio": {"val": 1.74, "aro": 7.01, "dom": 3.67}, "ofender": {"val": 2.1, "aro": 5.96, "dom": 4.57}, "oficina": {"val": 4.09, "aro": 4.64, "dom": 5.08}, "olla": {"val": 4.66, "aro": 4.16, "dom": 5.38}, "opción": {"val": 6.08, "aro": 5.7, "dom": 5.94}, "opinión": {"val": 6.34, "aro": 5.69, "dom": 5.71}, "oportunidad": {"val": 7.91, "aro": 7.07, "dom": 5.31}, "optimismo": {"val": 8.31, "aro": 6.38, "dom": 6.33}, "ordenado": {"val": 6.57, "aro": 4.19, "dom": 6.78}, "ordenador": {"val": 5.5, "aro": 5.06, "dom": 5.27}, "orgasmo": {"val": 8.06, "aro": 8.16, "dom": 5.13}, "orgullo": {"val": 5.12, "aro": 5.96, "dom": 5.4}, "orgulloso": {"val": 5.53, "aro": 5.8, "dom": 5.82}, "orina": {"val": 2.82, "aro": 4.64, "dom": 5.29}, "oro": {"val": 6.68, "aro": 5.76, "dom": 5.04}, "orquesta": {"val": 6.24, "aro": 5.26, "dom": 4.64}, "oscuro": {"val": 3.71, "aro": 5.06, "dom": 4.04}, "otoño": {"val": 5.17, "aro": 4.44, "dom": 4.19}, "oxidado": {"val": 3.11, "aro": 3.97, "dom": 4.34}, "paciente": {"val": 4.36, "aro": 4.88, "dom": 4.78}, "padre": {"val": 7.0, "aro": 4.86, "dom": 4.94}, "pájaro": {"val": 6.43, "aro": 4.79, "dom": 4.53}, "palacio": {"val": 6.91, "aro": 5.03, "dom": 5.0}, "paloma": {"val": 6.32, "aro": 4.38, "dom": 5.04}, "pancarta": {"val": 5.49, "aro": 5.17, "dom": 5.08}, "pánico": {"val": 1.53, "aro": 7.72, "dom": 2.43}, "pantano": {"val": 3.97, "aro": 4.81, "dom": 3.94}, "pañuelo": {"val": 4.33, "aro": 4.17, "dom": 5.36}, "papel": {"val": 4.98, "aro": 3.89, "dom": 5.73}, "paraguas": {"val": 4.27, "aro": 3.99, "dom": 5.23}, "paraíso": {"val": 8.24, "aro": 5.7, "dom": 5.7}, "parálisis": {"val": 1.33, "aro": 5.16, "dom": 2.16}, "pareja": {"val": 7.91, "aro": 7.08, "dom": 5.6}, "parte": {"val": 4.66, "aro": 4.52, "dom": 5.04}, "pasaje": {"val": 5.23, "aro": 4.92, "dom": 4.74}, "pasillo": {"val": 4.37, "aro": 4.47, "dom": 4.74}, "pasión": {"val": 7.84, "aro": 7.96, "dom": 4.96}, "pasta": {"val": 6.22, "aro": 4.92, "dom": 5.62}, "pastel": {"val": 7.18, "aro": 5.28, "dom": 5.69}, "patente": {"val": 4.77, "aro": 4.53, "dom": 5.04}, "patriota": {"val": 4.91, "aro": 5.52, "dom": 5.33}, "pausado": {"val": 5.19, "aro": 3.23, "dom": 5.33}, "paz": {"val": 8.11, "aro": 3.49, "dom": 5.71}, "pecado": {"val": 3.92, "aro": 5.54, "dom": 4.92}, "pecaminoso": {"val": 3.66, "aro": 5.57, "dom": 4.54}, "película": {"val": 7.14, "aro": 5.41, "dom": 5.87}, "peligro": {"val": 2.02, "aro": 7.56, "dom": 2.93}, "pellizco": {"val": 3.17, "aro": 5.89, "dom": 4.2}, "pena": {"val": 1.6, "aro": 4.8, "dom": 3.22}, "pene": {"val": 5.93, "aro": 6.54, "dom": 5.54}, "penoso": {"val": 2.13, "aro": 5.31, "dom": 3.88}, "pensamiento": {"val": 5.91, "aro": 5.51, "dom": 5.56}, "perdedor": {"val": 2.1, "aro": 5.33, "dom": 3.72}, "perdido": {"val": 2.28, "aro": 6.18, "dom": 2.73}, "perezoso": {"val": 3.62, "aro": 3.37, "dom": 4.67}, "perfección": {"val": 6.58, "aro": 5.83, "dom": 5.78}, "perfume": {"val": 7.03, "aro": 4.88, "dom": 5.59}, "perro": {"val": 6.5, "aro": 5.83, "dom": 5.08}, "persona": {"val": 6.89, "aro": 5.27, "dom": 5.58}, "perverso": {"val": 2.59, "aro": 6.12, "dom": 3.9}, "pervertido": {"val": 1.96, "aro": 6.54, "dom": 3.42}, "pesadilla": {"val": 1.8, "aro": 7.31, "dom": 2.3}, "pesar": {"val": 3.04, "aro": 5.41, "dom": 4.33}, "pesaroso": {"val": 2.86, "aro": 4.24, "dom": 4.0}, "pescado": {"val": 5.7, "aro": 4.63, "dom": 5.09}, "pesimismo": {"val": 2.06, "aro": 4.61, "dom": 3.41}, "peste": {"val": 1.53, "aro": 6.2, "dom": 3.01}, "pezón": {"val": 6.14, "aro": 5.42, "dom": 5.27}, "pie": {"val": 4.67, "aro": 4.58, "dom": 5.19}, "piel": {"val": 6.19, "aro": 4.9, "dom": 5.23}, "pieza": {"val": 4.84, "aro": 4.12, "dom": 5.12}, "pinchazo": {"val": 2.18, "aro": 6.69, "dom": 3.7}, "pintura": {"val": 6.2, "aro": 5.2, "dom": 5.64}, "piojo": {"val": 1.97, "aro": 5.64, "dom": 3.64}, "piojos": {"val": 1.9, "aro": 6.32, "dom": 3.46}, "pirotecnia": {"val": 5.06, "aro": 6.48, "dom": 3.79}, "pistola": {"val": 1.83, "aro": 7.08, "dom": 3.58}, "pitón": {"val": 2.93, "aro": 6.82, "dom": 3.16}, "pizza": {"val": 7.07, "aro": 5.31, "dom": 6.0}, "placer": {"val": 8.48, "aro": 7.57, "dom": 5.69}, "planta": {"val": 6.46, "aro": 3.8, "dom": 5.28}, "playa": {"val": 8.07, "aro": 5.93, "dom": 6.28}, "pleito": {"val": 2.81, "aro": 6.07, "dom": 3.64}, "pobreza": {"val": 1.54, "aro": 5.89, "dom": 3.07}, "poder": {"val": 5.73, "aro": 6.09, "dom": 5.7}, "poderoso": {"val": 5.37, "aro": 5.4, "dom": 5.53}, "podrido": {"val": 1.91, "aro": 5.16, "dom": 4.17}, "poesía": {"val": 7.23, "aro": 5.6, "dom": 5.36}, "ponzoña": {"val": 3.39, "aro": 4.37, "dom": 4.16}, "porquería": {"val": 1.66, "aro": 5.37, "dom": 5.3}, "póster": {"val": 5.49, "aro": 4.63, "dom": 4.96}, "pradera": {"val": 7.49, "aro": 5.03, "dom": 5.59}, "precipicio": {"val": 2.6, "aro": 6.91, "dom": 3.28}, "predominante": {"val": 4.7, "aro": 5.14, "dom": 4.96}, "prenda": {"val": 5.88, "aro": 4.54, "dom": 5.43}, "presión": {"val": 2.7, "aro": 7.08, "dom": 4.07}, "prestigio": {"val": 7.17, "aro": 6.09, "dom": 6.44}, "primavera": {"val": 7.53, "aro": 5.99, "dom": 4.76}, "prisión": {"val": 1.98, "aro": 5.56, "dom": 3.56}, "privacidad": {"val": 6.08, "aro": 4.88, "dom": 6.11}, "problema": {"val": 1.89, "aro": 6.56, "dom": 3.81}, "progreso": {"val": 7.29, "aro": 6.43, "dom": 5.59}, "promoción": {"val": 5.89, "aro": 5.58, "dom": 5.29}, "protegido": {"val": 6.69, "aro": 4.01, "dom": 6.1}, "publicación": {"val": 5.31, "aro": 4.91, "dom": 5.06}, "pueblo": {"val": 6.52, "aro": 5.21, "dom": 5.6}, "puerta": {"val": 5.07, "aro": 4.36, "dom": 5.18}, "puntapié": {"val": 3.24, "aro": 5.83, "dom": 4.49}, "pus": {"val": 1.7, "aro": 5.91, "dom": 3.83}, "puta": {"val": 3.24, "aro": 5.46, "dom": 4.11}, "putrefacto": {"val": 1.64, "aro": 5.36, "dom": 3.94}, "queja": {"val": 2.84, "aro": 5.67, "dom": 4.73}, "quemadura": {"val": 1.76, "aro": 6.83, "dom": 3.54}, "queroseno": {"val": 3.19, "aro": 5.04, "dom": 4.0}, "rabia": {"val": 2.33, "aro": 7.47, "dom": 3.6}, "radiador": {"val": 5.5, "aro": 3.97, "dom": 5.39}, "radiante": {"val": 7.43, "aro": 5.94, "dom": 5.58}, "radio": {"val": 6.29, "aro": 5.52, "dom": 5.87}, "ramo": {"val": 6.42, "aro": 5.17, "dom": 5.54}, "rana": {"val": 4.23, "aro": 4.81, "dom": 4.8}, "rancio": {"val": 2.41, "aro": 4.72, "dom": 4.66}, "rápido": {"val": 5.71, "aro": 6.3, "dom": 5.26}, "rapto": {"val": 1.67, "aro": 7.0, "dom": 2.36}, "raro": {"val": 4.24, "aro": 4.99, "dom": 4.11}, "rascacielos": {"val": 4.73, "aro": 5.94, "dom": 4.29}, "rata": {"val": 2.67, "aro": 6.32, "dom": 3.78}, "rebelde": {"val": 4.56, "aro": 6.14, "dom": 4.13}, "recado": {"val": 4.43, "aro": 4.83, "dom": 4.98}, "rechazado": {"val": 1.94, "aro": 5.71, "dom": 3.03}, "recogedor": {"val": 4.22, "aro": 4.28, "dom": 5.41}, "recompensa": {"val": 7.6, "aro": 6.36, "dom": 5.76}, "reconocido": {"val": 6.11, "aro": 5.02, "dom": 5.4}, "recuerdos": {"val": 6.96, "aro": 5.69, "dom": 5.8}, "refrigerio": {"val": 5.18, "aro": 4.68, "dom": 5.14}, "regalo": {"val": 7.91, "aro": 6.63, "dom": 5.13}, "rehén": {"val": 1.74, "aro": 6.39, "dom": 2.58}, "reina": {"val": 4.91, "aro": 4.74, "dom": 4.66}, "relajado": {"val": 7.53, "aro": 2.86, "dom": 6.19}, "relámpago": {"val": 3.98, "aro": 6.57, "dom": 2.86}, "reloj": {"val": 4.96, "aro": 4.72, "dom": 5.29}, "repisa": {"val": 4.73, "aro": 4.24, "dom": 5.03}, "reptil": {"val": 3.41, "aro": 6.08, "dom": 3.56}, "repugnante": {"val": 1.78, "aro": 5.82, "dom": 3.73}, "rescate": {"val": 7.27, "aro": 7.0, "dom": 4.71}, "resentirse": {"val": 2.29, "aro": 5.86, "dom": 3.58}, "reservado": {"val": 4.5, "aro": 3.91, "dom": 5.04}, "respeto": {"val": 7.27, "aro": 4.74, "dom": 6.1}, "respetuoso": {"val": 7.63, "aro": 4.21, "dom": 6.76}, "respuesta": {"val": 5.79, "aro": 5.52, "dom": 5.64}, "restaurante": {"val": 6.72, "aro": 5.71, "dom": 5.87}, "retrasado": {"val": 2.84, "aro": 5.11, "dom": 3.28}, "reunión": {"val": 5.62, "aro": 5.9, "dom": 5.2}, "reverente": {"val": 4.59, "aro": 4.6, "dom": 4.74}, "revólver": {"val": 2.13, "aro": 7.01, "dom": 3.69}, "revuelta": {"val": 3.23, "aro": 6.64, "dom": 3.16}, "rey": {"val": 4.98, "aro": 4.36, "dom": 4.34}, "rifle": {"val": 1.92, "aro": 6.26, "dom": 3.24}, "rígido": {"val": 3.39, "aro": 4.89, "dom": 4.51}, "riña": {"val": 2.16, "aro": 6.99, "dom": 4.13}, "río": {"val": 7.03, "aro": 4.62, "dom": 4.58}, "riqueza": {"val": 7.04, "aro": 5.81, "dom": 5.42}, "risa": {"val": 8.34, "aro": 7.1, "dom": 6.14}, "roca": {"val": 4.92, "aro": 3.9, "dom": 5.28}, "rojo": {"val": 5.93, "aro": 5.93, "dom": 5.48}, "romántico": {"val": 7.99, "aro": 7.07, "dom": 5.72}, "roña": {"val": 1.94, "aro": 5.38, "dom": 5.39}, "ropa": {"val": 6.69, "aro": 5.63, "dom": 5.78}, "roto": {"val": 3.02, "aro": 5.46, "dom": 3.93}, "rubio": {"val": 5.28, "aro": 4.96, "dom": 4.78}, "ruidoso": {"val": 2.63, "aro": 6.93, "dom": 3.62}, "sabio": {"val": 7.14, "aro": 5.17, "dom": 5.67}, "sabor": {"val": 6.88, "aro": 5.39, "dom": 5.33}, "salud  ": {"val": 7.74, "aro": 5.31, "dom": 5.39}, "saludar": {"val": 6.61, "aro": 5.12, "dom": 6.04}, "saludo": {"val": 6.86, "aro": 5.6, "dom": 6.42}, "salvador": {"val": 6.89, "aro": 5.51, "dom": 5.34}, "sangriento": {"val": 1.42, "aro": 6.79, "dom": 3.16}, "santo": {"val": 4.87, "aro": 3.56, "dom": 4.19}, "sarampión": {"val": 1.84, "aro": 4.96, "dom": 2.72}, "satisfecho": {"val": 7.88, "aro": 5.31, "dom": 6.59}, "secador": {"val": 5.01, "aro": 4.42, "dom": 5.23}, "seda": {"val": 6.73, "aro": 4.0, "dom": 5.4}, "seguro": {"val": 7.48, "aro": 4.34, "dom": 6.9}, "seno": {"val": 5.81, "aro": 4.8, "dom": 5.17}, "sentimiento": {"val": 7.36, "aro": 6.79, "dom": 4.33}, "serio": {"val": 3.8, "aro": 4.04, "dom": 4.73}, "serpiente": {"val": 3.07, "aro": 6.74, "dom": 3.54}, "sexo": {"val": 7.76, "aro": 7.59, "dom": 5.87}, "sexy": {"val": 7.33, "aro": 7.07, "dom": 5.8}, "sífilis": {"val": 1.6, "aro": 5.21, "dom": 3.02}, "silbato": {"val": 4.21, "aro": 5.81, "dom": 4.84}, "silla": {"val": 5.03, "aro": 3.48, "dom": 5.57}, "simpático": {"val": 7.94, "aro": 6.62, "dom": 6.38}, "snob": {"val": 3.14, "aro": 5.12, "dom": 4.81}, "sobrecogido": {"val": 3.0, "aro": 5.67, "dom": 3.73}, "sobresaltado": {"val": 4.01, "aro": 7.59, "dom": 3.27}, "sociable": {"val": 7.56, "aro": 6.06, "dom": 6.01}, "soga": {"val": 2.01, "aro": 5.83, "dom": 3.22}, "sol": {"val": 7.9, "aro": 5.69, "dom": 5.41}, "soleado": {"val": 8.14, "aro": 6.39, "dom": 5.42}, "soledad": {"val": 2.5, "aro": 4.67, "dom": 3.78}, "solemne": {"val": 4.58, "aro": 4.31, "dom": 4.76}, "solitario": {"val": 2.68, "aro": 4.4, "dom": 4.23}, "solo": {"val": 2.76, "aro": 3.61, "dom": 4.58}, "sombra": {"val": 4.03, "aro": 4.57, "dom": 4.23}, "sombrero": {"val": 4.87, "aro": 4.11, "dom": 5.46}, "sonajero": {"val": 6.06, "aro": 4.96, "dom": 5.74}, "sorprendido": {"val": 6.29, "aro": 6.87, "dom": 3.76}, "soso": {"val": 2.49, "aro": 3.99, "dom": 5.07}, "sospechoso": {"val": 3.07, "aro": 6.46, "dom": 3.71}, "spray": {"val": 4.17, "aro": 4.78, "dom": 5.1}, "suave": {"val": 7.04, "aro": 4.29, "dom": 5.32}, "suburbio": {"val": 2.5, "aro": 5.32, "dom": 3.18}, "suciedad": {"val": 1.98, "aro": 5.61, "dom": 5.48}, "sucio": {"val": 1.91, "aro": 5.62, "dom": 5.5}, "sueño": {"val": 6.6, "aro": 3.63, "dom": 4.1}, "suicidio": {"val": 1.24, "aro": 6.8, "dom": 4.01}, "sustento": {"val": 5.49, "aro": 4.98, "dom": 5.01}, "tabaco": {"val": 3.18, "aro": 5.06, "dom": 4.57}, "tablero": {"val": 4.8, "aro": 4.71, "dom": 5.21}, "taburete": {"val": 4.79, "aro": 3.59, "dom": 5.44}, "talento": {"val": 7.44, "aro": 5.84, "dom": 5.83}, "tanque": {"val": 2.39, "aro": 6.04, "dom": 3.03}, "tarta": {"val": 7.26, "aro": 5.26, "dom": 5.53}, "taxi": {"val": 4.64, "aro": 4.71, "dom": 4.86}, "tela": {"val": 5.11, "aro": 4.24, "dom": 5.58}, "temeroso": {"val": 2.67, "aro": 6.22, "dom": 3.3}, "temor": {"val": 1.96, "aro": 6.9, "dom": 2.77}, "temperamental": {"val": 4.27, "aro": 6.14, "dom": 4.24}, "tenedor": {"val": 4.8, "aro": 4.43, "dom": 5.56}, "tenis": {"val": 5.81, "aro": 5.37, "dom": 5.41}, "tenso": {"val": 2.73, "aro": 7.12, "dom": 3.57}, "tenue": {"val": 5.23, "aro": 3.79, "dom": 5.2}, "teoría": {"val": 4.59, "aro": 4.67, "dom": 4.81}, "termita": {"val": 3.4, "aro": 5.04, "dom": 4.74}, "termómetro": {"val": 4.28, "aro": 4.49, "dom": 4.87}, "terrible": {"val": 1.49, "aro": 6.87, "dom": 2.91}, "terrorista": {"val": 1.51, "aro": 7.33, "dom": 2.28}, "tesoro": {"val": 7.27, "aro": 6.39, "dom": 5.37}, "tiburón": {"val": 3.07, "aro": 7.38, "dom": 3.46}, "tiempo": {"val": 5.27, "aro": 5.51, "dom": 3.54}, "tierno": {"val": 7.91, "aro": 4.47, "dom": 5.81}, "tierra": {"val": 5.63, "aro": 4.64, "dom": 4.93}, "tieso": {"val": 3.68, "aro": 4.38, "dom": 4.33}, "tijeras": {"val": 4.18, "aro": 5.0, "dom": 5.01}, "tímido": {"val": 4.17, "aro": 4.24, "dom": 4.07}, "tinta": {"val": 4.62, "aro": 4.69, "dom": 5.28}, "tobillo": {"val": 4.6, "aro": 4.33, "dom": 5.16}, "tobogán": {"val": 6.54, "aro": 6.42, "dom": 5.4}, "tolerante": {"val": 7.66, "aro": 4.72, "dom": 6.2}, "tonada": {"val": 5.0, "aro": 4.72, "dom": 4.7}, "tontería": {"val": 4.19, "aro": 5.36, "dom": 5.12}, "tonto": {"val": 3.3, "aro": 4.57, "dom": 4.51}, "tormenta": {"val": 4.14, "aro": 6.1, "dom": 2.94}, "tornado": {"val": 2.24, "aro": 6.94, "dom": 2.17}, "torpe": {"val": 3.09, "aro": 5.26, "dom": 3.98}, "torre": {"val": 5.16, "aro": 4.54, "dom": 4.52}, "tortura": {"val": 1.24, "aro": 7.47, "dom": 2.44}, "tóxico": {"val": 1.77, "aro": 6.21, "dom": 3.29}, "tragedia": {"val": 1.64, "aro": 7.24, "dom": 2.52}, "traicionar": {"val": 1.58, "aro": 6.57, "dom": 3.96}, "traidor": {"val": 1.53, "aro": 6.83, "dom": 3.53}, "trampolín": {"val": 5.69, "aro": 5.9, "dom": 5.43}, "tranquilo": {"val": 6.86, "aro": 2.36, "dom": 5.61}, "trauma": {"val": 1.66, "aro": 5.86, "dom": 3.13}, "travesía": {"val": 5.44, "aro": 5.04, "dom": 5.17}, "travesura": {"val": 6.03, "aro": 6.82, "dom": 5.52}, "triste": {"val": 2.0, "aro": 4.33, "dom": 3.59}, "triunfante": {"val": 7.51, "aro": 6.72, "dom": 5.59}, "triunfo": {"val": 7.89, "aro": 7.03, "dom": 5.96}, "trofeo": {"val": 7.3, "aro": 6.89, "dom": 6.26}, "trompeta": {"val": 5.19, "aro": 5.7, "dom": 4.81}, "tumba": {"val": 1.74, "aro": 4.9, "dom": 3.06}, "tumor": {"val": 1.34, "aro": 6.77, "dom": 1.98}, "turbio": {"val": 2.81, "aro": 4.99, "dom": 3.72}, "úlcera": {"val": 1.7, "aro": 5.71, "dom": 2.51}, "unidad": {"val": 5.5, "aro": 4.43, "dom": 5.34}, "utensilio": {"val": 4.78, "aro": 4.44, "dom": 5.5}, "útil": {"val": 7.24, "aro": 5.96, "dom": 6.2}, "vaca": {"val": 5.41, "aro": 4.57, "dom": 4.6}, "vacación": {"val": 8.52, "aro": 6.18, "dom": 6.37}, "vacilar": {"val": 3.83, "aro": 6.37, "dom": 4.94}, "vagina": {"val": 5.0, "aro": 4.82, "dom": 5.02}, "valiente": {"val": 7.49, "aro": 6.46, "dom": 6.37}, "vampiro": {"val": 3.49, "aro": 6.26, "dom": 3.82}, "vándalo": {"val": 2.49, "aro": 6.29, "dom": 3.49}, "vanidad": {"val": 2.83, "aro": 5.49, "dom": 4.41}, "vehículo": {"val": 6.33, "aro": 5.78, "dom": 5.09}, "velero": {"val": 6.41, "aro": 4.88, "dom": 4.93}, "veloz": {"val": 5.99, "aro": 6.72, "dom": 5.22}, "vencedor": {"val": 7.39, "aro": 6.77, "dom": 5.66}, "vencido": {"val": 2.2, "aro": 5.06, "dom": 3.56}, "venda": {"val": 4.14, "aro": 4.72, "dom": 4.84}, "veneno": {"val": 1.67, "aro": 6.93, "dom": 3.62}, "ventaja": {"val": 6.9, "aro": 5.6, "dom": 5.36}, "ventana": {"val": 5.88, "aro": 4.88, "dom": 5.58}, "verdad": {"val": 7.78, "aro": 5.72, "dom": 6.36}, "verde": {"val": 6.43, "aro": 4.72, "dom": 5.48}, "vergonzoso": {"val": 3.14, "aro": 6.13, "dom": 3.22}, "vertedero": {"val": 2.2, "aro": 4.81, "dom": 3.84}, "vestido": {"val": 6.32, "aro": 5.32, "dom": 6.16}, "viajes": {"val": 7.84, "aro": 7.39, "dom": 5.99}, "víctima": {"val": 1.74, "aro": 6.37, "dom": 2.74}, "victimismo": {"val": 2.48, "aro": 5.9, "dom": 4.16}, "victoria": {"val": 7.93, "aro": 7.19, "dom": 6.47}, "vida": {"val": 8.07, "aro": 6.59, "dom": 5.32}, "vidrio": {"val": 4.64, "aro": 4.58, "dom": 5.17}, "vigilante": {"val": 4.83, "aro": 5.09, "dom": 4.79}, "vigoroso": {"val": 5.99, "aro": 5.62, "dom": 5.54}, "vino": {"val": 4.88, "aro": 5.47, "dom": 5.14}, "violación": {"val": 1.11, "aro": 7.98, "dom": 2.13}, "violento": {"val": 1.69, "aro": 7.06, "dom": 3.58}, "violín": {"val": 6.14, "aro": 4.1, "dom": 5.07}, "virgen": {"val": 4.66, "aro": 4.23, "dom": 5.01}, "virtud": {"val": 7.27, "aro": 5.1, "dom": 5.47}, "viruela": {"val": 1.77, "aro": 5.04, "dom": 2.98}, "visión": {"val": 6.82, "aro": 5.28, "dom": 5.21}, "vívido": {"val": 5.7, "aro": 5.93, "dom": 5.13}, "vivo": {"val": 8.07, "aro": 6.54, "dom": 6.53}, "volcán": {"val": 3.52, "aro": 6.63, "dom": 2.58}, "vómito": {"val": 1.76, "aro": 5.8, "dom": 3.12}, "yate": {"val": 6.57, "aro": 5.19, "dom": 5.49}, "zafiro": {"val": 6.71, "aro": 5.21, "dom": 5.12}, "zurra": {"val": 1.96, "aro": 6.63, "dom": 3.97}}
+{
+  "1": {
+    "abandonado": {
+      "val": 1.68,
+      "aro": 5.88,
+      "dom": 3.11
+    },
+    "abejas": {
+      "val": 3.18,
+      "aro": 6.59,
+      "dom": 3.42
+    },
+    "aborto": {
+      "val": 2.8,
+      "aro": 6.07,
+      "dom": 4.17
+    },
+    "abrasador": {
+      "val": 2.46,
+      "aro": 6.0,
+      "dom": 4.0
+    },
+    "abrazo": {
+      "val": 8.13,
+      "aro": 5.7,
+      "dom": 6.12
+    },
+    "abrumado": {
+      "val": 2.9,
+      "aro": 5.36,
+      "dom": 3.84
+    },
+    "absurdo": {
+      "val": 3.8,
+      "aro": 4.9,
+      "dom": 4.44
+    },
+    "abundancia": {
+      "val": 6.8,
+      "aro": 5.4,
+      "dom": 5.68
+    },
+    "aburrido": {
+      "val": 2.33,
+      "aro": 2.9,
+      "dom": 4.78
+    },
+    "accidente": {
+      "val": 1.32,
+      "aro": 7.58,
+      "dom": 2.62
+    },
+    "ácido": {
+      "val": 3.41,
+      "aro": 5.57,
+      "dom": 4.29
+    },
+    "acogedor": {
+      "val": 7.64,
+      "aro": 4.37,
+      "dom": 6.08
+    },
+    "acontecimiento": {
+      "val": 5.99,
+      "aro": 5.81,
+      "dom": 5.01
+    },
+    "acre": {
+      "val": 4.23,
+      "aro": 4.19,
+      "dom": 4.5
+    },
+    "activar": {
+      "val": 6.0,
+      "aro": 6.5,
+      "dom": 5.82
+    },
+    "acuerdo": {
+      "val": 7.24,
+      "aro": 4.83,
+      "dom": 6.22
+    },
+    "acurrucarse": {
+      "val": 6.98,
+      "aro": 4.28,
+      "dom": 6.01
+    },
+    "adicto": {
+      "val": 2.41,
+      "aro": 5.77,
+      "dom": 3.28
+    },
+    "adinerado": {
+      "val": 6.21,
+      "aro": 5.58,
+      "dom": 5.69
+    },
+    "admirado": {
+      "val": 7.33,
+      "aro": 6.53,
+      "dom": 5.48
+    },
+    "adorable": {
+      "val": 7.48,
+      "aro": 5.24,
+      "dom": 5.76
+    },
+    "adulto": {
+      "val": 5.68,
+      "aro": 4.9,
+      "dom": 5.16
+    },
+    "afectar": {
+      "val": 3.48,
+      "aro": 5.61,
+      "dom": 3.77
+    },
+    "afecto": {
+      "val": 8.1,
+      "aro": 6.19,
+      "dom": 5.83
+    },
+    "afianzar": {
+      "val": 5.93,
+      "aro": 5.46,
+      "dom": 5.66
+    },
+    "afligido": {
+      "val": 1.96,
+      "aro": 4.41,
+      "dom": 3.93
+    },
+    "afortunado": {
+      "val": 7.71,
+      "aro": 6.26,
+      "dom": 5.28
+    },
+    "agilidad": {
+      "val": 6.73,
+      "aro": 5.97,
+      "dom": 5.82
+    },
+    "agobiado": {
+      "val": 2.06,
+      "aro": 6.73,
+      "dom": 3.48
+    },
+    "agonía": {
+      "val": 1.74,
+      "aro": 6.2,
+      "dom": 2.94
+    },
+    "agradecido": {
+      "val": 7.84,
+      "aro": 5.5,
+      "dom": 5.79
+    },
+    "agresión": {
+      "val": 1.67,
+      "aro": 6.88,
+      "dom": 3.72
+    },
+    "agresivo": {
+      "val": 1.96,
+      "aro": 6.94,
+      "dom": 3.69
+    },
+    "agua": {
+      "val": 7.47,
+      "aro": 4.8,
+      "dom": 5.72
+    },
+    "aguanieve": {
+      "val": 5.11,
+      "aro": 4.79,
+      "dom": 4.21
+    },
+    "aguja": {
+      "val": 3.18,
+      "aro": 5.66,
+      "dom": 4.43
+    },
+    "ahogarse": {
+      "val": 1.32,
+      "aro": 7.61,
+      "dom": 2.41
+    },
+    "ahorrar": {
+      "val": 6.4,
+      "aro": 4.94,
+      "dom": 6.09
+    },
+    "aire": {
+      "val": 6.83,
+      "aro": 4.19,
+      "dom": 4.6
+    },
+    "alba": {
+      "val": 7.48,
+      "aro": 4.18,
+      "dom": 4.46
+    },
+    "alcohólico": {
+      "val": 2.01,
+      "aro": 5.7,
+      "dom": 3.51
+    },
+    "alegre": {
+      "val": 8.41,
+      "aro": 7.66,
+      "dom": 6.37
+    },
+    "alergia": {
+      "val": 4.01,
+      "aro": 5.84,
+      "dom": 4.11
+    },
+    "alerta": {
+      "val": 3.69,
+      "aro": 7.58,
+      "dom": 4.17
+    },
+    "almohada": {
+      "val": 6.79,
+      "aro": 3.1,
+      "dom": 6.29
+    },
+    "amabilidad": {
+      "val": 8.22,
+      "aro": 5.26,
+      "dom": 6.24
+    },
+    "amable": {
+      "val": 7.81,
+      "aro": 4.92,
+      "dom": 6.22
+    },
+    "amado": {
+      "val": 7.99,
+      "aro": 6.43,
+      "dom": 5.79
+    },
+    "amanecer": {
+      "val": 8.01,
+      "aro": 4.08,
+      "dom": 4.5
+    },
+    "amarillo": {
+      "val": 5.67,
+      "aro": 4.84,
+      "dom": 5.17
+    },
+    "ambición": {
+      "val": 5.01,
+      "aro": 6.42,
+      "dom": 5.6
+    },
+    "ambulancia": {
+      "val": 2.34,
+      "aro": 7.44,
+      "dom": 3.58
+    },
+    "amenaza": {
+      "val": 1.99,
+      "aro": 7.1,
+      "dom": 2.86
+    },
+    "amigable": {
+      "val": 8.14,
+      "aro": 5.08,
+      "dom": 6.24
+    },
+    "amigo": {
+      "val": 8.41,
+      "aro": 6.73,
+      "dom": 6.04
+    },
+    "amor": {
+      "val": 8.5,
+      "aro": 7.46,
+      "dom": 4.86
+    },
+    "ampolla": {
+      "val": 2.54,
+      "aro": 4.99,
+      "dom": 4.33
+    },
+    "ángel": {
+      "val": 6.87,
+      "aro": 4.86,
+      "dom": 4.49
+    },
+    "angustiado": {
+      "val": 1.67,
+      "aro": 5.89,
+      "dom": 3.33
+    },
+    "anhelo": {
+      "val": 4.42,
+      "aro": 5.27,
+      "dom": 4.39
+    },
+    "ánimo": {
+      "val": 7.36,
+      "aro": 6.72,
+      "dom": 6.19
+    },
+    "ansioso": {
+      "val": 3.63,
+      "aro": 7.7,
+      "dom": 3.14
+    },
+    "aplastado": {
+      "val": 2.28,
+      "aro": 5.59,
+      "dom": 3.21
+    },
+    "aplausos": {
+      "val": 7.67,
+      "aro": 7.39,
+      "dom": 6.36
+    },
+    "aprender": {
+      "val": 7.13,
+      "aro": 6.0,
+      "dom": 6.33
+    },
+    "aprobación": {
+      "val": 7.11,
+      "aro": 5.94,
+      "dom": 5.81
+    },
+    "apuros": {
+      "val": 2.61,
+      "aro": 6.86,
+      "dom": 3.68
+    },
+    "araña": {
+      "val": 3.07,
+      "aro": 6.4,
+      "dom": 4.02
+    },
+    "árbol": {
+      "val": 6.53,
+      "aro": 4.18,
+      "dom": 5.07
+    },
+    "arco-iris": {
+      "val": 7.39,
+      "aro": 4.81,
+      "dom": 3.73
+    },
+    "arma": {
+      "val": 1.81,
+      "aro": 6.26,
+      "dom": 2.9
+    },
+    "armario": {
+      "val": 5.1,
+      "aro": 4.31,
+      "dom": 5.16
+    },
+    "arrepentido": {
+      "val": 4.5,
+      "aro": 5.14,
+      "dom": 4.93
+    },
+    "arrogante": {
+      "val": 2.07,
+      "aro": 5.83,
+      "dom": 4.14
+    },
+    "arte": {
+      "val": 7.09,
+      "aro": 5.31,
+      "dom": 4.92
+    },
+    "as": {
+      "val": 6.41,
+      "aro": 5.51,
+      "dom": 5.17
+    },
+    "ascensor": {
+      "val": 4.99,
+      "aro": 4.71,
+      "dom": 4.73
+    },
+    "asediado": {
+      "val": 2.4,
+      "aro": 6.18,
+      "dom": 3.51
+    },
+    "asesinar": {
+      "val": 1.18,
+      "aro": 7.44,
+      "dom": 2.72
+    },
+    "asesino": {
+      "val": 1.23,
+      "aro": 7.49,
+      "dom": 2.16
+    },
+    "asfixiarse": {
+      "val": 1.48,
+      "aro": 7.8,
+      "dom": 2.33
+    },
+    "asiento": {
+      "val": 5.7,
+      "aro": 4.0,
+      "dom": 5.77
+    },
+    "asombrado": {
+      "val": 5.52,
+      "aro": 5.96,
+      "dom": 4.26
+    },
+    "áspero": {
+      "val": 3.27,
+      "aro": 4.53,
+      "dom": 4.39
+    },
+    "asqueado": {
+      "val": 1.81,
+      "aro": 5.58,
+      "dom": 4.32
+    },
+    "asqueroso": {
+      "val": 1.86,
+      "aro": 6.13,
+      "dom": 4.12
+    },
+    "astronauta": {
+      "val": 5.67,
+      "aro": 5.38,
+      "dom": 3.93
+    },
+    "asustado": {
+      "val": 2.54,
+      "aro": 6.56,
+      "dom": 3.12
+    },
+    "ataúd": {
+      "val": 1.63,
+      "aro": 6.06,
+      "dom": 2.81
+    },
+    "aterrorizado": {
+      "val": 1.96,
+      "aro": 6.79,
+      "dom": 2.64
+    },
+    "ático": {
+      "val": 6.74,
+      "aro": 5.0,
+      "dom": 4.99
+    },
+    "atracador": {
+      "val": 2.02,
+      "aro": 7.32,
+      "dom": 2.34
+    },
+    "atrevido": {
+      "val": 6.51,
+      "aro": 6.71,
+      "dom": 5.38
+    },
+    "atrocidad": {
+      "val": 1.74,
+      "aro": 6.68,
+      "dom": 3.22
+    },
+    "aurora": {
+      "val": 7.29,
+      "aro": 4.92,
+      "dom": 4.87
+    },
+    "autobús": {
+      "val": 4.51,
+      "aro": 5.0,
+      "dom": 4.43
+    },
+    "avalancha": {
+      "val": 2.46,
+      "aro": 7.2,
+      "dom": 2.48
+    },
+    "avaricia": {
+      "val": 2.44,
+      "aro": 5.54,
+      "dom": 4.14
+    },
+    "avenida": {
+      "val": 4.86,
+      "aro": 5.01,
+      "dom": 4.16
+    },
+    "aventura": {
+      "val": 7.76,
+      "aro": 7.62,
+      "dom": 5.48
+    },
+    "avergonzado": {
+      "val": 2.51,
+      "aro": 5.59,
+      "dom": 3.44
+    },
+    "avión": {
+      "val": 6.13,
+      "aro": 6.07,
+      "dom": 4.96
+    },
+    "avispa": {
+      "val": 2.54,
+      "aro": 7.01,
+      "dom": 3.12
+    },
+    "azúcar": {
+      "val": 6.68,
+      "aro": 5.59,
+      "dom": 5.67
+    },
+    "azul": {
+      "val": 7.01,
+      "aro": 3.99,
+      "dom": 5.39
+    },
+    "bailarín": {
+      "val": 7.14,
+      "aro": 6.52,
+      "dom": 5.43
+    },
+    "bala": {
+      "val": 2.01,
+      "aro": 7.18,
+      "dom": 3.59
+    },
+    "bancarrota": {
+      "val": 1.63,
+      "aro": 6.11,
+      "dom": 2.69
+    },
+    "banco": {
+      "val": 5.14,
+      "aro": 4.38,
+      "dom": 5.09
+    },
+    "bandera": {
+      "val": 4.92,
+      "aro": 4.36,
+      "dom": 5.04
+    },
+    "bañera": {
+      "val": 6.76,
+      "aro": 3.66,
+      "dom": 5.94
+    },
+    "baño": {
+      "val": 7.21,
+      "aro": 4.08,
+      "dom": 6.59
+    },
+    "bar": {
+      "val": 6.53,
+      "aro": 6.02,
+      "dom": 5.32
+    },
+    "barco": {
+      "val": 6.0,
+      "aro": 5.08,
+      "dom": 5.02
+    },
+    "barril": {
+      "val": 4.73,
+      "aro": 4.12,
+      "dom": 4.9
+    },
+    "bastardo": {
+      "val": 2.89,
+      "aro": 5.3,
+      "dom": 4.2
+    },
+    "basto": {
+      "val": 3.07,
+      "aro": 4.57,
+      "dom": 4.66
+    },
+    "bastón": {
+      "val": 3.83,
+      "aro": 4.09,
+      "dom": 5.19
+    },
+    "basura": {
+      "val": 2.06,
+      "aro": 4.31,
+      "dom": 4.42
+    },
+    "bebé": {
+      "val": 7.6,
+      "aro": 5.54,
+      "dom": 5.31
+    },
+    "bebida": {
+      "val": 6.26,
+      "aro": 5.62,
+      "dom": 5.39
+    },
+    "belleza": {
+      "val": 7.47,
+      "aro": 5.76,
+      "dom": 5.13
+    },
+    "bendecir": {
+      "val": 5.7,
+      "aro": 4.37,
+      "dom": 4.8
+    },
+    "beso": {
+      "val": 8.43,
+      "aro": 7.71,
+      "dom": 6.16
+    },
+    "bestia": {
+      "val": 2.8,
+      "aro": 6.88,
+      "dom": 2.87
+    },
+    "blanco": {
+      "val": 6.1,
+      "aro": 3.99,
+      "dom": 5.5
+    },
+    "blasfemia": {
+      "val": 2.79,
+      "aro": 5.57,
+      "dom": 4.4
+    },
+    "boda": {
+      "val": 6.87,
+      "aro": 5.91,
+      "dom": 5.64
+    },
+    "bodega": {
+      "val": 5.23,
+      "aro": 4.54,
+      "dom": 5.18
+    },
+    "bofetada": {
+      "val": 2.06,
+      "aro": 7.16,
+      "dom": 4.67
+    },
+    "bomba": {
+      "val": 1.42,
+      "aro": 7.79,
+      "dom": 2.22
+    },
+    "bombilla": {
+      "val": 5.29,
+      "aro": 4.59,
+      "dom": 5.81
+    },
+    "botella": {
+      "val": 5.1,
+      "aro": 4.68,
+      "dom": 5.44
+    },
+    "boxeador": {
+      "val": 3.62,
+      "aro": 5.02,
+      "dom": 3.9
+    },
+    "brazo": {
+      "val": 5.37,
+      "aro": 4.83,
+      "dom": 5.58
+    },
+    "brillante": {
+      "val": 7.03,
+      "aro": 5.74,
+      "dom": 5.61
+    },
+    "brío": {
+      "val": 5.78,
+      "aro": 5.77,
+      "dom": 5.32
+    },
+    "brisa": {
+      "val": 7.31,
+      "aro": 4.51,
+      "dom": 4.99
+    },
+    "brutal": {
+      "val": 1.9,
+      "aro": 6.68,
+      "dom": 3.9
+    },
+    "buceador": {
+      "val": 5.52,
+      "aro": 5.22,
+      "dom": 4.83
+    },
+    "bueno": {
+      "val": 7.92,
+      "aro": 4.87,
+      "dom": 6.53
+    },
+    "búho": {
+      "val": 5.92,
+      "aro": 4.59,
+      "dom": 4.22
+    },
+    "bulto": {
+      "val": 3.1,
+      "aro": 5.29,
+      "dom": 3.71
+    },
+    "burla": {
+      "val": 2.2,
+      "aro": 6.21,
+      "dom": 3.94
+    },
+    "caballo": {
+      "val": 6.36,
+      "aro": 5.66,
+      "dom": 4.78
+    },
+    "cable": {
+      "val": 4.53,
+      "aro": 4.4,
+      "dom": 5.17
+    },
+    "cachorro": {
+      "val": 7.21,
+      "aro": 5.69,
+      "dom": 5.86
+    },
+    "cadáver": {
+      "val": 1.41,
+      "aro": 6.87,
+      "dom": 2.54
+    },
+    "caída": {
+      "val": 2.26,
+      "aro": 6.17,
+      "dom": 3.42
+    },
+    "calidad": {
+      "val": 6.78,
+      "aro": 5.02,
+      "dom": 5.68
+    },
+    "callado": {
+      "val": 4.03,
+      "aro": 3.57,
+      "dom": 4.76
+    },
+    "calle": {
+      "val": 5.53,
+      "aro": 5.43,
+      "dom": 5.24
+    },
+    "callejón": {
+      "val": 3.46,
+      "aro": 5.58,
+      "dom": 4.03
+    },
+    "calmar": {
+      "val": 6.6,
+      "aro": 3.56,
+      "dom": 5.8
+    },
+    "calor": {
+      "val": 5.92,
+      "aro": 5.66,
+      "dom": 4.44
+    },
+    "cama": {
+      "val": 7.71,
+      "aro": 4.57,
+      "dom": 6.02
+    },
+    "camión": {
+      "val": 4.67,
+      "aro": 4.56,
+      "dom": 4.87
+    },
+    "campeón": {
+      "val": 7.29,
+      "aro": 6.84,
+      "dom": 6.09
+    },
+    "campo": {
+      "val": 7.23,
+      "aro": 4.18,
+      "dom": 5.97
+    },
+    "cáncer": {
+      "val": 1.23,
+      "aro": 6.18,
+      "dom": 1.91
+    },
+    "canción": {
+      "val": 8.01,
+      "aro": 6.61,
+      "dom": 6.44
+    },
+    "cansado": {
+      "val": 2.47,
+      "aro": 2.58,
+      "dom": 4.17
+    },
+    "cañón": {
+      "val": 2.74,
+      "aro": 6.04,
+      "dom": 3.51
+    },
+    "caos": {
+      "val": 2.0,
+      "aro": 7.02,
+      "dom": 2.6
+    },
+    "capaz": {
+      "val": 7.52,
+      "aro": 5.92,
+      "dom": 6.7
+    },
+    "capricho": {
+      "val": 5.92,
+      "aro": 6.21,
+      "dom": 5.42
+    },
+    "cara": {
+      "val": 6.02,
+      "aro": 5.11,
+      "dom": 5.03
+    },
+    "caramelo": {
+      "val": 7.33,
+      "aro": 4.41,
+      "dom": 6.11
+    },
+    "cárcel": {
+      "val": 1.87,
+      "aro": 5.18,
+      "dom": 3.41
+    },
+    "caricia": {
+      "val": 8.27,
+      "aro": 6.04,
+      "dom": 6.68
+    },
+    "cariñoso": {
+      "val": 8.41,
+      "aro": 6.21,
+      "dom": 6.09
+    },
+    "carretera": {
+      "val": 5.0,
+      "aro": 5.6,
+      "dom": 4.82
+    },
+    "carro": {
+      "val": 4.53,
+      "aro": 4.18,
+      "dom": 5.26
+    },
+    "carroña": {
+      "val": 2.08,
+      "aro": 5.09,
+      "dom": 4.52
+    },
+    "carta": {
+      "val": 6.79,
+      "aro": 5.99,
+      "dom": 5.72
+    },
+    "casa": {
+      "val": 7.03,
+      "aro": 4.69,
+      "dom": 6.12
+    },
+    "cascada": {
+      "val": 7.2,
+      "aro": 5.2,
+      "dom": 4.68
+    },
+    "casino": {
+      "val": 4.84,
+      "aro": 4.8,
+      "dom": 4.3
+    },
+    "casita": {
+      "val": 6.69,
+      "aro": 4.5,
+      "dom": 5.84
+    },
+    "castigo": {
+      "val": 1.87,
+      "aro": 6.41,
+      "dom": 3.72
+    },
+    "celos": {
+      "val": 2.27,
+      "aro": 6.87,
+      "dom": 3.1
+    },
+    "célula": {
+      "val": 4.91,
+      "aro": 4.39,
+      "dom": 4.37
+    },
+    "cementerio": {
+      "val": 2.06,
+      "aro": 5.01,
+      "dom": 3.19
+    },
+    "cena": {
+      "val": 6.58,
+      "aro": 5.14,
+      "dom": 5.81
+    },
+    "cerdo": {
+      "val": 3.71,
+      "aro": 4.67,
+      "dom": 4.52
+    },
+    "césped": {
+      "val": 6.31,
+      "aro": 4.03,
+      "dom": 5.81
+    },
+    "cesta": {
+      "val": 5.18,
+      "aro": 3.79,
+      "dom": 5.82
+    },
+    "chaleco": {
+      "val": 4.92,
+      "aro": 4.3,
+      "dom": 5.36
+    },
+    "champiñón": {
+      "val": 4.88,
+      "aro": 4.23,
+      "dom": 5.11
+    },
+    "chantaje": {
+      "val": 2.13,
+      "aro": 5.92,
+      "dom": 3.76
+    },
+    "chica": {
+      "val": 5.97,
+      "aro": 4.92,
+      "dom": 5.1
+    },
+    "chico": {
+      "val": 7.13,
+      "aro": 6.54,
+      "dom": 5.42
+    },
+    "chiflado": {
+      "val": 4.03,
+      "aro": 5.59,
+      "dom": 3.31
+    },
+    "chillido": {
+      "val": 2.78,
+      "aro": 6.78,
+      "dom": 4.58
+    },
+    "chiste": {
+      "val": 7.2,
+      "aro": 5.97,
+      "dom": 5.59
+    },
+    "chocolate": {
+      "val": 7.72,
+      "aro": 6.1,
+      "dom": 5.84
+    },
+    "choque": {
+      "val": 2.01,
+      "aro": 6.93,
+      "dom": 3.14
+    },
+    "cicatriz": {
+      "val": 3.01,
+      "aro": 5.01,
+      "dom": 3.88
+    },
+    "ciclón": {
+      "val": 2.13,
+      "aro": 6.34,
+      "dom": 2.04
+    },
+    "ciego": {
+      "val": 2.41,
+      "aro": 5.21,
+      "dom": 3.24
+    },
+    "cielo": {
+      "val": 7.56,
+      "aro": 4.56,
+      "dom": 4.48
+    },
+    "ciempiés": {
+      "val": 4.12,
+      "aro": 4.88,
+      "dom": 4.26
+    },
+    "cieno": {
+      "val": 3.77,
+      "aro": 4.51,
+      "dom": 4.22
+    },
+    "circo": {
+      "val": 6.2,
+      "aro": 5.56,
+      "dom": 4.72
+    },
+    "círculo": {
+      "val": 4.82,
+      "aro": 4.2,
+      "dom": 4.92
+    },
+    "cirugía": {
+      "val": 3.08,
+      "aro": 5.7,
+      "dom": 3.68
+    },
+    "ciudad": {
+      "val": 5.66,
+      "aro": 5.97,
+      "dom": 4.56
+    },
+    "cobarde": {
+      "val": 2.56,
+      "aro": 5.49,
+      "dom": 4.1
+    },
+    "coche": {
+      "val": 6.67,
+      "aro": 5.83,
+      "dom": 4.93
+    },
+    "cocina": {
+      "val": 5.71,
+      "aro": 4.93,
+      "dom": 5.61
+    },
+    "cocinero": {
+      "val": 5.99,
+      "aro": 5.11,
+      "dom": 5.38
+    },
+    "codo": {
+      "val": 4.59,
+      "aro": 4.26,
+      "dom": 5.28
+    },
+    "coito": {
+      "val": 7.26,
+      "aro": 7.58,
+      "dom": 6.07
+    },
+    "cólera": {
+      "val": 2.11,
+      "aro": 7.58,
+      "dom": 3.64
+    },
+    "color": {
+      "val": 6.77,
+      "aro": 5.84,
+      "dom": 5.52
+    },
+    "columna": {
+      "val": 4.71,
+      "aro": 4.14,
+      "dom": 5.29
+    },
+    "comedia": {
+      "val": 7.71,
+      "aro": 6.33,
+      "dom": 5.62
+    },
+    "comer": {
+      "val": 7.18,
+      "aro": 5.53,
+      "dom": 5.82
+    },
+    "comida": {
+      "val": 6.77,
+      "aro": 5.5,
+      "dom": 5.09
+    },
+    "comprometido": {
+      "val": 6.23,
+      "aro": 5.47,
+      "dom": 6.38
+    },
+    "concentrado": {
+      "val": 6.12,
+      "aro": 5.21,
+      "dom": 6.23
+    },
+    "conejito": {
+      "val": 6.46,
+      "aro": 4.88,
+      "dom": 5.03
+    },
+    "conejo": {
+      "val": 6.18,
+      "aro": 5.02,
+      "dom": 4.81
+    },
+    "confianza": {
+      "val": 7.78,
+      "aro": 5.29,
+      "dom": 5.77
+    },
+    "confort": {
+      "val": 8.04,
+      "aro": 3.56,
+      "dom": 6.63
+    },
+    "confuso": {
+      "val": 2.78,
+      "aro": 5.78,
+      "dom": 3.28
+    },
+    "conocimiento": {
+      "val": 7.73,
+      "aro": 6.29,
+      "dom": 7.22
+    },
+    "considerado": {
+      "val": 6.99,
+      "aro": 4.77,
+      "dom": 5.07
+    },
+    "consigna": {
+      "val": 4.79,
+      "aro": 4.69,
+      "dom": 4.89
+    },
+    "consolado": {
+      "val": 5.54,
+      "aro": 4.49,
+      "dom": 5.06
+    },
+    "contaminar": {
+      "val": 1.58,
+      "aro": 6.56,
+      "dom": 4.6
+    },
+    "contenido": {
+      "val": 5.21,
+      "aro": 4.27,
+      "dom": 4.63
+    },
+    "contexto": {
+      "val": 5.0,
+      "aro": 4.89,
+      "dom": 5.01
+    },
+    "convencido": {
+      "val": 6.51,
+      "aro": 5.29,
+      "dom": 6.43
+    },
+    "coqueto": {
+      "val": 5.79,
+      "aro": 5.13,
+      "dom": 5.3
+    },
+    "corazón": {
+      "val": 6.64,
+      "aro": 6.22,
+      "dom": 4.84
+    },
+    "corcho": {
+      "val": 4.93,
+      "aro": 4.16,
+      "dom": 5.2
+    },
+    "cordero": {
+      "val": 5.38,
+      "aro": 4.74,
+      "dom": 5.06
+    },
+    "corona": {
+      "val": 5.21,
+      "aro": 4.48,
+      "dom": 4.64
+    },
+    "corredor": {
+      "val": 4.08,
+      "aro": 5.5,
+      "dom": 4.22
+    },
+    "correo": {
+      "val": 6.43,
+      "aro": 5.54,
+      "dom": 4.76
+    },
+    "corrupto": {
+      "val": 2.08,
+      "aro": 6.14,
+      "dom": 3.38
+    },
+    "corte": {
+      "val": 2.88,
+      "aro": 6.0,
+      "dom": 3.9
+    },
+    "cortesía": {
+      "val": 6.92,
+      "aro": 4.8,
+      "dom": 5.76
+    },
+    "cortina": {
+      "val": 4.79,
+      "aro": 4.08,
+      "dom": 5.22
+    },
+    "costa": {
+      "val": 7.23,
+      "aro": 4.87,
+      "dom": 4.9
+    },
+    "costumbre": {
+      "val": 5.43,
+      "aro": 4.32,
+      "dom": 5.76
+    },
+    "cotilleo": {
+      "val": 4.19,
+      "aro": 5.72,
+      "dom": 4.64
+    },
+    "cráneo": {
+      "val": 4.42,
+      "aro": 4.94,
+      "dom": 4.63
+    },
+    "crepe": {
+      "val": 6.88,
+      "aro": 5.24,
+      "dom": 5.53
+    },
+    "crepúsculo": {
+      "val": 6.32,
+      "aro": 4.02,
+      "dom": 4.38
+    },
+    "criatura": {
+      "val": 5.93,
+      "aro": 5.39,
+      "dom": 4.73
+    },
+    "crimen": {
+      "val": 1.64,
+      "aro": 6.67,
+      "dom": 3.02
+    },
+    "criminal": {
+      "val": 1.77,
+      "aro": 6.81,
+      "dom": 2.97
+    },
+    "crisis": {
+      "val": 1.88,
+      "aro": 6.41,
+      "dom": 2.94
+    },
+    "crucificar": {
+      "val": 1.87,
+      "aro": 6.26,
+      "dom": 3.19
+    },
+    "cruel": {
+      "val": 1.77,
+      "aro": 6.63,
+      "dom": 3.73
+    },
+    "cuadrado": {
+      "val": 4.87,
+      "aro": 4.16,
+      "dom": 5.16
+    },
+    "cucaracha": {
+      "val": 2.57,
+      "aro": 6.14,
+      "dom": 4.53
+    },
+    "cuchillo": {
+      "val": 2.86,
+      "aro": 5.68,
+      "dom": 4.64
+    },
+    "cuenco": {
+      "val": 5.01,
+      "aro": 3.89,
+      "dom": 5.34
+    },
+    "cuerpo": {
+      "val": 6.02,
+      "aro": 5.59,
+      "dom": 5.53
+    },
+    "culpa": {
+      "val": 2.09,
+      "aro": 6.46,
+      "dom": 3.62
+    },
+    "culpable": {
+      "val": 2.36,
+      "aro": 6.19,
+      "dom": 3.82
+    },
+    "cumpleaños": {
+      "val": 7.54,
+      "aro": 6.74,
+      "dom": 5.74
+    },
+    "cura": {
+      "val": 4.52,
+      "aro": 5.08,
+      "dom": 4.99
+    },
+    "curar": {
+      "val": 7.66,
+      "aro": 6.27,
+      "dom": 5.67
+    },
+    "curioso": {
+      "val": 5.62,
+      "aro": 6.07,
+      "dom": 5.08
+    },
+    "daga": {
+      "val": 3.66,
+      "aro": 5.84,
+      "dom": 4.63
+    },
+    "daño": {
+      "val": 1.8,
+      "aro": 6.83,
+      "dom": 3.66
+    },
+    "débil": {
+      "val": 2.56,
+      "aro": 4.99,
+      "dom": 3.46
+    },
+    "decepcionar": {
+      "val": 1.57,
+      "aro": 6.01,
+      "dom": 3.64
+    },
+    "decorar": {
+      "val": 6.83,
+      "aro": 5.98,
+      "dom": 6.68
+    },
+    "dedicado": {
+      "val": 6.51,
+      "aro": 5.34,
+      "dom": 6.03
+    },
+    "dedo": {
+      "val": 4.86,
+      "aro": 4.06,
+      "dom": 5.47
+    },
+    "defendido": {
+      "val": 6.17,
+      "aro": 5.28,
+      "dom": 4.9
+    },
+    "deforme": {
+      "val": 2.23,
+      "aro": 5.22,
+      "dom": 3.0
+    },
+    "deleite": {
+      "val": 7.23,
+      "aro": 5.73,
+      "dom": 5.41
+    },
+    "delicado": {
+      "val": 5.64,
+      "aro": 4.13,
+      "dom": 5.18
+    },
+    "demente": {
+      "val": 2.27,
+      "aro": 5.63,
+      "dom": 3.16
+    },
+    "demonio": {
+      "val": 2.91,
+      "aro": 6.47,
+      "dom": 3.58
+    },
+    "dentista": {
+      "val": 3.0,
+      "aro": 6.42,
+      "dom": 3.69
+    },
+    "deportes": {
+      "val": 6.56,
+      "aro": 6.6,
+      "dom": 6.23
+    },
+    "depresión": {
+      "val": 1.56,
+      "aro": 4.88,
+      "dom": 3.04
+    },
+    "deprimido": {
+      "val": 1.5,
+      "aro": 4.19,
+      "dom": 2.86
+    },
+    "desagrado": {
+      "val": 2.21,
+      "aro": 5.46,
+      "dom": 4.12
+    },
+    "desanimado": {
+      "val": 2.16,
+      "aro": 3.29,
+      "dom": 3.42
+    },
+    "desastre": {
+      "val": 1.6,
+      "aro": 6.92,
+      "dom": 3.09
+    },
+    "descanso": {
+      "val": 7.52,
+      "aro": 2.76,
+      "dom": 6.54
+    },
+    "descomposición": {
+      "val": 1.94,
+      "aro": 4.99,
+      "dom": 2.87
+    },
+    "desdén": {
+      "val": 3.08,
+      "aro": 5.0,
+      "dom": 3.77
+    },
+    "desdeñoso": {
+      "val": 2.66,
+      "aro": 4.76,
+      "dom": 4.43
+    },
+    "desenfadado": {
+      "val": 6.26,
+      "aro": 5.44,
+      "dom": 5.28
+    },
+    "deseo": {
+      "val": 7.98,
+      "aro": 7.31,
+      "dom": 5.26
+    },
+    "desertor": {
+      "val": 3.38,
+      "aro": 5.08,
+      "dom": 3.81
+    },
+    "desesperado": {
+      "val": 2.0,
+      "aro": 7.27,
+      "dom": 2.68
+    },
+    "desleal": {
+      "val": 1.74,
+      "aro": 5.92,
+      "dom": 3.13
+    },
+    "deslumbramiento": {
+      "val": 4.38,
+      "aro": 6.02,
+      "dom": 3.8
+    },
+    "desnudo": {
+      "val": 5.48,
+      "aro": 6.43,
+      "dom": 5.3
+    },
+    "desordenado": {
+      "val": 3.33,
+      "aro": 5.44,
+      "dom": 4.78
+    },
+    "despedazar": {
+      "val": 2.52,
+      "aro": 6.29,
+      "dom": 4.16
+    },
+    "desperdicio": {
+      "val": 2.7,
+      "aro": 4.52,
+      "dom": 4.43
+    },
+    "despreciar": {
+      "val": 1.98,
+      "aro": 5.79,
+      "dom": 4.5
+    },
+    "despreocupado": {
+      "val": 5.07,
+      "aro": 4.0,
+      "dom": 4.67
+    },
+    "destrucción": {
+      "val": 1.5,
+      "aro": 6.7,
+      "dom": 2.53
+    },
+    "destruir": {
+      "val": 2.09,
+      "aro": 6.29,
+      "dom": 3.97
+    },
+    "desventaja": {
+      "val": 2.34,
+      "aro": 5.37,
+      "dom": 3.43
+    },
+    "desvestido": {
+      "val": 5.12,
+      "aro": 6.02,
+      "dom": 4.9
+    },
+    "detalle": {
+      "val": 6.33,
+      "aro": 5.62,
+      "dom": 5.31
+    },
+    "detestar": {
+      "val": 2.18,
+      "aro": 5.77,
+      "dom": 4.13
+    },
+    "deuda": {
+      "val": 1.92,
+      "aro": 6.09,
+      "dom": 4.26
+    },
+    "devoto": {
+      "val": 4.22,
+      "aro": 4.16,
+      "dom": 4.76
+    },
+    "diablo": {
+      "val": 2.7,
+      "aro": 6.17,
+      "dom": 3.49
+    },
+    "diamante": {
+      "val": 6.69,
+      "aro": 4.96,
+      "dom": 4.81
+    },
+    "dicha": {
+      "val": 6.7,
+      "aro": 5.51,
+      "dom": 5.16
+    },
+    "dificultar": {
+      "val": 2.21,
+      "aro": 6.21,
+      "dom": 4.22
+    },
+    "digno": {
+      "val": 7.0,
+      "aro": 4.76,
+      "dom": 6.02
+    },
+    "dinero": {
+      "val": 7.46,
+      "aro": 6.4,
+      "dom": 5.5
+    },
+    "díos": {
+      "val": 5.59,
+      "aro": 4.29,
+      "dom": 4.0
+    },
+    "diploma": {
+      "val": 7.46,
+      "aro": 6.1,
+      "dom": 6.01
+    },
+    "disgustado": {
+      "val": 2.19,
+      "aro": 5.46,
+      "dom": 3.49
+    },
+    "distante": {
+      "val": 2.73,
+      "aro": 4.48,
+      "dom": 4.46
+    },
+    "disturbio": {
+      "val": 2.57,
+      "aro": 6.64,
+      "dom": 3.31
+    },
+    "diversión": {
+      "val": 8.32,
+      "aro": 7.68,
+      "dom": 6.23
+    },
+    "divorcio": {
+      "val": 2.28,
+      "aro": 6.46,
+      "dom": 3.64
+    },
+    "doctor": {
+      "val": 4.77,
+      "aro": 5.62,
+      "dom": 4.3
+    },
+    "dólar": {
+      "val": 5.68,
+      "aro": 5.12,
+      "dom": 4.89
+    },
+    "dolencia": {
+      "val": 1.83,
+      "aro": 5.69,
+      "dom": 2.74
+    },
+    "dolor": {
+      "val": 1.61,
+      "aro": 6.4,
+      "dom": 2.6
+    },
+    "dormir": {
+      "val": 7.79,
+      "aro": 2.51,
+      "dom": 5.78
+    },
+    "duro": {
+      "val": 4.24,
+      "aro": 5.14,
+      "dom": 4.96
+    },
+    "edificio": {
+      "val": 4.97,
+      "aro": 4.48,
+      "dom": 5.12
+    },
+    "educación": {
+      "val": 7.07,
+      "aro": 5.73,
+      "dom": 6.48
+    },
+    "efectivo": {
+      "val": 6.8,
+      "aro": 5.4,
+      "dom": 6.04
+    },
+    "egoísta": {
+      "val": 2.12,
+      "aro": 6.04,
+      "dom": 4.18
+    },
+    "ejecución": {
+      "val": 2.48,
+      "aro": 6.68,
+      "dom": 3.96
+    },
+    "ejercicio": {
+      "val": 5.7,
+      "aro": 6.33,
+      "dom": 6.26
+    },
+    "ejército": {
+      "val": 2.49,
+      "aro": 5.79,
+      "dom": 3.19
+    },
+    "electrodoméstico": {
+      "val": 5.1,
+      "aro": 4.02,
+      "dom": 5.32
+    },
+    "elegante": {
+      "val": 7.23,
+      "aro": 5.03,
+      "dom": 6.11
+    },
+    "empleo": {
+      "val": 6.34,
+      "aro": 5.76,
+      "dom": 5.21
+    },
+    "enamorado": {
+      "val": 8.33,
+      "aro": 7.32,
+      "dom": 4.56
+    },
+    "encanto": {
+      "val": 7.68,
+      "aro": 5.86,
+      "dom": 5.86
+    },
+    "enérgico": {
+      "val": 7.16,
+      "aro": 6.88,
+      "dom": 5.56
+    },
+    "enfadado": {
+      "val": 2.2,
+      "aro": 6.61,
+      "dom": 3.84
+    },
+    "enfado": {
+      "val": 2.5,
+      "aro": 7.33,
+      "dom": 4.4
+    },
+    "enfermedad": {
+      "val": 1.51,
+      "aro": 6.1,
+      "dom": 2.44
+    },
+    "enfermera": {
+      "val": 4.83,
+      "aro": 5.66,
+      "dom": 4.74
+    },
+    "enfermo": {
+      "val": 1.61,
+      "aro": 4.5,
+      "dom": 3.01
+    },
+    "enfurecido": {
+      "val": 2.02,
+      "aro": 7.48,
+      "dom": 3.76
+    },
+    "engaño": {
+      "val": 1.89,
+      "aro": 6.61,
+      "dom": 3.58
+    },
+    "engreído": {
+      "val": 2.16,
+      "aro": 6.06,
+      "dom": 4.08
+    },
+    "ensalada": {
+      "val": 6.12,
+      "aro": 4.17,
+      "dom": 5.84
+    },
+    "entierro": {
+      "val": 1.36,
+      "aro": 6.32,
+      "dom": 2.4
+    },
+    "entrometido": {
+      "val": 2.72,
+      "aro": 6.07,
+      "dom": 4.09
+    },
+    "entusiasmo": {
+      "val": 7.86,
+      "aro": 7.49,
+      "dom": 5.87
+    },
+    "erótico": {
+      "val": 7.44,
+      "aro": 7.47,
+      "dom": 5.84
+    },
+    "error": {
+      "val": 2.62,
+      "aro": 6.4,
+      "dom": 3.71
+    },
+    "erudito": {
+      "val": 5.83,
+      "aro": 4.8,
+      "dom": 5.17
+    },
+    "escándalo": {
+      "val": 3.47,
+      "aro": 6.32,
+      "dom": 3.63
+    },
+    "escéptico": {
+      "val": 4.22,
+      "aro": 4.97,
+      "dom": 4.63
+    },
+    "esclavo": {
+      "val": 1.62,
+      "aro": 5.97,
+      "dom": 3.39
+    },
+    "esconder": {
+      "val": 3.63,
+      "aro": 5.28,
+      "dom": 4.43
+    },
+    "escopeta": {
+      "val": 2.32,
+      "aro": 6.33,
+      "dom": 4.16
+    },
+    "escorbuto": {
+      "val": 2.22,
+      "aro": 5.21,
+      "dom": 3.4
+    },
+    "escoria": {
+      "val": 1.87,
+      "aro": 5.53,
+      "dom": 4.22
+    },
+    "escorpión": {
+      "val": 2.86,
+      "aro": 7.13,
+      "dom": 3.16
+    },
+    "escritor": {
+      "val": 6.47,
+      "aro": 4.74,
+      "dom": 5.1
+    },
+    "esfera": {
+      "val": 5.27,
+      "aro": 4.24,
+      "dom": 4.84
+    },
+    "espacio": {
+      "val": 6.3,
+      "aro": 5.14,
+      "dom": 4.66
+    },
+    "espantoso": {
+      "val": 2.18,
+      "aro": 6.54,
+      "dom": 3.93
+    },
+    "esperanza": {
+      "val": 8.11,
+      "aro": 6.59,
+      "dom": 5.79
+    },
+    "esperanzado": {
+      "val": 7.41,
+      "aro": 6.24,
+      "dom": 5.69
+    },
+    "espina": {
+      "val": 2.64,
+      "aro": 5.8,
+      "dom": 4.28
+    },
+    "espíritu": {
+      "val": 5.51,
+      "aro": 4.86,
+      "dom": 4.27
+    },
+    "esposa": {
+      "val": 5.61,
+      "aro": 4.88,
+      "dom": 5.41
+    },
+    "esposo": {
+      "val": 6.03,
+      "aro": 5.5,
+      "dom": 5.41
+    },
+    "espuma": {
+      "val": 6.47,
+      "aro": 4.84,
+      "dom": 5.66
+    },
+    "esquina": {
+      "val": 4.47,
+      "aro": 4.57,
+      "dom": 4.76
+    },
+    "estancado": {
+      "val": 2.63,
+      "aro": 4.57,
+      "dom": 3.84
+    },
+    "estatua": {
+      "val": 5.32,
+      "aro": 3.94,
+      "dom": 4.92
+    },
+    "estiércol": {
+      "val": 2.02,
+      "aro": 4.64,
+      "dom": 4.4
+    },
+    "estómago": {
+      "val": 4.39,
+      "aro": 4.73,
+      "dom": 4.63
+    },
+    "estrella": {
+      "val": 7.52,
+      "aro": 4.6,
+      "dom": 4.48
+    },
+    "estremecerse": {
+      "val": 3.67,
+      "aro": 6.17,
+      "dom": 3.27
+    },
+    "estrés": {
+      "val": 1.83,
+      "aro": 7.32,
+      "dom": 3.13
+    },
+    "estufa": {
+      "val": 6.37,
+      "aro": 3.74,
+      "dom": 5.98
+    },
+    "estúpido": {
+      "val": 2.6,
+      "aro": 5.58,
+      "dom": 3.86
+    },
+    "eufórico": {
+      "val": 6.8,
+      "aro": 7.53,
+      "dom": 4.62
+    },
+    "excelencia": {
+      "val": 6.01,
+      "aro": 5.39,
+      "dom": 5.08
+    },
+    "excitado": {
+      "val": 6.5,
+      "aro": 7.89,
+      "dom": 4.6
+    },
+    "excusa": {
+      "val": 3.14,
+      "aro": 6.11,
+      "dom": 5.06
+    },
+    "éxito": {
+      "val": 7.69,
+      "aro": 6.83,
+      "dom": 5.79
+    },
+    "exquisito": {
+      "val": 7.44,
+      "aro": 5.74,
+      "dom": 5.47
+    },
+    "éxtasis": {
+      "val": 4.76,
+      "aro": 6.69,
+      "dom": 4.14
+    },
+    "exterior": {
+      "val": 6.41,
+      "aro": 5.62,
+      "dom": 4.83
+    },
+    "extraordinario": {
+      "val": 7.37,
+      "aro": 6.12,
+      "dom": 5.09
+    },
+    "extraterrestre": {
+      "val": 4.66,
+      "aro": 5.87,
+      "dom": 3.52
+    },
+    "fácil": {
+      "val": 6.92,
+      "aro": 4.48,
+      "dom": 6.8
+    },
+    "falso": {
+      "val": 1.73,
+      "aro": 6.17,
+      "dom": 4.16
+    },
+    "fama": {
+      "val": 5.46,
+      "aro": 6.18,
+      "dom": 4.34
+    },
+    "famélico": {
+      "val": 2.12,
+      "aro": 5.82,
+      "dom": 3.68
+    },
+    "familia": {
+      "val": 8.18,
+      "aro": 5.31,
+      "dom": 5.89
+    },
+    "famoso": {
+      "val": 5.18,
+      "aro": 5.07,
+      "dom": 4.54
+    },
+    "fantasía": {
+      "val": 7.39,
+      "aro": 6.96,
+      "dom": 5.46
+    },
+    "faro": {
+      "val": 5.48,
+      "aro": 4.2,
+      "dom": 4.93
+    },
+    "farol": {
+      "val": 4.93,
+      "aro": 4.47,
+      "dom": 5.17
+    },
+    "fascinar": {
+      "val": 7.42,
+      "aro": 6.84,
+      "dom": 5.89
+    },
+    "fase": {
+      "val": 4.82,
+      "aro": 4.8,
+      "dom": 4.66
+    },
+    "fastidiar": {
+      "val": 2.26,
+      "aro": 5.9,
+      "dom": 4.77
+    },
+    "fatigado": {
+      "val": 2.61,
+      "aro": 4.08,
+      "dom": 4.01
+    },
+    "favor": {
+      "val": 6.58,
+      "aro": 5.7,
+      "dom": 5.33
+    },
+    "feliz": {
+      "val": 8.37,
+      "aro": 6.97,
+      "dom": 6.44
+    },
+    "feo": {
+      "val": 3.08,
+      "aro": 4.16,
+      "dom": 3.88
+    },
+    "festivo": {
+      "val": 7.97,
+      "aro": 6.47,
+      "dom": 5.36
+    },
+    "fétido": {
+      "val": 2.14,
+      "aro": 5.31,
+      "dom": 3.94
+    },
+    "fiebre": {
+      "val": 1.86,
+      "aro": 4.03,
+      "dom": 2.98
+    },
+    "fiesta": {
+      "val": 8.26,
+      "aro": 7.66,
+      "dom": 5.96
+    },
+    "firmamento": {
+      "val": 7.79,
+      "aro": 4.8,
+      "dom": 4.14
+    },
+    "flemón": {
+      "val": 1.96,
+      "aro": 5.36,
+      "dom": 3.39
+    },
+    "flexible": {
+      "val": 5.91,
+      "aro": 4.84,
+      "dom": 5.29
+    },
+    "flor": {
+      "val": 7.34,
+      "aro": 4.46,
+      "dom": 5.69
+    },
+    "florecer": {
+      "val": 7.49,
+      "aro": 5.38,
+      "dom": 4.81
+    },
+    "fofo": {
+      "val": 3.01,
+      "aro": 4.02,
+      "dom": 4.49
+    },
+    "folleto": {
+      "val": 4.79,
+      "aro": 4.33,
+      "dom": 5.38
+    },
+    "follón": {
+      "val": 2.62,
+      "aro": 6.77,
+      "dom": 4.04
+    },
+    "fortuito": {
+      "val": 5.89,
+      "aro": 5.57,
+      "dom": 3.59
+    },
+    "fracaso": {
+      "val": 1.64,
+      "aro": 5.51,
+      "dom": 3.52
+    },
+    "fragancia": {
+      "val": 7.76,
+      "aro": 5.22,
+      "dom": 5.97
+    },
+    "fraude": {
+      "val": 1.86,
+      "aro": 5.82,
+      "dom": 3.29
+    },
+    "frío": {
+      "val": 3.21,
+      "aro": 4.98,
+      "dom": 4.33
+    },
+    "frustrado": {
+      "val": 1.88,
+      "aro": 5.1,
+      "dom": 3.19
+    },
+    "fuego": {
+      "val": 5.0,
+      "aro": 6.51,
+      "dom": 3.97
+    },
+    "fuerte": {
+      "val": 6.3,
+      "aro": 5.88,
+      "dom": 5.32
+    },
+    "funeral": {
+      "val": 1.48,
+      "aro": 5.06,
+      "dom": 2.5
+    },
+    "furcia": {
+      "val": 2.66,
+      "aro": 4.86,
+      "dom": 4.23
+    },
+    "fusil": {
+      "val": 2.08,
+      "aro": 6.41,
+      "dom": 3.26
+    },
+    "ganancias": {
+      "val": 7.58,
+      "aro": 6.34,
+      "dom": 5.3
+    },
+    "ganar": {
+      "val": 7.84,
+      "aro": 7.68,
+      "dom": 6.12
+    },
+    "gangrena": {
+      "val": 1.68,
+      "aro": 6.62,
+      "dom": 2.82
+    },
+    "gatito": {
+      "val": 6.96,
+      "aro": 4.86,
+      "dom": 5.73
+    },
+    "gato": {
+      "val": 6.13,
+      "aro": 4.94,
+      "dom": 5.14
+    },
+    "gélido": {
+      "val": 3.28,
+      "aro": 4.97,
+      "dom": 4.08
+    },
+    "género": {
+      "val": 4.87,
+      "aro": 4.9,
+      "dom": 4.84
+    },
+    "generoso": {
+      "val": 7.57,
+      "aro": 5.53,
+      "dom": 5.67
+    },
+    "genial": {
+      "val": 7.98,
+      "aro": 6.62,
+      "dom": 6.37
+    },
+    "gente": {
+      "val": 6.53,
+      "aro": 6.24,
+      "dom": 4.57
+    },
+    "gérmenes": {
+      "val": 1.78,
+      "aro": 6.26,
+      "dom": 3.42
+    },
+    "gimnasta": {
+      "val": 5.91,
+      "aro": 5.42,
+      "dom": 5.26
+    },
+    "glaciar": {
+      "val": 5.76,
+      "aro": 5.03,
+      "dom": 4.1
+    },
+    "glamour": {
+      "val": 5.94,
+      "aro": 5.51,
+      "dom": 5.47
+    },
+    "gloria": {
+      "val": 6.9,
+      "aro": 5.8,
+      "dom": 5.51
+    },
+    "goce": {
+      "val": 8.09,
+      "aro": 6.62,
+      "dom": 5.8
+    },
+    "golfista": {
+      "val": 4.43,
+      "aro": 4.33,
+      "dom": 5.18
+    },
+    "golpe": {
+      "val": 2.33,
+      "aro": 6.03,
+      "dom": 3.74
+    },
+    "gordo": {
+      "val": 3.56,
+      "aro": 4.89,
+      "dom": 4.84
+    },
+    "graduado": {
+      "val": 7.09,
+      "aro": 6.16,
+      "dom": 6.59
+    },
+    "granada": {
+      "val": 3.42,
+      "aro": 6.61,
+      "dom": 3.87
+    },
+    "granja": {
+      "val": 5.53,
+      "aro": 4.9,
+      "dom": 5.22
+    },
+    "grave": {
+      "val": 1.89,
+      "aro": 6.83,
+      "dom": 3.24
+    },
+    "grito": {
+      "val": 3.39,
+      "aro": 7.42,
+      "dom": 4.43
+    },
+    "grosero": {
+      "val": 2.22,
+      "aro": 5.99,
+      "dom": 4.3
+    },
+    "guapa": {
+      "val": 7.22,
+      "aro": 5.4,
+      "dom": 5.18
+    },
+    "guapo": {
+      "val": 7.79,
+      "aro": 6.64,
+      "dom": 5.07
+    },
+    "guardería": {
+      "val": 6.59,
+      "aro": 6.07,
+      "dom": 4.98
+    },
+    "guerra": {
+      "val": 1.23,
+      "aro": 7.28,
+      "dom": 2.04
+    },
+    "guillotina": {
+      "val": 1.87,
+      "aro": 6.13,
+      "dom": 3.17
+    },
+    "guiño": {
+      "val": 6.93,
+      "aro": 6.09,
+      "dom": 5.28
+    },
+    "gusano": {
+      "val": 2.99,
+      "aro": 5.07,
+      "dom": 4.6
+    },
+    "habitante": {
+      "val": 5.91,
+      "aro": 4.61,
+      "dom": 5.19
+    },
+    "hábito": {
+      "val": 4.84,
+      "aro": 4.33,
+      "dom": 5.87
+    },
+    "halcón": {
+      "val": 5.29,
+      "aro": 5.13,
+      "dom": 4.26
+    },
+    "hambriento": {
+      "val": 3.12,
+      "aro": 6.29,
+      "dom": 3.56
+    },
+    "hamburguesa": {
+      "val": 5.78,
+      "aro": 4.86,
+      "dom": 5.38
+    },
+    "harto": {
+      "val": 2.73,
+      "aro": 5.78,
+      "dom": 4.27
+    },
+    "hastío": {
+      "val": 2.46,
+      "aro": 4.0,
+      "dom": 3.61
+    },
+    "hedor": {
+      "val": 1.91,
+      "aro": 5.62,
+      "dom": 3.81
+    },
+    "heno": {
+      "val": 5.0,
+      "aro": 3.97,
+      "dom": 5.24
+    },
+    "heridas": {
+      "val": 2.07,
+      "aro": 6.43,
+      "dom": 3.99
+    },
+    "herido": {
+      "val": 1.98,
+      "aro": 6.73,
+      "dom": 3.31
+    },
+    "hermano": {
+      "val": 7.81,
+      "aro": 5.08,
+      "dom": 5.86
+    },
+    "hermoso": {
+      "val": 7.61,
+      "aro": 5.44,
+      "dom": 5.13
+    },
+    "heroína": {
+      "val": 3.61,
+      "aro": 6.09,
+      "dom": 4.54
+    },
+    "herramienta": {
+      "val": 4.58,
+      "aro": 4.51,
+      "dom": 5.43
+    },
+    "hervir": {
+      "val": 4.81,
+      "aro": 4.77,
+      "dom": 5.21
+    },
+    "hierro": {
+      "val": 4.44,
+      "aro": 4.44,
+      "dom": 4.93
+    },
+    "historia": {
+      "val": 5.37,
+      "aro": 4.32,
+      "dom": 4.93
+    },
+    "hogar": {
+      "val": 7.63,
+      "aro": 5.01,
+      "dom": 6.29
+    },
+    "hombre": {
+      "val": 6.91,
+      "aro": 6.06,
+      "dom": 5.1
+    },
+    "homicida": {
+      "val": 1.68,
+      "aro": 6.69,
+      "dom": 3.1
+    },
+    "honesto": {
+      "val": 7.52,
+      "aro": 5.02,
+      "dom": 6.09
+    },
+    "hongo": {
+      "val": 2.91,
+      "aro": 4.9,
+      "dom": 4.0
+    },
+    "honor": {
+      "val": 7.36,
+      "aro": 5.53,
+      "dom": 6.47
+    },
+    "hornear": {
+      "val": 5.47,
+      "aro": 4.71,
+      "dom": 5.54
+    },
+    "horquilla": {
+      "val": 5.11,
+      "aro": 4.21,
+      "dom": 5.71
+    },
+    "horror": {
+      "val": 1.68,
+      "aro": 6.89,
+      "dom": 2.81
+    },
+    "hospital": {
+      "val": 2.07,
+      "aro": 5.49,
+      "dom": 3.46
+    },
+    "hostil": {
+      "val": 2.2,
+      "aro": 5.97,
+      "dom": 3.96
+    },
+    "hotel": {
+      "val": 6.39,
+      "aro": 5.49,
+      "dom": 5.54
+    },
+    "huevo": {
+      "val": 5.01,
+      "aro": 3.94,
+      "dom": 5.31
+    },
+    "humano": {
+      "val": 6.67,
+      "aro": 5.49,
+      "dom": 5.17
+    },
+    "humilde": {
+      "val": 6.59,
+      "aro": 4.16,
+      "dom": 5.64
+    },
+    "humillar": {
+      "val": 1.68,
+      "aro": 6.42,
+      "dom": 3.68
+    },
+    "humor": {
+      "val": 7.7,
+      "aro": 6.9,
+      "dom": 5.47
+    },
+    "huracán": {
+      "val": 2.28,
+      "aro": 7.16,
+      "dom": 2.63
+    },
+    "idea": {
+      "val": 7.36,
+      "aro": 6.62,
+      "dom": 6.46
+    },
+    "identidad": {
+      "val": 6.2,
+      "aro": 5.04,
+      "dom": 6.01
+    },
+    "idiota": {
+      "val": 2.56,
+      "aro": 5.11,
+      "dom": 4.73
+    },
+    "ídolo": {
+      "val": 6.29,
+      "aro": 5.8,
+      "dom": 4.86
+    },
+    "iglesia": {
+      "val": 3.77,
+      "aro": 4.31,
+      "dom": 4.78
+    },
+    "ignorancia": {
+      "val": 2.0,
+      "aro": 5.18,
+      "dom": 4.51
+    },
+    "imaginar": {
+      "val": 7.58,
+      "aro": 6.33,
+      "dom": 6.29
+    },
+    "imparcial": {
+      "val": 4.68,
+      "aro": 4.83,
+      "dom": 4.84
+    },
+    "impotente": {
+      "val": 1.98,
+      "aro": 5.58,
+      "dom": 2.82
+    },
+    "impresionado": {
+      "val": 6.09,
+      "aro": 6.69,
+      "dom": 4.2
+    },
+    "incentivo": {
+      "val": 7.39,
+      "aro": 6.71,
+      "dom": 5.66
+    },
+    "incomodidad": {
+      "val": 2.16,
+      "aro": 6.57,
+      "dom": 4.33
+    },
+    "incordio": {
+      "val": 2.29,
+      "aro": 5.83,
+      "dom": 4.26
+    },
+    "indefenso": {
+      "val": 1.89,
+      "aro": 5.71,
+      "dom": 2.83
+    },
+    "indiferente": {
+      "val": 3.98,
+      "aro": 4.72,
+      "dom": 4.9
+    },
+    "industria": {
+      "val": 4.21,
+      "aro": 4.83,
+      "dom": 4.47
+    },
+    "infección": {
+      "val": 1.69,
+      "aro": 6.47,
+      "dom": 2.94
+    },
+    "infeliz": {
+      "val": 1.43,
+      "aro": 4.73,
+      "dom": 3.27
+    },
+    "inferior": {
+      "val": 2.5,
+      "aro": 4.86,
+      "dom": 4.01
+    },
+    "infiel": {
+      "val": 1.7,
+      "aro": 6.81,
+      "dom": 4.13
+    },
+    "infierno": {
+      "val": 2.47,
+      "aro": 5.4,
+      "dom": 3.46
+    },
+    "ingenio": {
+      "val": 7.34,
+      "aro": 6.28,
+      "dom": 5.7
+    },
+    "inmaduro": {
+      "val": 3.18,
+      "aro": 5.1,
+      "dom": 4.67
+    },
+    "inmoral": {
+      "val": 2.86,
+      "aro": 5.91,
+      "dom": 4.76
+    },
+    "inocente": {
+      "val": 6.31,
+      "aro": 4.39,
+      "dom": 5.14
+    },
+    "inquieto": {
+      "val": 4.47,
+      "aro": 6.83,
+      "dom": 4.23
+    },
+    "insecto": {
+      "val": 3.24,
+      "aro": 5.57,
+      "dom": 4.13
+    },
+    "inseguro": {
+      "val": 2.18,
+      "aro": 6.29,
+      "dom": 2.72
+    },
+    "insolente": {
+      "val": 2.44,
+      "aro": 5.82,
+      "dom": 4.17
+    },
+    "inspirado": {
+      "val": 7.04,
+      "aro": 5.78,
+      "dom": 6.03
+    },
+    "inspirar": {
+      "val": 7.17,
+      "aro": 5.14,
+      "dom": 5.46
+    },
+    "insulto": {
+      "val": 2.33,
+      "aro": 6.3,
+      "dom": 4.17
+    },
+    "intelecto": {
+      "val": 6.56,
+      "aro": 5.16,
+      "dom": 6.47
+    },
+    "interés": {
+      "val": 6.57,
+      "aro": 5.89,
+      "dom": 5.96
+    },
+    "íntimo": {
+      "val": 7.46,
+      "aro": 5.13,
+      "dom": 6.38
+    },
+    "intruso": {
+      "val": 2.36,
+      "aro": 6.64,
+      "dom": 3.33
+    },
+    "inundación": {
+      "val": 1.99,
+      "aro": 6.3,
+      "dom": 2.52
+    },
+    "inútil": {
+      "val": 2.09,
+      "aro": 5.19,
+      "dom": 4.0
+    },
+    "invasor": {
+      "val": 2.52,
+      "aro": 6.96,
+      "dom": 3.57
+    },
+    "invertir": {
+      "val": 5.27,
+      "aro": 5.63,
+      "dom": 5.09
+    },
+    "invitación": {
+      "val": 7.86,
+      "aro": 6.79,
+      "dom": 5.42
+    },
+    "irritar": {
+      "val": 1.93,
+      "aro": 6.34,
+      "dom": 4.14
+    },
+    "jaqueca": {
+      "val": 1.58,
+      "aro": 4.38,
+      "dom": 2.62
+    },
+    "jardín": {
+      "val": 7.99,
+      "aro": 4.47,
+      "dom": 5.96
+    },
+    "jarra": {
+      "val": 4.81,
+      "aro": 4.17,
+      "dom": 5.83
+    },
+    "joven": {
+      "val": 7.71,
+      "aro": 6.6,
+      "dom": 4.93
+    },
+    "jovial": {
+      "val": 7.23,
+      "aro": 5.59,
+      "dom": 5.7
+    },
+    "joya": {
+      "val": 6.51,
+      "aro": 5.32,
+      "dom": 5.51
+    },
+    "júbilo": {
+      "val": 7.61,
+      "aro": 6.92,
+      "dom": 5.68
+    },
+    "jubiloso": {
+      "val": 7.44,
+      "aro": 6.62,
+      "dom": 5.88
+    },
+    "juego": {
+      "val": 6.94,
+      "aro": 6.72,
+      "dom": 5.62
+    },
+    "juguete": {
+      "val": 6.72,
+      "aro": 5.06,
+      "dom": 6.13
+    },
+    "justicia": {
+      "val": 7.0,
+      "aro": 5.78,
+      "dom": 4.98
+    },
+    "juventud": {
+      "val": 7.82,
+      "aro": 6.6,
+      "dom": 4.49
+    },
+    "ketchup": {
+      "val": 4.76,
+      "aro": 4.39,
+      "dom": 5.3
+    },
+    "ladrón": {
+      "val": 1.93,
+      "aro": 6.98,
+      "dom": 3.41
+    },
+    "lago": {
+      "val": 7.19,
+      "aro": 4.33,
+      "dom": 5.02
+    },
+    "lámpara": {
+      "val": 5.42,
+      "aro": 4.24,
+      "dom": 6.01
+    },
+    "lánguido": {
+      "val": 3.0,
+      "aro": 3.49,
+      "dom": 4.0
+    },
+    "lápiz": {
+      "val": 4.98,
+      "aro": 4.63,
+      "dom": 6.0
+    },
+    "lástima": {
+      "val": 1.79,
+      "aro": 5.62,
+      "dom": 3.92
+    },
+    "lavabo": {
+      "val": 4.72,
+      "aro": 4.3,
+      "dom": 5.39
+    },
+    "leal": {
+      "val": 7.73,
+      "aro": 4.88,
+      "dom": 5.82
+    },
+    "leche": {
+      "val": 5.83,
+      "aro": 4.07,
+      "dom": 5.92
+    },
+    "lento": {
+      "val": 3.71,
+      "aro": 4.27,
+      "dom": 4.81
+    },
+    "león": {
+      "val": 4.98,
+      "aro": 7.09,
+      "dom": 3.73
+    },
+    "lepra": {
+      "val": 1.42,
+      "aro": 6.91,
+      "dom": 2.88
+    },
+    "lesbiana": {
+      "val": 5.37,
+      "aro": 4.81,
+      "dom": 4.68
+    },
+    "lesión": {
+      "val": 1.92,
+      "aro": 5.69,
+      "dom": 3.54
+    },
+    "leyenda": {
+      "val": 6.7,
+      "aro": 5.66,
+      "dom": 4.57
+    },
+    "liberación": {
+      "val": 7.97,
+      "aro": 6.63,
+      "dom": 5.77
+    },
+    "libertad": {
+      "val": 8.54,
+      "aro": 6.4,
+      "dom": 6.26
+    },
+    "libre": {
+      "val": 8.28,
+      "aro": 6.38,
+      "dom": 7.01
+    },
+    "libro": {
+      "val": 6.42,
+      "aro": 5.3,
+      "dom": 5.84
+    },
+    "licenciado": {
+      "val": 7.56,
+      "aro": 6.31,
+      "dom": 6.2
+    },
+    "líder": {
+      "val": 5.47,
+      "aro": 6.16,
+      "dom": 5.33
+    },
+    "liga": {
+      "val": 5.38,
+      "aro": 5.06,
+      "dom": 4.78
+    },
+    "linterna": {
+      "val": 5.11,
+      "aro": 4.22,
+      "dom": 5.56
+    },
+    "liso": {
+      "val": 5.4,
+      "aro": 4.51,
+      "dom": 5.2
+    },
+    "litro": {
+      "val": 5.07,
+      "aro": 4.14,
+      "dom": 5.26
+    },
+    "llano": {
+      "val": 5.18,
+      "aro": 3.84,
+      "dom": 4.78
+    },
+    "llave": {
+      "val": 5.57,
+      "aro": 4.28,
+      "dom": 5.89
+    },
+    "lloriqueo": {
+      "val": 2.22,
+      "aro": 5.96,
+      "dom": 4.07
+    },
+    "lluvia": {
+      "val": 4.52,
+      "aro": 4.43,
+      "dom": 3.11
+    },
+    "lóbrego": {
+      "val": 3.39,
+      "aro": 5.26,
+      "dom": 4.16
+    },
+    "loco": {
+      "val": 3.41,
+      "aro": 6.67,
+      "dom": 3.6
+    },
+    "logro": {
+      "val": 8.01,
+      "aro": 6.99,
+      "dom": 6.58
+    },
+    "lotería": {
+      "val": 6.98,
+      "aro": 6.22,
+      "dom": 3.63
+    },
+    "lucha": {
+      "val": 2.4,
+      "aro": 6.67,
+      "dom": 4.24
+    },
+    "lujo": {
+      "val": 6.51,
+      "aro": 5.57,
+      "dom": 4.66
+    },
+    "lujuria": {
+      "val": 5.43,
+      "aro": 6.94,
+      "dom": 4.4
+    },
+    "madre": {
+      "val": 8.19,
+      "aro": 5.19,
+      "dom": 5.74
+    },
+    "maestro": {
+      "val": 5.5,
+      "aro": 4.98,
+      "dom": 4.82
+    },
+    "magdalena": {
+      "val": 6.27,
+      "aro": 4.26,
+      "dom": 5.64
+    },
+    "mágico": {
+      "val": 7.17,
+      "aro": 6.13,
+      "dom": 4.3
+    },
+    "magistral": {
+      "val": 6.34,
+      "aro": 5.67,
+      "dom": 5.72
+    },
+    "malaria": {
+      "val": 1.81,
+      "aro": 6.4,
+      "dom": 2.83
+    },
+    "maleducado": {
+      "val": 2.21,
+      "aro": 6.06,
+      "dom": 4.03
+    },
+    "maletero": {
+      "val": 4.21,
+      "aro": 4.19,
+      "dom": 4.7
+    },
+    "malicia": {
+      "val": 2.08,
+      "aro": 6.02,
+      "dom": 3.7
+    },
+    "maltrato": {
+      "val": 1.39,
+      "aro": 7.39,
+      "dom": 2.64
+    },
+    "malvado": {
+      "val": 1.8,
+      "aro": 6.46,
+      "dom": 4.07
+    },
+    "manera": {
+      "val": 5.0,
+      "aro": 4.5,
+      "dom": 4.99
+    },
+    "manguera": {
+      "val": 5.26,
+      "aro": 4.62,
+      "dom": 5.42
+    },
+    "maníaco": {
+      "val": 1.88,
+      "aro": 6.84,
+      "dom": 3.0
+    },
+    "maniquí": {
+      "val": 4.38,
+      "aro": 3.91,
+      "dom": 4.99
+    },
+    "mano": {
+      "val": 6.04,
+      "aro": 5.1,
+      "dom": 6.09
+    },
+    "manosear": {
+      "val": 3.99,
+      "aro": 5.64,
+      "dom": 5.11
+    },
+    "manso": {
+      "val": 5.9,
+      "aro": 3.51,
+      "dom": 5.21
+    },
+    "mantequilla": {
+      "val": 5.2,
+      "aro": 4.03,
+      "dom": 5.4
+    },
+    "máquina": {
+      "val": 4.44,
+      "aro": 4.83,
+      "dom": 5.42
+    },
+    "maquinilla": {
+      "val": 4.22,
+      "aro": 4.59,
+      "dom": 5.3
+    },
+    "maravilla": {
+      "val": 7.96,
+      "aro": 6.13,
+      "dom": 5.23
+    },
+    "mareado": {
+      "val": 2.01,
+      "aro": 5.33,
+      "dom": 2.6
+    },
+    "mariposa": {
+      "val": 6.74,
+      "aro": 4.6,
+      "dom": 5.31
+    },
+    "mariquita": {
+      "val": 5.8,
+      "aro": 4.6,
+      "dom": 5.17
+    },
+    "martillo": {
+      "val": 4.38,
+      "aro": 4.92,
+      "dom": 5.48
+    },
+    "masacre": {
+      "val": 1.32,
+      "aro": 7.01,
+      "dom": 1.92
+    },
+    "mascota": {
+      "val": 7.33,
+      "aro": 5.58,
+      "dom": 5.84
+    },
+    "masturbarse": {
+      "val": 5.79,
+      "aro": 6.41,
+      "dom": 6.49
+    },
+    "matanza": {
+      "val": 1.66,
+      "aro": 7.7,
+      "dom": 2.39
+    },
+    "material": {
+      "val": 5.01,
+      "aro": 4.19,
+      "dom": 5.4
+    },
+    "medicina": {
+      "val": 5.38,
+      "aro": 5.56,
+      "dom": 4.56
+    },
+    "mejorar": {
+      "val": 7.46,
+      "aro": 6.41,
+      "dom": 6.69
+    },
+    "melodía": {
+      "val": 7.71,
+      "aro": 5.31,
+      "dom": 6.39
+    },
+    "memoria": {
+      "val": 6.41,
+      "aro": 5.14,
+      "dom": 5.26
+    },
+    "mendigo": {
+      "val": 2.92,
+      "aro": 5.6,
+      "dom": 3.69
+    },
+    "menosprecio": {
+      "val": 1.72,
+      "aro": 5.8,
+      "dom": 3.5
+    },
+    "mente": {
+      "val": 6.41,
+      "aro": 5.81,
+      "dom": 5.93
+    },
+    "mentira": {
+      "val": 1.88,
+      "aro": 6.51,
+      "dom": 4.32
+    },
+    "mentón": {
+      "val": 4.67,
+      "aro": 4.38,
+      "dom": 4.47
+    },
+    "mercado": {
+      "val": 5.41,
+      "aro": 4.98,
+      "dom": 5.07
+    },
+    "mermelada": {
+      "val": 5.93,
+      "aro": 4.47,
+      "dom": 5.71
+    },
+    "mes": {
+      "val": 5.03,
+      "aro": 4.61,
+      "dom": 4.6
+    },
+    "mesa": {
+      "val": 4.8,
+      "aro": 4.21,
+      "dom": 5.13
+    },
+    "metal": {
+      "val": 4.98,
+      "aro": 4.42,
+      "dom": 4.97
+    },
+    "método": {
+      "val": 5.07,
+      "aro": 4.68,
+      "dom": 4.76
+    },
+    "miedoso": {
+      "val": 2.57,
+      "aro": 6.09,
+      "dom": 3.67
+    },
+    "miel": {
+      "val": 5.46,
+      "aro": 4.06,
+      "dom": 5.66
+    },
+    "milagro": {
+      "val": 6.84,
+      "aro": 5.86,
+      "dom": 3.46
+    },
+    "millonario": {
+      "val": 6.57,
+      "aro": 6.0,
+      "dom": 4.89
+    },
+    "miseria": {
+      "val": 1.47,
+      "aro": 5.57,
+      "dom": 3.1
+    },
+    "místico": {
+      "val": 5.64,
+      "aro": 4.98,
+      "dom": 4.87
+    },
+    "modesto": {
+      "val": 6.31,
+      "aro": 4.24,
+      "dom": 5.86
+    },
+    "moho": {
+      "val": 2.61,
+      "aro": 4.87,
+      "dom": 4.33
+    },
+    "molde": {
+      "val": 4.76,
+      "aro": 4.02,
+      "dom": 5.46
+    },
+    "molestar": {
+      "val": 2.33,
+      "aro": 6.37,
+      "dom": 4.02
+    },
+    "molestia": {
+      "val": 2.17,
+      "aro": 6.0,
+      "dom": 3.82
+    },
+    "molino": {
+      "val": 5.36,
+      "aro": 4.22,
+      "dom": 4.61
+    },
+    "momento": {
+      "val": 6.0,
+      "aro": 5.31,
+      "dom": 5.41
+    },
+    "moneda": {
+      "val": 6.01,
+      "aro": 5.72,
+      "dom": 5.64
+    },
+    "monja": {
+      "val": 3.79,
+      "aro": 3.64,
+      "dom": 4.79
+    },
+    "mono": {
+      "val": 5.29,
+      "aro": 5.1,
+      "dom": 4.49
+    },
+    "montaña": {
+      "val": 6.49,
+      "aro": 4.99,
+      "dom": 4.84
+    },
+    "moral": {
+      "val": 6.12,
+      "aro": 5.31,
+      "dom": 6.09
+    },
+    "morboso": {
+      "val": 4.29,
+      "aro": 6.36,
+      "dom": 4.69
+    },
+    "morgue": {
+      "val": 2.71,
+      "aro": 5.33,
+      "dom": 3.21
+    },
+    "mosquito": {
+      "val": 2.54,
+      "aro": 5.84,
+      "dom": 4.28
+    },
+    "motor": {
+      "val": 4.83,
+      "aro": 4.91,
+      "dom": 4.63
+    },
+    "movilidad": {
+      "val": 7.16,
+      "aro": 6.23,
+      "dom": 6.14
+    },
+    "mucosidad": {
+      "val": 2.58,
+      "aro": 4.69,
+      "dom": 4.08
+    },
+    "mueca": {
+      "val": 5.2,
+      "aro": 5.11,
+      "dom": 5.29
+    },
+    "muerte": {
+      "val": 1.23,
+      "aro": 6.46,
+      "dom": 1.93
+    },
+    "muerto": {
+      "val": 1.17,
+      "aro": 5.99,
+      "dom": 1.98
+    },
+    "mugre": {
+      "val": 1.93,
+      "aro": 5.21,
+      "dom": 5.04
+    },
+    "mujer": {
+      "val": 6.4,
+      "aro": 4.89,
+      "dom": 5.51
+    },
+    "muleta": {
+      "val": 2.87,
+      "aro": 4.5,
+      "dom": 4.24
+    },
+    "multa": {
+      "val": 1.98,
+      "aro": 6.67,
+      "dom": 3.62
+    },
+    "mundo": {
+      "val": 6.57,
+      "aro": 6.12,
+      "dom": 3.9
+    },
+    "muñeca": {
+      "val": 6.24,
+      "aro": 4.48,
+      "dom": 5.79
+    },
+    "musculoso": {
+      "val": 5.04,
+      "aro": 4.89,
+      "dom": 5.22
+    },
+    "museo": {
+      "val": 6.26,
+      "aro": 4.52,
+      "dom": 5.44
+    },
+    "música": {
+      "val": 8.16,
+      "aro": 6.62,
+      "dom": 6.61
+    },
+    "mutación": {
+      "val": 3.27,
+      "aro": 5.24,
+      "dom": 3.0
+    },
+    "mutilar": {
+      "val": 1.36,
+      "aro": 7.01,
+      "dom": 2.93
+    },
+    "nadador": {
+      "val": 5.92,
+      "aro": 5.4,
+      "dom": 5.04
+    },
+    "narcótico": {
+      "val": 2.92,
+      "aro": 5.71,
+      "dom": 4.32
+    },
+    "natural": {
+      "val": 7.17,
+      "aro": 4.26,
+      "dom": 5.19
+    },
+    "naturaleza": {
+      "val": 8.03,
+      "aro": 5.38,
+      "dom": 4.58
+    },
+    "navidad": {
+      "val": 6.69,
+      "aro": 6.1,
+      "dom": 5.09
+    },
+    "néctar": {
+      "val": 6.1,
+      "aro": 4.6,
+      "dom": 5.28
+    },
+    "negligencia": {
+      "val": 1.88,
+      "aro": 6.06,
+      "dom": 3.17
+    },
+    "negro": {
+      "val": 4.87,
+      "aro": 4.47,
+      "dom": 4.81
+    },
+    "nene": {
+      "val": 7.36,
+      "aro": 5.4,
+      "dom": 5.62
+    },
+    "nervioso": {
+      "val": 3.26,
+      "aro": 7.36,
+      "dom": 3.02
+    },
+    "neurótico": {
+      "val": 2.57,
+      "aro": 6.51,
+      "dom": 3.94
+    },
+    "nevera": {
+      "val": 5.44,
+      "aro": 4.84,
+      "dom": 5.5
+    },
+    "nieve": {
+      "val": 7.0,
+      "aro": 5.34,
+      "dom": 4.4
+    },
+    "niño": {
+      "val": 7.34,
+      "aro": 6.4,
+      "dom": 5.38
+    },
+    "nombre": {
+      "val": 5.72,
+      "aro": 4.58,
+      "dom": 5.41
+    },
+    "noticias": {
+      "val": 5.16,
+      "aro": 5.77,
+      "dom": 3.69
+    },
+    "novia": {
+      "val": 6.63,
+      "aro": 5.79,
+      "dom": 5.04
+    },
+    "novio": {
+      "val": 7.49,
+      "aro": 6.7,
+      "dom": 5.13
+    },
+    "nubes": {
+      "val": 6.37,
+      "aro": 4.21,
+      "dom": 3.51
+    },
+    "nublado": {
+      "val": 3.27,
+      "aro": 3.61,
+      "dom": 3.0
+    },
+    "nudo": {
+      "val": 3.96,
+      "aro": 4.76,
+      "dom": 5.19
+    },
+    "nutrir": {
+      "val": 6.3,
+      "aro": 5.12,
+      "dom": 5.91
+    },
+    "obedecer": {
+      "val": 3.84,
+      "aro": 5.28,
+      "dom": 4.89
+    },
+    "obesidad": {
+      "val": 2.28,
+      "aro": 5.22,
+      "dom": 3.73
+    },
+    "obsceno": {
+      "val": 2.51,
+      "aro": 5.79,
+      "dom": 4.12
+    },
+    "obsequio": {
+      "val": 7.8,
+      "aro": 6.29,
+      "dom": 5.37
+    },
+    "obsesión": {
+      "val": 2.78,
+      "aro": 6.09,
+      "dom": 3.09
+    },
+    "ocaso": {
+      "val": 6.39,
+      "aro": 4.54,
+      "dom": 4.19
+    },
+    "océano": {
+      "val": 7.54,
+      "aro": 5.36,
+      "dom": 4.38
+    },
+    "odiar": {
+      "val": 1.86,
+      "aro": 6.48,
+      "dom": 4.23
+    },
+    "odio": {
+      "val": 1.74,
+      "aro": 7.01,
+      "dom": 3.67
+    },
+    "ofender": {
+      "val": 2.1,
+      "aro": 5.96,
+      "dom": 4.57
+    },
+    "oficina": {
+      "val": 4.09,
+      "aro": 4.64,
+      "dom": 5.08
+    },
+    "olla": {
+      "val": 4.66,
+      "aro": 4.16,
+      "dom": 5.38
+    },
+    "opción": {
+      "val": 6.08,
+      "aro": 5.7,
+      "dom": 5.94
+    },
+    "opinión": {
+      "val": 6.34,
+      "aro": 5.69,
+      "dom": 5.71
+    },
+    "oportunidad": {
+      "val": 7.91,
+      "aro": 7.07,
+      "dom": 5.31
+    },
+    "optimismo": {
+      "val": 8.31,
+      "aro": 6.38,
+      "dom": 6.33
+    },
+    "ordenado": {
+      "val": 6.57,
+      "aro": 4.19,
+      "dom": 6.78
+    },
+    "ordenador": {
+      "val": 5.5,
+      "aro": 5.06,
+      "dom": 5.27
+    },
+    "orgasmo": {
+      "val": 8.06,
+      "aro": 8.16,
+      "dom": 5.13
+    },
+    "orgullo": {
+      "val": 5.12,
+      "aro": 5.96,
+      "dom": 5.4
+    },
+    "orgulloso": {
+      "val": 5.53,
+      "aro": 5.8,
+      "dom": 5.82
+    },
+    "orina": {
+      "val": 2.82,
+      "aro": 4.64,
+      "dom": 5.29
+    },
+    "oro": {
+      "val": 6.68,
+      "aro": 5.76,
+      "dom": 5.04
+    },
+    "orquesta": {
+      "val": 6.24,
+      "aro": 5.26,
+      "dom": 4.64
+    },
+    "oscuro": {
+      "val": 3.71,
+      "aro": 5.06,
+      "dom": 4.04
+    },
+    "otoño": {
+      "val": 5.17,
+      "aro": 4.44,
+      "dom": 4.19
+    },
+    "oxidado": {
+      "val": 3.11,
+      "aro": 3.97,
+      "dom": 4.34
+    },
+    "paciente": {
+      "val": 4.36,
+      "aro": 4.88,
+      "dom": 4.78
+    },
+    "padre": {
+      "val": 7.0,
+      "aro": 4.86,
+      "dom": 4.94
+    },
+    "pájaro": {
+      "val": 6.43,
+      "aro": 4.79,
+      "dom": 4.53
+    },
+    "palacio": {
+      "val": 6.91,
+      "aro": 5.03,
+      "dom": 5.0
+    },
+    "paloma": {
+      "val": 6.32,
+      "aro": 4.38,
+      "dom": 5.04
+    },
+    "pancarta": {
+      "val": 5.49,
+      "aro": 5.17,
+      "dom": 5.08
+    },
+    "pánico": {
+      "val": 1.53,
+      "aro": 7.72,
+      "dom": 2.43
+    },
+    "pantano": {
+      "val": 3.97,
+      "aro": 4.81,
+      "dom": 3.94
+    },
+    "pañuelo": {
+      "val": 4.33,
+      "aro": 4.17,
+      "dom": 5.36
+    },
+    "papel": {
+      "val": 4.98,
+      "aro": 3.89,
+      "dom": 5.73
+    },
+    "paraguas": {
+      "val": 4.27,
+      "aro": 3.99,
+      "dom": 5.23
+    },
+    "paraíso": {
+      "val": 8.24,
+      "aro": 5.7,
+      "dom": 5.7
+    },
+    "parálisis": {
+      "val": 1.33,
+      "aro": 5.16,
+      "dom": 2.16
+    },
+    "pareja": {
+      "val": 7.91,
+      "aro": 7.08,
+      "dom": 5.6
+    },
+    "parte": {
+      "val": 4.66,
+      "aro": 4.52,
+      "dom": 5.04
+    },
+    "pasaje": {
+      "val": 5.23,
+      "aro": 4.92,
+      "dom": 4.74
+    },
+    "pasillo": {
+      "val": 4.37,
+      "aro": 4.47,
+      "dom": 4.74
+    },
+    "pasión": {
+      "val": 7.84,
+      "aro": 7.96,
+      "dom": 4.96
+    },
+    "pasta": {
+      "val": 6.22,
+      "aro": 4.92,
+      "dom": 5.62
+    },
+    "pastel": {
+      "val": 7.18,
+      "aro": 5.28,
+      "dom": 5.69
+    },
+    "patente": {
+      "val": 4.77,
+      "aro": 4.53,
+      "dom": 5.04
+    },
+    "patriota": {
+      "val": 4.91,
+      "aro": 5.52,
+      "dom": 5.33
+    },
+    "pausado": {
+      "val": 5.19,
+      "aro": 3.23,
+      "dom": 5.33
+    },
+    "paz": {
+      "val": 8.11,
+      "aro": 3.49,
+      "dom": 5.71
+    },
+    "pecado": {
+      "val": 3.92,
+      "aro": 5.54,
+      "dom": 4.92
+    },
+    "pecaminoso": {
+      "val": 3.66,
+      "aro": 5.57,
+      "dom": 4.54
+    },
+    "película": {
+      "val": 7.14,
+      "aro": 5.41,
+      "dom": 5.87
+    },
+    "peligro": {
+      "val": 2.02,
+      "aro": 7.56,
+      "dom": 2.93
+    },
+    "pellizco": {
+      "val": 3.17,
+      "aro": 5.89,
+      "dom": 4.2
+    },
+    "pena": {
+      "val": 1.6,
+      "aro": 4.8,
+      "dom": 3.22
+    },
+    "pene": {
+      "val": 5.93,
+      "aro": 6.54,
+      "dom": 5.54
+    },
+    "penoso": {
+      "val": 2.13,
+      "aro": 5.31,
+      "dom": 3.88
+    },
+    "pensamiento": {
+      "val": 5.91,
+      "aro": 5.51,
+      "dom": 5.56
+    },
+    "perdedor": {
+      "val": 2.1,
+      "aro": 5.33,
+      "dom": 3.72
+    },
+    "perdido": {
+      "val": 2.28,
+      "aro": 6.18,
+      "dom": 2.73
+    },
+    "perezoso": {
+      "val": 3.62,
+      "aro": 3.37,
+      "dom": 4.67
+    },
+    "perfección": {
+      "val": 6.58,
+      "aro": 5.83,
+      "dom": 5.78
+    },
+    "perfume": {
+      "val": 7.03,
+      "aro": 4.88,
+      "dom": 5.59
+    },
+    "perro": {
+      "val": 6.5,
+      "aro": 5.83,
+      "dom": 5.08
+    },
+    "persona": {
+      "val": 6.89,
+      "aro": 5.27,
+      "dom": 5.58
+    },
+    "perverso": {
+      "val": 2.59,
+      "aro": 6.12,
+      "dom": 3.9
+    },
+    "pervertido": {
+      "val": 1.96,
+      "aro": 6.54,
+      "dom": 3.42
+    },
+    "pesadilla": {
+      "val": 1.8,
+      "aro": 7.31,
+      "dom": 2.3
+    },
+    "pesar": {
+      "val": 3.04,
+      "aro": 5.41,
+      "dom": 4.33
+    },
+    "pesaroso": {
+      "val": 2.86,
+      "aro": 4.24,
+      "dom": 4.0
+    },
+    "pescado": {
+      "val": 5.7,
+      "aro": 4.63,
+      "dom": 5.09
+    },
+    "pesimismo": {
+      "val": 2.06,
+      "aro": 4.61,
+      "dom": 3.41
+    },
+    "peste": {
+      "val": 1.53,
+      "aro": 6.2,
+      "dom": 3.01
+    },
+    "pezón": {
+      "val": 6.14,
+      "aro": 5.42,
+      "dom": 5.27
+    },
+    "pie": {
+      "val": 4.67,
+      "aro": 4.58,
+      "dom": 5.19
+    },
+    "piel": {
+      "val": 6.19,
+      "aro": 4.9,
+      "dom": 5.23
+    },
+    "pieza": {
+      "val": 4.84,
+      "aro": 4.12,
+      "dom": 5.12
+    },
+    "pinchazo": {
+      "val": 2.18,
+      "aro": 6.69,
+      "dom": 3.7
+    },
+    "pintura": {
+      "val": 6.2,
+      "aro": 5.2,
+      "dom": 5.64
+    },
+    "piojo": {
+      "val": 1.97,
+      "aro": 5.64,
+      "dom": 3.64
+    },
+    "piojos": {
+      "val": 1.9,
+      "aro": 6.32,
+      "dom": 3.46
+    },
+    "pirotecnia": {
+      "val": 5.06,
+      "aro": 6.48,
+      "dom": 3.79
+    },
+    "pistola": {
+      "val": 1.83,
+      "aro": 7.08,
+      "dom": 3.58
+    },
+    "pitón": {
+      "val": 2.93,
+      "aro": 6.82,
+      "dom": 3.16
+    },
+    "pizza": {
+      "val": 7.07,
+      "aro": 5.31,
+      "dom": 6.0
+    },
+    "placer": {
+      "val": 8.48,
+      "aro": 7.57,
+      "dom": 5.69
+    },
+    "planta": {
+      "val": 6.46,
+      "aro": 3.8,
+      "dom": 5.28
+    },
+    "playa": {
+      "val": 8.07,
+      "aro": 5.93,
+      "dom": 6.28
+    },
+    "pleito": {
+      "val": 2.81,
+      "aro": 6.07,
+      "dom": 3.64
+    },
+    "pobreza": {
+      "val": 1.54,
+      "aro": 5.89,
+      "dom": 3.07
+    },
+    "poder": {
+      "val": 5.73,
+      "aro": 6.09,
+      "dom": 5.7
+    },
+    "poderoso": {
+      "val": 5.37,
+      "aro": 5.4,
+      "dom": 5.53
+    },
+    "podrido": {
+      "val": 1.91,
+      "aro": 5.16,
+      "dom": 4.17
+    },
+    "poesía": {
+      "val": 7.23,
+      "aro": 5.6,
+      "dom": 5.36
+    },
+    "ponzoña": {
+      "val": 3.39,
+      "aro": 4.37,
+      "dom": 4.16
+    },
+    "porquería": {
+      "val": 1.66,
+      "aro": 5.37,
+      "dom": 5.3
+    },
+    "póster": {
+      "val": 5.49,
+      "aro": 4.63,
+      "dom": 4.96
+    },
+    "pradera": {
+      "val": 7.49,
+      "aro": 5.03,
+      "dom": 5.59
+    },
+    "precipicio": {
+      "val": 2.6,
+      "aro": 6.91,
+      "dom": 3.28
+    },
+    "predominante": {
+      "val": 4.7,
+      "aro": 5.14,
+      "dom": 4.96
+    },
+    "prenda": {
+      "val": 5.88,
+      "aro": 4.54,
+      "dom": 5.43
+    },
+    "presión": {
+      "val": 2.7,
+      "aro": 7.08,
+      "dom": 4.07
+    },
+    "prestigio": {
+      "val": 7.17,
+      "aro": 6.09,
+      "dom": 6.44
+    },
+    "primavera": {
+      "val": 7.53,
+      "aro": 5.99,
+      "dom": 4.76
+    },
+    "prisión": {
+      "val": 1.98,
+      "aro": 5.56,
+      "dom": 3.56
+    },
+    "privacidad": {
+      "val": 6.08,
+      "aro": 4.88,
+      "dom": 6.11
+    },
+    "problema": {
+      "val": 1.89,
+      "aro": 6.56,
+      "dom": 3.81
+    },
+    "progreso": {
+      "val": 7.29,
+      "aro": 6.43,
+      "dom": 5.59
+    },
+    "promoción": {
+      "val": 5.89,
+      "aro": 5.58,
+      "dom": 5.29
+    },
+    "protegido": {
+      "val": 6.69,
+      "aro": 4.01,
+      "dom": 6.1
+    },
+    "publicación": {
+      "val": 5.31,
+      "aro": 4.91,
+      "dom": 5.06
+    },
+    "pueblo": {
+      "val": 6.52,
+      "aro": 5.21,
+      "dom": 5.6
+    },
+    "puerta": {
+      "val": 5.07,
+      "aro": 4.36,
+      "dom": 5.18
+    },
+    "puntapié": {
+      "val": 3.24,
+      "aro": 5.83,
+      "dom": 4.49
+    },
+    "pus": {
+      "val": 1.7,
+      "aro": 5.91,
+      "dom": 3.83
+    },
+    "puta": {
+      "val": 3.24,
+      "aro": 5.46,
+      "dom": 4.11
+    },
+    "putrefacto": {
+      "val": 1.64,
+      "aro": 5.36,
+      "dom": 3.94
+    },
+    "queja": {
+      "val": 2.84,
+      "aro": 5.67,
+      "dom": 4.73
+    },
+    "quemadura": {
+      "val": 1.76,
+      "aro": 6.83,
+      "dom": 3.54
+    },
+    "queroseno": {
+      "val": 3.19,
+      "aro": 5.04,
+      "dom": 4.0
+    },
+    "rabia": {
+      "val": 2.33,
+      "aro": 7.47,
+      "dom": 3.6
+    },
+    "radiador": {
+      "val": 5.5,
+      "aro": 3.97,
+      "dom": 5.39
+    },
+    "radiante": {
+      "val": 7.43,
+      "aro": 5.94,
+      "dom": 5.58
+    },
+    "radio": {
+      "val": 6.29,
+      "aro": 5.52,
+      "dom": 5.87
+    },
+    "ramo": {
+      "val": 6.42,
+      "aro": 5.17,
+      "dom": 5.54
+    },
+    "rana": {
+      "val": 4.23,
+      "aro": 4.81,
+      "dom": 4.8
+    },
+    "rancio": {
+      "val": 2.41,
+      "aro": 4.72,
+      "dom": 4.66
+    },
+    "rápido": {
+      "val": 5.71,
+      "aro": 6.3,
+      "dom": 5.26
+    },
+    "rapto": {
+      "val": 1.67,
+      "aro": 7.0,
+      "dom": 2.36
+    },
+    "raro": {
+      "val": 4.24,
+      "aro": 4.99,
+      "dom": 4.11
+    },
+    "rascacielos": {
+      "val": 4.73,
+      "aro": 5.94,
+      "dom": 4.29
+    },
+    "rata": {
+      "val": 2.67,
+      "aro": 6.32,
+      "dom": 3.78
+    },
+    "rebelde": {
+      "val": 4.56,
+      "aro": 6.14,
+      "dom": 4.13
+    },
+    "recado": {
+      "val": 4.43,
+      "aro": 4.83,
+      "dom": 4.98
+    },
+    "rechazado": {
+      "val": 1.94,
+      "aro": 5.71,
+      "dom": 3.03
+    },
+    "recogedor": {
+      "val": 4.22,
+      "aro": 4.28,
+      "dom": 5.41
+    },
+    "recompensa": {
+      "val": 7.6,
+      "aro": 6.36,
+      "dom": 5.76
+    },
+    "reconocido": {
+      "val": 6.11,
+      "aro": 5.02,
+      "dom": 5.4
+    },
+    "recuerdos": {
+      "val": 6.96,
+      "aro": 5.69,
+      "dom": 5.8
+    },
+    "refrigerio": {
+      "val": 5.18,
+      "aro": 4.68,
+      "dom": 5.14
+    },
+    "regalo": {
+      "val": 7.91,
+      "aro": 6.63,
+      "dom": 5.13
+    },
+    "rehén": {
+      "val": 1.74,
+      "aro": 6.39,
+      "dom": 2.58
+    },
+    "reina": {
+      "val": 4.91,
+      "aro": 4.74,
+      "dom": 4.66
+    },
+    "relajado": {
+      "val": 7.53,
+      "aro": 2.86,
+      "dom": 6.19
+    },
+    "relámpago": {
+      "val": 3.98,
+      "aro": 6.57,
+      "dom": 2.86
+    },
+    "reloj": {
+      "val": 4.96,
+      "aro": 4.72,
+      "dom": 5.29
+    },
+    "repisa": {
+      "val": 4.73,
+      "aro": 4.24,
+      "dom": 5.03
+    },
+    "reptil": {
+      "val": 3.41,
+      "aro": 6.08,
+      "dom": 3.56
+    },
+    "repugnante": {
+      "val": 1.78,
+      "aro": 5.82,
+      "dom": 3.73
+    },
+    "rescate": {
+      "val": 7.27,
+      "aro": 7.0,
+      "dom": 4.71
+    },
+    "resentirse": {
+      "val": 2.29,
+      "aro": 5.86,
+      "dom": 3.58
+    },
+    "reservado": {
+      "val": 4.5,
+      "aro": 3.91,
+      "dom": 5.04
+    },
+    "respeto": {
+      "val": 7.27,
+      "aro": 4.74,
+      "dom": 6.1
+    },
+    "respetuoso": {
+      "val": 7.63,
+      "aro": 4.21,
+      "dom": 6.76
+    },
+    "respuesta": {
+      "val": 5.79,
+      "aro": 5.52,
+      "dom": 5.64
+    },
+    "restaurante": {
+      "val": 6.72,
+      "aro": 5.71,
+      "dom": 5.87
+    },
+    "retrasado": {
+      "val": 2.84,
+      "aro": 5.11,
+      "dom": 3.28
+    },
+    "reunión": {
+      "val": 5.62,
+      "aro": 5.9,
+      "dom": 5.2
+    },
+    "reverente": {
+      "val": 4.59,
+      "aro": 4.6,
+      "dom": 4.74
+    },
+    "revólver": {
+      "val": 2.13,
+      "aro": 7.01,
+      "dom": 3.69
+    },
+    "revuelta": {
+      "val": 3.23,
+      "aro": 6.64,
+      "dom": 3.16
+    },
+    "rey": {
+      "val": 4.98,
+      "aro": 4.36,
+      "dom": 4.34
+    },
+    "rifle": {
+      "val": 1.92,
+      "aro": 6.26,
+      "dom": 3.24
+    },
+    "rígido": {
+      "val": 3.39,
+      "aro": 4.89,
+      "dom": 4.51
+    },
+    "riña": {
+      "val": 2.16,
+      "aro": 6.99,
+      "dom": 4.13
+    },
+    "río": {
+      "val": 7.03,
+      "aro": 4.62,
+      "dom": 4.58
+    },
+    "riqueza": {
+      "val": 7.04,
+      "aro": 5.81,
+      "dom": 5.42
+    },
+    "risa": {
+      "val": 8.34,
+      "aro": 7.1,
+      "dom": 6.14
+    },
+    "roca": {
+      "val": 4.92,
+      "aro": 3.9,
+      "dom": 5.28
+    },
+    "rojo": {
+      "val": 5.93,
+      "aro": 5.93,
+      "dom": 5.48
+    },
+    "romántico": {
+      "val": 7.99,
+      "aro": 7.07,
+      "dom": 5.72
+    },
+    "roña": {
+      "val": 1.94,
+      "aro": 5.38,
+      "dom": 5.39
+    },
+    "ropa": {
+      "val": 6.69,
+      "aro": 5.63,
+      "dom": 5.78
+    },
+    "roto": {
+      "val": 3.02,
+      "aro": 5.46,
+      "dom": 3.93
+    },
+    "rubio": {
+      "val": 5.28,
+      "aro": 4.96,
+      "dom": 4.78
+    },
+    "ruidoso": {
+      "val": 2.63,
+      "aro": 6.93,
+      "dom": 3.62
+    },
+    "sabio": {
+      "val": 7.14,
+      "aro": 5.17,
+      "dom": 5.67
+    },
+    "sabor": {
+      "val": 6.88,
+      "aro": 5.39,
+      "dom": 5.33
+    },
+    "salud": {
+      "val": 7.74,
+      "aro": 5.31,
+      "dom": 5.39
+    },
+    "saludar": {
+      "val": 6.61,
+      "aro": 5.12,
+      "dom": 6.04
+    },
+    "saludo": {
+      "val": 6.86,
+      "aro": 5.6,
+      "dom": 6.42
+    },
+    "salvador": {
+      "val": 6.89,
+      "aro": 5.51,
+      "dom": 5.34
+    },
+    "sangriento": {
+      "val": 1.42,
+      "aro": 6.79,
+      "dom": 3.16
+    },
+    "santo": {
+      "val": 4.87,
+      "aro": 3.56,
+      "dom": 4.19
+    },
+    "sarampión": {
+      "val": 1.84,
+      "aro": 4.96,
+      "dom": 2.72
+    },
+    "satisfecho": {
+      "val": 7.88,
+      "aro": 5.31,
+      "dom": 6.59
+    },
+    "secador": {
+      "val": 5.01,
+      "aro": 4.42,
+      "dom": 5.23
+    },
+    "seda": {
+      "val": 6.73,
+      "aro": 4.0,
+      "dom": 5.4
+    },
+    "seguro": {
+      "val": 7.48,
+      "aro": 4.34,
+      "dom": 6.9
+    },
+    "seno": {
+      "val": 5.81,
+      "aro": 4.8,
+      "dom": 5.17
+    },
+    "sentimiento": {
+      "val": 7.36,
+      "aro": 6.79,
+      "dom": 4.33
+    },
+    "serio": {
+      "val": 3.8,
+      "aro": 4.04,
+      "dom": 4.73
+    },
+    "serpiente": {
+      "val": 3.07,
+      "aro": 6.74,
+      "dom": 3.54
+    },
+    "sexo": {
+      "val": 7.76,
+      "aro": 7.59,
+      "dom": 5.87
+    },
+    "sexy": {
+      "val": 7.33,
+      "aro": 7.07,
+      "dom": 5.8
+    },
+    "sífilis": {
+      "val": 1.6,
+      "aro": 5.21,
+      "dom": 3.02
+    },
+    "silbato": {
+      "val": 4.21,
+      "aro": 5.81,
+      "dom": 4.84
+    },
+    "silla": {
+      "val": 5.03,
+      "aro": 3.48,
+      "dom": 5.57
+    },
+    "simpático": {
+      "val": 7.94,
+      "aro": 6.62,
+      "dom": 6.38
+    },
+    "snob": {
+      "val": 3.14,
+      "aro": 5.12,
+      "dom": 4.81
+    },
+    "sobrecogido": {
+      "val": 3.0,
+      "aro": 5.67,
+      "dom": 3.73
+    },
+    "sobresaltado": {
+      "val": 4.01,
+      "aro": 7.59,
+      "dom": 3.27
+    },
+    "sociable": {
+      "val": 7.56,
+      "aro": 6.06,
+      "dom": 6.01
+    },
+    "soga": {
+      "val": 2.01,
+      "aro": 5.83,
+      "dom": 3.22
+    },
+    "sol": {
+      "val": 7.9,
+      "aro": 5.69,
+      "dom": 5.41
+    },
+    "soleado": {
+      "val": 8.14,
+      "aro": 6.39,
+      "dom": 5.42
+    },
+    "soledad": {
+      "val": 2.5,
+      "aro": 4.67,
+      "dom": 3.78
+    },
+    "solemne": {
+      "val": 4.58,
+      "aro": 4.31,
+      "dom": 4.76
+    },
+    "solitario": {
+      "val": 2.68,
+      "aro": 4.4,
+      "dom": 4.23
+    },
+    "solo": {
+      "val": 2.76,
+      "aro": 3.61,
+      "dom": 4.58
+    },
+    "sombra": {
+      "val": 4.03,
+      "aro": 4.57,
+      "dom": 4.23
+    },
+    "sombrero": {
+      "val": 4.87,
+      "aro": 4.11,
+      "dom": 5.46
+    },
+    "sonajero": {
+      "val": 6.06,
+      "aro": 4.96,
+      "dom": 5.74
+    },
+    "sorprendido": {
+      "val": 6.29,
+      "aro": 6.87,
+      "dom": 3.76
+    },
+    "soso": {
+      "val": 2.49,
+      "aro": 3.99,
+      "dom": 5.07
+    },
+    "sospechoso": {
+      "val": 3.07,
+      "aro": 6.46,
+      "dom": 3.71
+    },
+    "spray": {
+      "val": 4.17,
+      "aro": 4.78,
+      "dom": 5.1
+    },
+    "suave": {
+      "val": 7.04,
+      "aro": 4.29,
+      "dom": 5.32
+    },
+    "suburbio": {
+      "val": 2.5,
+      "aro": 5.32,
+      "dom": 3.18
+    },
+    "suciedad": {
+      "val": 1.98,
+      "aro": 5.61,
+      "dom": 5.48
+    },
+    "sucio": {
+      "val": 1.91,
+      "aro": 5.62,
+      "dom": 5.5
+    },
+    "sueño": {
+      "val": 6.6,
+      "aro": 3.63,
+      "dom": 4.1
+    },
+    "suicidio": {
+      "val": 1.24,
+      "aro": 6.8,
+      "dom": 4.01
+    },
+    "sustento": {
+      "val": 5.49,
+      "aro": 4.98,
+      "dom": 5.01
+    },
+    "tabaco": {
+      "val": 3.18,
+      "aro": 5.06,
+      "dom": 4.57
+    },
+    "tablero": {
+      "val": 4.8,
+      "aro": 4.71,
+      "dom": 5.21
+    },
+    "taburete": {
+      "val": 4.79,
+      "aro": 3.59,
+      "dom": 5.44
+    },
+    "talento": {
+      "val": 7.44,
+      "aro": 5.84,
+      "dom": 5.83
+    },
+    "tanque": {
+      "val": 2.39,
+      "aro": 6.04,
+      "dom": 3.03
+    },
+    "tarta": {
+      "val": 7.26,
+      "aro": 5.26,
+      "dom": 5.53
+    },
+    "taxi": {
+      "val": 4.64,
+      "aro": 4.71,
+      "dom": 4.86
+    },
+    "tela": {
+      "val": 5.11,
+      "aro": 4.24,
+      "dom": 5.58
+    },
+    "temeroso": {
+      "val": 2.67,
+      "aro": 6.22,
+      "dom": 3.3
+    },
+    "temor": {
+      "val": 1.96,
+      "aro": 6.9,
+      "dom": 2.77
+    },
+    "temperamental": {
+      "val": 4.27,
+      "aro": 6.14,
+      "dom": 4.24
+    },
+    "tenedor": {
+      "val": 4.8,
+      "aro": 4.43,
+      "dom": 5.56
+    },
+    "tenis": {
+      "val": 5.81,
+      "aro": 5.37,
+      "dom": 5.41
+    },
+    "tenso": {
+      "val": 2.73,
+      "aro": 7.12,
+      "dom": 3.57
+    },
+    "tenue": {
+      "val": 5.23,
+      "aro": 3.79,
+      "dom": 5.2
+    },
+    "teoría": {
+      "val": 4.59,
+      "aro": 4.67,
+      "dom": 4.81
+    },
+    "termita": {
+      "val": 3.4,
+      "aro": 5.04,
+      "dom": 4.74
+    },
+    "termómetro": {
+      "val": 4.28,
+      "aro": 4.49,
+      "dom": 4.87
+    },
+    "terrible": {
+      "val": 1.49,
+      "aro": 6.87,
+      "dom": 2.91
+    },
+    "terrorista": {
+      "val": 1.51,
+      "aro": 7.33,
+      "dom": 2.28
+    },
+    "tesoro": {
+      "val": 7.27,
+      "aro": 6.39,
+      "dom": 5.37
+    },
+    "tiburón": {
+      "val": 3.07,
+      "aro": 7.38,
+      "dom": 3.46
+    },
+    "tiempo": {
+      "val": 5.27,
+      "aro": 5.51,
+      "dom": 3.54
+    },
+    "tierno": {
+      "val": 7.91,
+      "aro": 4.47,
+      "dom": 5.81
+    },
+    "tierra": {
+      "val": 5.63,
+      "aro": 4.64,
+      "dom": 4.93
+    },
+    "tieso": {
+      "val": 3.68,
+      "aro": 4.38,
+      "dom": 4.33
+    },
+    "tijeras": {
+      "val": 4.18,
+      "aro": 5.0,
+      "dom": 5.01
+    },
+    "tímido": {
+      "val": 4.17,
+      "aro": 4.24,
+      "dom": 4.07
+    },
+    "tinta": {
+      "val": 4.62,
+      "aro": 4.69,
+      "dom": 5.28
+    },
+    "tobillo": {
+      "val": 4.6,
+      "aro": 4.33,
+      "dom": 5.16
+    },
+    "tobogán": {
+      "val": 6.54,
+      "aro": 6.42,
+      "dom": 5.4
+    },
+    "tolerante": {
+      "val": 7.66,
+      "aro": 4.72,
+      "dom": 6.2
+    },
+    "tonada": {
+      "val": 5.0,
+      "aro": 4.72,
+      "dom": 4.7
+    },
+    "tontería": {
+      "val": 4.19,
+      "aro": 5.36,
+      "dom": 5.12
+    },
+    "tonto": {
+      "val": 3.3,
+      "aro": 4.57,
+      "dom": 4.51
+    },
+    "tormenta": {
+      "val": 4.14,
+      "aro": 6.1,
+      "dom": 2.94
+    },
+    "tornado": {
+      "val": 2.24,
+      "aro": 6.94,
+      "dom": 2.17
+    },
+    "torpe": {
+      "val": 3.09,
+      "aro": 5.26,
+      "dom": 3.98
+    },
+    "torre": {
+      "val": 5.16,
+      "aro": 4.54,
+      "dom": 4.52
+    },
+    "tortura": {
+      "val": 1.24,
+      "aro": 7.47,
+      "dom": 2.44
+    },
+    "tóxico": {
+      "val": 1.77,
+      "aro": 6.21,
+      "dom": 3.29
+    },
+    "tragedia": {
+      "val": 1.64,
+      "aro": 7.24,
+      "dom": 2.52
+    },
+    "traicionar": {
+      "val": 1.58,
+      "aro": 6.57,
+      "dom": 3.96
+    },
+    "traidor": {
+      "val": 1.53,
+      "aro": 6.83,
+      "dom": 3.53
+    },
+    "trampolín": {
+      "val": 5.69,
+      "aro": 5.9,
+      "dom": 5.43
+    },
+    "tranquilo": {
+      "val": 6.86,
+      "aro": 2.36,
+      "dom": 5.61
+    },
+    "trauma": {
+      "val": 1.66,
+      "aro": 5.86,
+      "dom": 3.13
+    },
+    "travesía": {
+      "val": 5.44,
+      "aro": 5.04,
+      "dom": 5.17
+    },
+    "travesura": {
+      "val": 6.03,
+      "aro": 6.82,
+      "dom": 5.52
+    },
+    "triste": {
+      "val": 2.0,
+      "aro": 4.33,
+      "dom": 3.59
+    },
+    "triunfante": {
+      "val": 7.51,
+      "aro": 6.72,
+      "dom": 5.59
+    },
+    "triunfo": {
+      "val": 7.89,
+      "aro": 7.03,
+      "dom": 5.96
+    },
+    "trofeo": {
+      "val": 7.3,
+      "aro": 6.89,
+      "dom": 6.26
+    },
+    "trompeta": {
+      "val": 5.19,
+      "aro": 5.7,
+      "dom": 4.81
+    },
+    "tumba": {
+      "val": 1.74,
+      "aro": 4.9,
+      "dom": 3.06
+    },
+    "tumor": {
+      "val": 1.34,
+      "aro": 6.77,
+      "dom": 1.98
+    },
+    "turbio": {
+      "val": 2.81,
+      "aro": 4.99,
+      "dom": 3.72
+    },
+    "úlcera": {
+      "val": 1.7,
+      "aro": 5.71,
+      "dom": 2.51
+    },
+    "unidad": {
+      "val": 5.5,
+      "aro": 4.43,
+      "dom": 5.34
+    },
+    "utensilio": {
+      "val": 4.78,
+      "aro": 4.44,
+      "dom": 5.5
+    },
+    "útil": {
+      "val": 7.24,
+      "aro": 5.96,
+      "dom": 6.2
+    },
+    "vaca": {
+      "val": 5.41,
+      "aro": 4.57,
+      "dom": 4.6
+    },
+    "vacación": {
+      "val": 8.52,
+      "aro": 6.18,
+      "dom": 6.37
+    },
+    "vacilar": {
+      "val": 3.83,
+      "aro": 6.37,
+      "dom": 4.94
+    },
+    "vagina": {
+      "val": 5.0,
+      "aro": 4.82,
+      "dom": 5.02
+    },
+    "valiente": {
+      "val": 7.49,
+      "aro": 6.46,
+      "dom": 6.37
+    },
+    "vampiro": {
+      "val": 3.49,
+      "aro": 6.26,
+      "dom": 3.82
+    },
+    "vándalo": {
+      "val": 2.49,
+      "aro": 6.29,
+      "dom": 3.49
+    },
+    "vanidad": {
+      "val": 2.83,
+      "aro": 5.49,
+      "dom": 4.41
+    },
+    "vehículo": {
+      "val": 6.33,
+      "aro": 5.78,
+      "dom": 5.09
+    },
+    "velero": {
+      "val": 6.41,
+      "aro": 4.88,
+      "dom": 4.93
+    },
+    "veloz": {
+      "val": 5.99,
+      "aro": 6.72,
+      "dom": 5.22
+    },
+    "vencedor": {
+      "val": 7.39,
+      "aro": 6.77,
+      "dom": 5.66
+    },
+    "vencido": {
+      "val": 2.2,
+      "aro": 5.06,
+      "dom": 3.56
+    },
+    "venda": {
+      "val": 4.14,
+      "aro": 4.72,
+      "dom": 4.84
+    },
+    "veneno": {
+      "val": 1.67,
+      "aro": 6.93,
+      "dom": 3.62
+    },
+    "ventaja": {
+      "val": 6.9,
+      "aro": 5.6,
+      "dom": 5.36
+    },
+    "ventana": {
+      "val": 5.88,
+      "aro": 4.88,
+      "dom": 5.58
+    },
+    "verdad": {
+      "val": 7.78,
+      "aro": 5.72,
+      "dom": 6.36
+    },
+    "verde": {
+      "val": 6.43,
+      "aro": 4.72,
+      "dom": 5.48
+    },
+    "vergonzoso": {
+      "val": 3.14,
+      "aro": 6.13,
+      "dom": 3.22
+    },
+    "vertedero": {
+      "val": 2.2,
+      "aro": 4.81,
+      "dom": 3.84
+    },
+    "vestido": {
+      "val": 6.32,
+      "aro": 5.32,
+      "dom": 6.16
+    },
+    "viajes": {
+      "val": 7.84,
+      "aro": 7.39,
+      "dom": 5.99
+    },
+    "víctima": {
+      "val": 1.74,
+      "aro": 6.37,
+      "dom": 2.74
+    },
+    "victimismo": {
+      "val": 2.48,
+      "aro": 5.9,
+      "dom": 4.16
+    },
+    "victoria": {
+      "val": 7.93,
+      "aro": 7.19,
+      "dom": 6.47
+    },
+    "vida": {
+      "val": 8.07,
+      "aro": 6.59,
+      "dom": 5.32
+    },
+    "vidrio": {
+      "val": 4.64,
+      "aro": 4.58,
+      "dom": 5.17
+    },
+    "vigilante": {
+      "val": 4.83,
+      "aro": 5.09,
+      "dom": 4.79
+    },
+    "vigoroso": {
+      "val": 5.99,
+      "aro": 5.62,
+      "dom": 5.54
+    },
+    "vino": {
+      "val": 4.88,
+      "aro": 5.47,
+      "dom": 5.14
+    },
+    "violación": {
+      "val": 1.11,
+      "aro": 7.98,
+      "dom": 2.13
+    },
+    "violento": {
+      "val": 1.69,
+      "aro": 7.06,
+      "dom": 3.58
+    },
+    "violín": {
+      "val": 6.14,
+      "aro": 4.1,
+      "dom": 5.07
+    },
+    "virgen": {
+      "val": 4.66,
+      "aro": 4.23,
+      "dom": 5.01
+    },
+    "virtud": {
+      "val": 7.27,
+      "aro": 5.1,
+      "dom": 5.47
+    },
+    "viruela": {
+      "val": 1.77,
+      "aro": 5.04,
+      "dom": 2.98
+    },
+    "visión": {
+      "val": 6.82,
+      "aro": 5.28,
+      "dom": 5.21
+    },
+    "vívido": {
+      "val": 5.7,
+      "aro": 5.93,
+      "dom": 5.13
+    },
+    "vivo": {
+      "val": 8.07,
+      "aro": 6.54,
+      "dom": 6.53
+    },
+    "volcán": {
+      "val": 3.52,
+      "aro": 6.63,
+      "dom": 2.58
+    },
+    "vómito": {
+      "val": 1.76,
+      "aro": 5.8,
+      "dom": 3.12
+    },
+    "yate": {
+      "val": 6.57,
+      "aro": 5.19,
+      "dom": 5.49
+    },
+    "zafiro": {
+      "val": 6.71,
+      "aro": 5.21,
+      "dom": 5.12
+    },
+    "zurra": {
+      "val": 1.96,
+      "aro": 6.63,
+      "dom": 3.97
+    }
+  }
+}
