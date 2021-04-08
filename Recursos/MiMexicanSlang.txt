@@ -32,17 +32,17 @@ comadrita	+
 comadritas	+
 conmadre	++
 con madre	++
-mana +
-manas +
-manita +
-manitas +
+mana	+
+manas	+
+manita	+
+manitas	+
 amiko	+
 amika	+
 friend	+
 friends	+
-wow	++
+wow	+
 bb	+
-jajaja	++                                    
+jajaja	++
 jejeje	++
 jijiji	++
 hahaha	++
@@ -74,7 +74,7 @@ mandilon	-
 mandilón	-
 mandilones	-
 llegar a piñas	-
-agarrar el pedo -
+agarrar el pedo	-
 agarrar el pedo	+
 peda	-
 pedas	-
@@ -137,7 +137,7 @@ vatitos	+
 vatitos	-
 psicopata	--
 psico	--
-psicópata --
+psicópata	--
 elfa	+
 ricolino	+
 ricolina	+
@@ -288,7 +288,7 @@ pelotudes	-
 pelotudeces	-
 pavada	-
 pavadas	-
-mg ++
+mg	++
 huevon	-
 huevona	-
 huevones	-
@@ -369,7 +369,7 @@ lokito	-
 lokitos	-
 lokita	-
 lokitas	-
-crazy -
+crazy	-
 loquito	+
 loquitos	+
 loquita	+
@@ -386,7 +386,7 @@ lokito	+
 lokitos	+
 lokita	+
 lokitas	+
-crazy +
+crazy	+
 love	++
 sweet	+
 hapiness	++
@@ -932,3 +932,43 @@ ver el cara	-
 ver la cara	-
 llevar la chingada	--
 llevar el chingada	--
+ay wey	+
+ay wey	-
+ay cabrón	+
+ay cabron	+
+ay cabrón	-
+ay cabron	-
+estar chingar	-
+estar chingando	-
+estar fregar	-
+estar fregando	-
+ah chinga	+
+ah chinga	-
+ser un culo	-
+creer un culo	-
+no culo	-
+piruja	-
+pirujas	-
+pirujilla	-
+pirujillas	-
+que hueva	-
+me entristece	-
+meentristece	-
+meenllora	-
+me enllora	-
+meemputa	--
+me emputa	--
+nini	-
+ninis	-
+lord	-
+lord	+
+lady	-
+lady	+
+lords	+
+lords	-
+ladies	-
+ladies	+
+chavelardo	+
+chabelardo	+
+chavelardos	+
+chavelardos	+

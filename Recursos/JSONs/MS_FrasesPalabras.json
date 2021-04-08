@@ -102,11 +102,11 @@
     },
     "valer madre": {
       "positive": 0,
-      "negative": 1
+      "negative": 2
     },
     "me emputa": {
       "positive": 0,
-      "negative": 1
+      "negative": 2
     },
     "al chingadazo": {
       "positive": 0,
@@ -166,7 +166,7 @@
     },
     "caer gordo": {
       "positive": 0,
-      "negative": 1
+      "negative": 2
     },
     "canas verdes": {
       "positive": 0,
@@ -207,11 +207,655 @@
     "sentido común": {
       "positive": 1,
       "negative": 0
+    },
+    "haber pedo": {
+      "positive": 0,
+      "negative": 1
+    },
+    "chingada madre": {
+      "positive": 0,
+      "negative": 1
+    },
+    "te quiero": {
+      "positive": 2,
+      "negative": 0
+    },
+    "love you": {
+      "positive": 2,
+      "negative": 0
+    },
+    "con madre": {
+      "positive": 2,
+      "negative": 0
+    },
+    "andar pedísimo": {
+      "positive": 0,
+      "negative": 1
+    },
+    "andar pedos": {
+      "positive": 0,
+      "negative": 1
+    },
+    "andar pedísimos": {
+      "positive": 0,
+      "negative": 1
+    },
+    "estar pedísimo": {
+      "positive": 0,
+      "negative": 1
+    },
+    "estar pedos": {
+      "positive": 0,
+      "negative": 1
+    },
+    "morro meco": {
+      "positive": 0,
+      "negative": 1
+    },
+    "morra meca": {
+      "positive": 0,
+      "negative": 1
+    },
+    "todo meco": {
+      "positive": 0,
+      "negative": 1
+    },
+    "toda meca": {
+      "positive": 0,
+      "negative": 1
+    },
+    "pinche indio": {
+      "positive": 0,
+      "negative": 2
+    },
+    "pinche negro": {
+      "positive": 0,
+      "negative": 2
+    },
+    "pinche india": {
+      "positive": 0,
+      "negative": 2
+    },
+    "pinche negra": {
+      "positive": 0,
+      "negative": 2
+    },
+    "coco wash": {
+      "positive": 0,
+      "negative": 1
+    },
+    "tirar onda": {
+      "positive": 1,
+      "negative": 0
+    },
+    "dar manija": {
+      "positive": 0,
+      "negative": 2
+    },
+    "rabo verde": {
+      "positive": 0,
+      "negative": 2
+    },
+    "rabos verdes": {
+      "positive": 0,
+      "negative": 2
+    },
+    "viejo verde": {
+      "positive": 0,
+      "negative": 2
+    },
+    "viejos verdes": {
+      "positive": 0,
+      "negative": 2
+    },
+    "lame culos": {
+      "positive": 0,
+      "negative": 2
+    },
+    "lamer culos": {
+      "positive": 0,
+      "negative": 2
+    },
+    "haber bronca": {
+      "positive": 0,
+      "negative": 1
+    },
+    "del nabo": {
+      "positive": 0,
+      "negative": 2
+    },
+    "del culo": {
+      "positive": 0,
+      "negative": 2
+    },
+    "dar alas": {
+      "positive": 1,
+      "negative": 1
+    },
+    "dar violín": {
+      "positive": 0,
+      "negative": 1
+    },
+    "dar violin": {
+      "positive": 0,
+      "negative": 1
+    },
+    "a trompadas": {
+      "positive": 0,
+      "negative": 2
+    },
+    "poner cuernos": {
+      "positive": 0,
+      "negative": 2
+    },
+    "cabeza sumida": {
+      "positive": 0,
+      "negative": 1
+    },
+    "cabezas sumidas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "mollera sumida": {
+      "positive": 0,
+      "negative": 1
+    },
+    "molleras sumidas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "estar chetado": {
+      "positive": 0,
+      "negative": 1
+    },
+    "estar tilteado": {
+      "positive": 0,
+      "negative": 1
+    },
+    "on fire": {
+      "positive": 2,
+      "negative": 0
+    },
+    "de hueva": {
+      "positive": 0,
+      "negative": 1
+    },
+    "dar bola": {
+      "positive": 2,
+      "negative": 0
+    },
+    "qué paja": {
+      "positive": 0,
+      "negative": 2
+    },
+    "mala leche": {
+      "positive": 0,
+      "negative": 2
+    },
+    "love it": {
+      "positive": 2,
+      "negative": 0
+    },
+    "mala racha": {
+      "positive": 0,
+      "negative": 1
+    },
+    "damn it": {
+      "positive": 0,
+      "negative": 1
+    },
+    "de locos": {
+      "positive": 1,
+      "negative": 1
+    },
+    "de lokos": {
+      "positive": 1,
+      "negative": 1
+    },
+    "de cuarta": {
+      "positive": 1,
+      "negative": 1
+    },
+    "de 4ta": {
+      "positive": 1,
+      "negative": 1
+    },
+    "puto amo": {
+      "positive": 1,
+      "negative": 0
+    },
+    "valer verga": {
+      "positive": 0,
+      "negative": 1
+    },
+    "bailar bertha": {
+      "positive": 0,
+      "negative": 1
+    },
+    "bailar berta": {
+      "positive": 0,
+      "negative": 1
+    },
+    "muerde almohadas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "sopla nucas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "c mamó": {
+      "positive": 1,
+      "negative": 1
+    },
+    "c mamo": {
+      "positive": 1,
+      "negative": 1
+    },
+    "c mamut": {
+      "positive": 1,
+      "negative": 1
+    },
+    "se mamó": {
+      "positive": 1,
+      "negative": 1
+    },
+    "se mamo": {
+      "positive": 1,
+      "negative": 1
+    },
+    "se mamut": {
+      "positive": 1,
+      "negative": 1
+    },
+    "andar cagar": {
+      "positive": 0,
+      "negative": 1
+    },
+    "andar cagando": {
+      "positive": 0,
+      "negative": 1
+    },
+    "una chinga": {
+      "positive": 0,
+      "negative": 1
+    },
+    "un putero": {
+      "positive": 1,
+      "negative": 1
+    },
+    "maldita sea": {
+      "positive": 0,
+      "negative": 1
+    },
+    "maldito sea": {
+      "positive": 0,
+      "negative": 1
+    },
+    "malditas sean": {
+      "positive": 0,
+      "negative": 1
+    },
+    "malditos sean": {
+      "positive": 0,
+      "negative": 1
+    },
+    "que chingón": {
+      "positive": 1,
+      "negative": 0
+    },
+    "que chingon": {
+      "positive": 1,
+      "negative": 0
+    },
+    "qué chingon": {
+      "positive": 1,
+      "negative": 0
+    },
+    "qué chingón": {
+      "positive": 1,
+      "negative": 0
+    },
+    "eso mamona": {
+      "positive": 2,
+      "negative": 0
+    },
+    "eso mamon": {
+      "positive": 2,
+      "negative": 0
+    },
+    "eso mamón": {
+      "positive": 2,
+      "negative": 0
+    },
+    "de mierda": {
+      "positive": 0,
+      "negative": 2
+    },
+    "de cagada": {
+      "positive": 0,
+      "negative": 2
+    },
+    "ah cabron": {
+      "positive": 1,
+      "negative": 1
+    },
+    "que cabron": {
+      "positive": 1,
+      "negative": 1
+    },
+    "que cabrón": {
+      "positive": 1,
+      "negative": 1
+    },
+    "ah caramba": {
+      "positive": 1,
+      "negative": 1
+    },
+    "estar pacheco": {
+      "positive": 0,
+      "negative": 1
+    },
+    "estar pachecos": {
+      "positive": 0,
+      "negative": 1
+    },
+    "estar pacheca": {
+      "positive": 0,
+      "negative": 1
+    },
+    "estar pachecas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "estar grifo": {
+      "positive": 0,
+      "negative": 1
+    },
+    "estar grifos": {
+      "positive": 0,
+      "negative": 1
+    },
+    "estar grifa": {
+      "positive": 0,
+      "negative": 1
+    },
+    "estar grifas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "cagar en": {
+      "positive": 0,
+      "negative": 2
+    },
+    "spoiler alert": {
+      "positive": 0,
+      "negative": 1
+    },
+    "que chido": {
+      "positive": 1,
+      "negative": 0
+    },
+    "k chido": {
+      "positive": 1,
+      "negative": 0
+    },
+    "todo chido": {
+      "positive": 1,
+      "negative": 0
+    },
+    "que chidori": {
+      "positive": 1,
+      "negative": 0
+    },
+    "está chido": {
+      "positive": 1,
+      "negative": 0
+    },
+    "estar chido": {
+      "positive": 1,
+      "negative": 0
+    },
+    "está chida": {
+      "positive": 1,
+      "negative": 0
+    },
+    "estar chida": {
+      "positive": 1,
+      "negative": 0
+    },
+    "estan chidos": {
+      "positive": 1,
+      "negative": 0
+    },
+    "estan chidas": {
+      "positive": 1,
+      "negative": 0
+    },
+    "esta chido": {
+      "positive": 1,
+      "negative": 0
+    },
+    "esta chida": {
+      "positive": 1,
+      "negative": 0
+    },
+    "vientos huracanados": {
+      "positive": 1,
+      "negative": 0
+    },
+    "is barniz": {
+      "positive": 2,
+      "negative": 0
+    },
+    "ok maguey": {
+      "positive": 2,
+      "negative": 0
+    },
+    "okey maguey": {
+      "positive": 2,
+      "negative": 0
+    },
+    "okay maguey": {
+      "positive": 2,
+      "negative": 0
+    },
+    "todos mecos": {
+      "positive": 0,
+      "negative": 1
+    },
+    "estar papa": {
+      "positive": 2,
+      "negative": 0
+    },
+    "está papa": {
+      "positive": 2,
+      "negative": 0
+    },
+    "mucha mierda": {
+      "positive": 1,
+      "negative": 1
+    },
+    "friend zone": {
+      "positive": 0,
+      "negative": 1
+    },
+    "vale verga": {
+      "positive": 0,
+      "negative": 2
+    },
+    "que desmadre": {
+      "positive": 0,
+      "negative": 1
+    },
+    "tener huevos": {
+      "positive": 2,
+      "negative": 0
+    },
+    "tener cojones": {
+      "positive": 2,
+      "negative": 0
+    },
+    "tener madre": {
+      "positive": 1,
+      "negative": 0
+    },
+    "vale madre": {
+      "positive": 0,
+      "negative": 1
+    },
+    "dar follow": {
+      "positive": 1,
+      "negative": 0
+    },
+    "dar unfollow": {
+      "positive": 1,
+      "negative": 0
+    },
+    "que verga": {
+      "positive": 0,
+      "negative": 1
+    },
+    "qué verga": {
+      "positive": 0,
+      "negative": 1
+    },
+    "k verga": {
+      "positive": 0,
+      "negative": 1
+    },
+    "khé verga": {
+      "positive": 0,
+      "negative": 1
+    },
+    "que berga": {
+      "positive": 0,
+      "negative": 1
+    },
+    "qué berga": {
+      "positive": 0,
+      "negative": 1
+    },
+    "k berga": {
+      "positive": 0,
+      "negative": 1
+    },
+    "khé berga": {
+      "positive": 0,
+      "negative": 1
+    },
+    "khe verga": {
+      "positive": 0,
+      "negative": 1
+    },
+    "dar putazos": {
+      "positive": 0,
+      "negative": 2
+    },
+    "no mamar": {
+      "positive": 1,
+      "negative": 1
+    },
+    "estar mamando": {
+      "positive": 1,
+      "negative": 1
+    },
+    "estar mamar": {
+      "positive": 1,
+      "negative": 0
+    },
+    "gorda de": {
+      "positive": 0,
+      "negative": 1
+    },
+    "gordo de": {
+      "positive": 0,
+      "negative": 1
+    },
+    "gordas de": {
+      "positive": 0,
+      "negative": 1
+    },
+    "gordos de": {
+      "positive": 0,
+      "negative": 1
+    },
+    "caer chido": {
+      "positive": 2,
+      "negative": 0
+    },
+    "que chulada": {
+      "positive": 2,
+      "negative": 0
+    },
+    "estar ardilla": {
+      "positive": 0,
+      "negative": 1
+    },
+    "tirar paro": {
+      "positive": 2,
+      "negative": 0
+    },
+    "hacer paro": {
+      "positive": 2,
+      "negative": 0
+    },
+    "tirar esquina": {
+      "positive": 2,
+      "negative": 0
+    },
+    "a güevo": {
+      "positive": 1,
+      "negative": 0
+    },
+    "ay wey": {
+      "positive": 1,
+      "negative": 1
+    },
+    "ay cabrón": {
+      "positive": 1,
+      "negative": 1
+    },
+    "ay cabron": {
+      "positive": 1,
+      "negative": 1
+    },
+    "estar chingar": {
+      "positive": 0,
+      "negative": 1
+    },
+    "estar chingando": {
+      "positive": 0,
+      "negative": 1
+    },
+    "estar fregar": {
+      "positive": 0,
+      "negative": 1
+    },
+    "estar fregando": {
+      "positive": 0,
+      "negative": 1
+    },
+    "no culo": {
+      "positive": 0,
+      "negative": 1
+    },
+    "que hueva": {
+      "positive": 0,
+      "negative": 1
+    },
+    "me entristece": {
+      "positive": 0,
+      "negative": 1
+    },
+    "me enllora": {
+      "positive": 0,
+      "negative": 1
     }
   },
   "3": {
     "a toda madre": {
-      "positive": 1,
+      "positive": 2,
       "negative": 0
     },
     "estas bien wey": {
@@ -296,7 +940,7 @@
     },
     "hasta la chingada": {
       "positive": 0,
-      "negative": 1
+      "negative": 2
     },
     "poner el cuerno": {
       "positive": 0,
@@ -331,6 +975,466 @@
       "negative": 1
     },
     "mal de amor": {
+      "positive": 0,
+      "negative": 1
+    },
+    "no haber pedo": {
+      "positive": 2,
+      "negative": 0
+    },
+    "chingar tu madre": {
+      "positive": 0,
+      "negative": 2
+    },
+    "sacado de pedo": {
+      "positive": 0,
+      "negative": 1
+    },
+    "dar de hostias": {
+      "positive": 0,
+      "negative": 1
+    },
+    "te quiero mucho": {
+      "positive": 2,
+      "negative": 0
+    },
+    "hijo de puta": {
+      "positive": 0,
+      "negative": 2
+    },
+    "llegar a piñas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "agarrar el pedo": {
+      "positive": 1,
+      "negative": 1
+    },
+    "andar de peda": {
+      "positive": 0,
+      "negative": 1
+    },
+    "andar bien pedo": {
+      "positive": 0,
+      "negative": 1
+    },
+    "andar bien pedos": {
+      "positive": 0,
+      "negative": 1
+    },
+    "estar bien pedo": {
+      "positive": 0,
+      "negative": 1
+    },
+    "estar bien pedos": {
+      "positive": 0,
+      "negative": 1
+    },
+    "pasar de pendejo": {
+      "positive": 0,
+      "negative": 2
+    },
+    "lavar el cerebro": {
+      "positive": 0,
+      "negative": 1
+    },
+    "dorar la píldora": {
+      "positive": 0,
+      "negative": 1
+    },
+    "tirar la onda": {
+      "positive": 1,
+      "negative": 0
+    },
+    "no haber bronca": {
+      "positive": 2,
+      "negative": 0
+    },
+    "chupar un huevo": {
+      "positive": 1,
+      "negative": 0
+    },
+    "de la chingada": {
+      "positive": 0,
+      "negative": 2
+    },
+    "a la chingada": {
+      "positive": 0,
+      "negative": 2
+    },
+    "poner los cuernos": {
+      "positive": 0,
+      "negative": 2
+    },
+    "cerrado de mollera": {
+      "positive": 0,
+      "negative": 1
+    },
+    "cerrados de mollera": {
+      "positive": 0,
+      "negative": 1
+    },
+    "poner del culo": {
+      "positive": 0,
+      "negative": 1
+    },
+    "tocando las bolas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "tocando las pelotas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "tocando los cojones": {
+      "positive": 0,
+      "negative": 1
+    },
+    "pasado de verga": {
+      "positive": 0,
+      "negative": 2
+    },
+    "pasadito de verga": {
+      "positive": 0,
+      "negative": 2
+    },
+    "hasta la verga": {
+      "positive": 0,
+      "negative": 2
+    },
+    "ni dar bola": {
+      "positive": 0,
+      "negative": 1
+    },
+    "no dar bola": {
+      "positive": 0,
+      "negative": 1
+    },
+    "hasta los huevos": {
+      "positive": 0,
+      "negative": 2
+    },
+    "poner las pilas": {
+      "positive": 1,
+      "negative": 0
+    },
+    "dar la gana": {
+      "positive": 1,
+      "negative": 1
+    },
+    "i love you": {
+      "positive": 2,
+      "negative": 0
+    },
+    "i need you": {
+      "positive": 1,
+      "negative": 0
+    },
+    "piece of cake": {
+      "positive": 2,
+      "negative": 0
+    },
+    "oh my god": {
+      "positive": 1,
+      "negative": 1
+    },
+    "pasate de verga": {
+      "positive": 1,
+      "negative": 1
+    },
+    "jugar al verga": {
+      "positive": 1,
+      "negative": 1
+    },
+    "jugar al vergas": {
+      "positive": 1,
+      "negative": 1
+    },
+    "cagando el palo": {
+      "positive": 0,
+      "negative": 1
+    },
+    "engrosando el palo": {
+      "positive": 0,
+      "negative": 1
+    },
+    "rascar los huevos": {
+      "positive": 0,
+      "negative": 1
+    },
+    "sacar un pedote": {
+      "positive": 0,
+      "negative": 1
+    },
+    "ah no bueno": {
+      "positive": 1,
+      "negative": 1
+    },
+    "estar todo pacheco": {
+      "positive": 0,
+      "negative": 1
+    },
+    "estar todos pachecos": {
+      "positive": 0,
+      "negative": 1
+    },
+    "estar bien pacheco": {
+      "positive": 0,
+      "negative": 1
+    },
+    "estar bien pachecos": {
+      "positive": 0,
+      "negative": 1
+    },
+    "estar toda pacheca": {
+      "positive": 0,
+      "negative": 1
+    },
+    "estar todas pachecas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "estar bien pacheca": {
+      "positive": 0,
+      "negative": 1
+    },
+    "estar bien pachecas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "estar bien grifo": {
+      "positive": 0,
+      "negative": 1
+    },
+    "estar todo grifo": {
+      "positive": 0,
+      "negative": 1
+    },
+    "estar bien grifos": {
+      "positive": 0,
+      "negative": 1
+    },
+    "estar todos grifos": {
+      "positive": 0,
+      "negative": 1
+    },
+    "estar bien grifa": {
+      "positive": 0,
+      "negative": 1
+    },
+    "estar toda grifa": {
+      "positive": 0,
+      "negative": 1
+    },
+    "estar bien grifas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "estar todos grifas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "tomar por culo": {
+      "positive": 1,
+      "negative": 1
+    },
+    "no estar chido": {
+      "positive": 0,
+      "negative": 2
+    },
+    "no está chido": {
+      "positive": 0,
+      "negative": 2
+    },
+    "no está chida": {
+      "positive": 0,
+      "negative": 2
+    },
+    "no estar chida": {
+      "positive": 0,
+      "negative": 2
+    },
+    "no estan chidos": {
+      "positive": 0,
+      "negative": 2
+    },
+    "no estan chidas": {
+      "positive": 0,
+      "negative": 2
+    },
+    "no esta chido": {
+      "positive": 0,
+      "negative": 2
+    },
+    "no esta chida": {
+      "positive": 0,
+      "negative": 2
+    },
+    "dar por atrás": {
+      "positive": 0,
+      "negative": 1
+    },
+    "dar por atras": {
+      "positive": 0,
+      "negative": 1
+    },
+    "ser la verga": {
+      "positive": 2,
+      "negative": 0
+    },
+    "ser el verga": {
+      "positive": 2,
+      "negative": 0
+    },
+    "de la verga": {
+      "positive": 0,
+      "negative": 2
+    },
+    "no tener huevos": {
+      "positive": 0,
+      "negative": 2
+    },
+    "no tener cojones": {
+      "positive": 0,
+      "negative": 2
+    },
+    "no tener madre": {
+      "positive": 0,
+      "negative": 2
+    },
+    "llorar como magdalena": {
+      "positive": 0,
+      "negative": 1
+    },
+    "tu perra madre": {
+      "positive": 0,
+      "negative": 2
+    },
+    "tu puta madre": {
+      "positive": 0,
+      "negative": 2
+    },
+    "tu putísima madre": {
+      "positive": 0,
+      "negative": 2
+    },
+    "tu putisima madre": {
+      "positive": 0,
+      "negative": 2
+    },
+    "tu chingada madre": {
+      "positive": 0,
+      "negative": 2
+    },
+    "dar un putazo": {
+      "positive": 0,
+      "negative": 2
+    },
+    "dar su putazo": {
+      "positive": 0,
+      "negative": 2
+    },
+    "dar sus putazos": {
+      "positive": 0,
+      "negative": 2
+    },
+    "hecho la verga": {
+      "positive": 1,
+      "negative": 0
+    },
+    "hijo de la": {
+      "positive": 1,
+      "negative": 1
+    },
+    "hijos de la": {
+      "positive": 1,
+      "negative": 1
+    },
+    "hija de la": {
+      "positive": 1,
+      "negative": 1
+    },
+    "hijas de la": {
+      "positive": 1,
+      "negative": 1
+    },
+    "te la mamaste": {
+      "positive": 1,
+      "negative": 1
+    },
+    "te el mamar": {
+      "positive": 1,
+      "negative": 1
+    },
+    "te la mamar": {
+      "positive": 1,
+      "negative": 1
+    },
+    "gordo de mierda": {
+      "positive": 0,
+      "negative": 2
+    },
+    "gorda de mierda": {
+      "positive": 0,
+      "negative": 2
+    },
+    "gordos de mierda": {
+      "positive": 0,
+      "negative": 2
+    },
+    "gordas de mierda": {
+      "positive": 0,
+      "negative": 2
+    },
+    "ser su pedo": {
+      "positive": 0,
+      "negative": 1
+    },
+    "ser tu pedo": {
+      "positive": 0,
+      "negative": 1
+    },
+    "tirar el paro": {
+      "positive": 2,
+      "negative": 0
+    },
+    "hacer el paro": {
+      "positive": 2,
+      "negative": 0
+    },
+    "hacer de pedo": {
+      "positive": 0,
+      "negative": 2
+    },
+    "sacar la verga": {
+      "positive": 0,
+      "negative": 2
+    },
+    "a la verga": {
+      "positive": 0,
+      "negative": 1
+    },
+    "ver el cara": {
+      "positive": 0,
+      "negative": 1
+    },
+    "ver la cara": {
+      "positive": 0,
+      "negative": 1
+    },
+    "llevar la chingada": {
+      "positive": 0,
+      "negative": 2
+    },
+    "llevar el chingada": {
+      "positive": 0,
+      "negative": 2
+    },
+    "ser un culo": {
+      "positive": 0,
+      "negative": 1
+    },
+    "creer un culo": {
       "positive": 0,
       "negative": 1
     }
@@ -474,7 +1578,7 @@
     },
     "emputar": {
       "positive": 0,
-      "negative": 1
+      "negative": 2
     },
     "emputado": {
       "positive": 0,
@@ -565,7 +1669,7 @@
       "negative": 0
     },
     "chulada": {
-      "positive": 1,
+      "positive": 2,
       "negative": 0
     },
     "chido": {
@@ -618,7 +1722,7 @@
     },
     "bullying": {
       "positive": 0,
-      "negative": 1
+      "negative": 2
     },
     "bronca": {
       "positive": 0,
@@ -633,7 +1737,7 @@
       "negative": 1
     },
     "pinche": {
-      "positive": 0,
+      "positive": 1,
       "negative": 1
     },
     "chales": {
@@ -2554,7 +3658,7 @@
     },
     "ansiedad": {
       "positive": 0,
-      "negative": 1
+      "negative": 2
     },
     "angustiado": {
       "positive": 0,
@@ -6126,7 +7230,7 @@
     },
     "loco": {
       "positive": 0,
-      "negative": 2
+      "negative": 1
     },
     "orate": {
       "positive": 0,
@@ -7154,7 +8258,7 @@
     },
     "violar": {
       "positive": 0,
-      "negative": 2
+      "negative": 1
     },
     "violado": {
       "positive": 0,
@@ -8110,7 +9214,7 @@
     },
     "lisiado": {
       "positive": 0,
-      "negative": 2
+      "negative": 1
     },
     "lisiar": {
       "positive": 0,
@@ -13662,7 +14766,7 @@
     },
     "psicópata": {
       "positive": 0,
-      "negative": 1
+      "negative": 2
     },
     "indeseable": {
       "positive": 0,
@@ -14071,6 +15175,1914 @@
     "vanidad": {
       "positive": 0,
       "negative": 1
+    },
+    "chingadamadre": {
+      "positive": 0,
+      "negative": 1
+    },
+    "bitch": {
+      "positive": 0,
+      "negative": 2
+    },
+    "whore": {
+      "positive": 0,
+      "negative": 1
+    },
+    "golfa": {
+      "positive": 0,
+      "negative": 2
+    },
+    "ex": {
+      "positive": 1,
+      "negative": 1
+    },
+    "bully": {
+      "positive": 0,
+      "negative": 2
+    },
+    "bulli": {
+      "positive": 0,
+      "negative": 2
+    },
+    "carnal": {
+      "positive": 1,
+      "negative": 0
+    },
+    "bro": {
+      "positive": 1,
+      "negative": 0
+    },
+    "compa": {
+      "positive": 1,
+      "negative": 0
+    },
+    "compas": {
+      "positive": 1,
+      "negative": 0
+    },
+    "compi": {
+      "positive": 1,
+      "negative": 0
+    },
+    "compadre": {
+      "positive": 1,
+      "negative": 0
+    },
+    "compadrito": {
+      "positive": 1,
+      "negative": 0
+    },
+    "compadritos": {
+      "positive": 1,
+      "negative": 0
+    },
+    "comadre": {
+      "positive": 1,
+      "negative": 0
+    },
+    "comadrita": {
+      "positive": 1,
+      "negative": 0
+    },
+    "comadritas": {
+      "positive": 1,
+      "negative": 0
+    },
+    "conmadre": {
+      "positive": 2,
+      "negative": 0
+    },
+    "mana": {
+      "positive": 1,
+      "negative": 0
+    },
+    "manas": {
+      "positive": 1,
+      "negative": 0
+    },
+    "manita": {
+      "positive": 1,
+      "negative": 0
+    },
+    "manitas": {
+      "positive": 1,
+      "negative": 0
+    },
+    "amiko": {
+      "positive": 1,
+      "negative": 0
+    },
+    "amika": {
+      "positive": 1,
+      "negative": 0
+    },
+    "friend": {
+      "positive": 1,
+      "negative": 0
+    },
+    "friends": {
+      "positive": 1,
+      "negative": 0
+    },
+    "wow": {
+      "positive": 1,
+      "negative": 0
+    },
+    "bb": {
+      "positive": 1,
+      "negative": 0
+    },
+    "jajaja": {
+      "positive": 2,
+      "negative": 0
+    },
+    "jejeje": {
+      "positive": 2,
+      "negative": 0
+    },
+    "jijiji": {
+      "positive": 2,
+      "negative": 0
+    },
+    "hahaha": {
+      "positive": 2,
+      "negative": 0
+    },
+    "hdp": {
+      "positive": 0,
+      "negative": 2
+    },
+    "hdtpm": {
+      "positive": 0,
+      "negative": 2
+    },
+    "cucho": {
+      "positive": 0,
+      "negative": 1
+    },
+    "cucha": {
+      "positive": 0,
+      "negative": 1
+    },
+    "cuchos": {
+      "positive": 0,
+      "negative": 1
+    },
+    "cuchas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "kucho": {
+      "positive": 0,
+      "negative": 1
+    },
+    "kucha": {
+      "positive": 0,
+      "negative": 1
+    },
+    "kuchos": {
+      "positive": 0,
+      "negative": 1
+    },
+    "kuchas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "hdps": {
+      "positive": 0,
+      "negative": 2
+    },
+    "lpm": {
+      "positive": 0,
+      "negative": 2
+    },
+    "malandros": {
+      "positive": 0,
+      "negative": 1
+    },
+    "malandro": {
+      "positive": 0,
+      "negative": 1
+    },
+    "malandrines": {
+      "positive": 0,
+      "negative": 1
+    },
+    "chacal": {
+      "positive": 0,
+      "negative": 1
+    },
+    "chakal": {
+      "positive": 0,
+      "negative": 1
+    },
+    "chacales": {
+      "positive": 0,
+      "negative": 1
+    },
+    "chakales": {
+      "positive": 0,
+      "negative": 1
+    },
+    "chakas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "chacas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "mandilon": {
+      "positive": 0,
+      "negative": 1
+    },
+    "mandilón": {
+      "positive": 0,
+      "negative": 1
+    },
+    "mandilones": {
+      "positive": 0,
+      "negative": 1
+    },
+    "pedas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "pedota": {
+      "positive": 0,
+      "negative": 1
+    },
+    "drunk": {
+      "positive": 0,
+      "negative": 1
+    },
+    "abue": {
+      "positive": 1,
+      "negative": 0
+    },
+    "abues": {
+      "positive": 1,
+      "negative": 0
+    },
+    "abuelito": {
+      "positive": 1,
+      "negative": 0
+    },
+    "abuelita": {
+      "positive": 1,
+      "negative": 0
+    },
+    "abuelitos": {
+      "positive": 1,
+      "negative": 0
+    },
+    "abuelitas": {
+      "positive": 1,
+      "negative": 0
+    },
+    "pendejear": {
+      "positive": 0,
+      "negative": 2
+    },
+    "pendejísimo": {
+      "positive": 0,
+      "negative": 2
+    },
+    "pendejísima": {
+      "positive": 0,
+      "negative": 2
+    },
+    "pendeja": {
+      "positive": 0,
+      "negative": 2
+    },
+    "pendejito": {
+      "positive": 0,
+      "negative": 2
+    },
+    "pendejita": {
+      "positive": 0,
+      "negative": 2
+    },
+    "pendejos": {
+      "positive": 0,
+      "negative": 2
+    },
+    "pendejas": {
+      "positive": 0,
+      "negative": 2
+    },
+    "pendejitos": {
+      "positive": 0,
+      "negative": 2
+    },
+    "pendejitas": {
+      "positive": 0,
+      "negative": 2
+    },
+    "morro": {
+      "positive": 1,
+      "negative": 0
+    },
+    "morra": {
+      "positive": 1,
+      "negative": 0
+    },
+    "huerco": {
+      "positive": 1,
+      "negative": 0
+    },
+    "bato": {
+      "positive": 1,
+      "negative": 1
+    },
+    "vato": {
+      "positive": 1,
+      "negative": 1
+    },
+    "batito": {
+      "positive": 1,
+      "negative": 1
+    },
+    "vatito": {
+      "positive": 1,
+      "negative": 1
+    },
+    "batos": {
+      "positive": 1,
+      "negative": 1
+    },
+    "vatos": {
+      "positive": 1,
+      "negative": 1
+    },
+    "batitos": {
+      "positive": 1,
+      "negative": 1
+    },
+    "vatitos": {
+      "positive": 1,
+      "negative": 1
+    },
+    "psicopata": {
+      "positive": 0,
+      "negative": 2
+    },
+    "psico": {
+      "positive": 0,
+      "negative": 2
+    },
+    "elfa": {
+      "positive": 1,
+      "negative": 0
+    },
+    "ricolino": {
+      "positive": 1,
+      "negative": 0
+    },
+    "ricolina": {
+      "positive": 1,
+      "negative": 0
+    },
+    "rikolino": {
+      "positive": 1,
+      "negative": 0
+    },
+    "rikolina": {
+      "positive": 1,
+      "negative": 0
+    },
+    "pa": {
+      "positive": 1,
+      "negative": 0
+    },
+    "papis": {
+      "positive": 1,
+      "negative": 0
+    },
+    "papi": {
+      "positive": 1,
+      "negative": 0
+    },
+    "papu": {
+      "positive": 1,
+      "negative": 0
+    },
+    "mama": {
+      "positive": 1,
+      "negative": 0
+    },
+    "ma": {
+      "positive": 1,
+      "negative": 0
+    },
+    "mami": {
+      "positive": 1,
+      "negative": 0
+    },
+    "mamis": {
+      "positive": 1,
+      "negative": 0
+    },
+    "mamu": {
+      "positive": 1,
+      "negative": 0
+    },
+    "dad": {
+      "positive": 1,
+      "negative": 0
+    },
+    "dady": {
+      "positive": 1,
+      "negative": 0
+    },
+    "daddy": {
+      "positive": 1,
+      "negative": 0
+    },
+    "mom": {
+      "positive": 1,
+      "negative": 0
+    },
+    "mommy": {
+      "positive": 1,
+      "negative": 0
+    },
+    "tq": {
+      "positive": 2,
+      "negative": 0
+    },
+    "tqm": {
+      "positive": 2,
+      "negative": 0
+    },
+    "queres": {
+      "positive": 2,
+      "negative": 0
+    },
+    "querés": {
+      "positive": 2,
+      "negative": 0
+    },
+    "relajo": {
+      "positive": 0,
+      "negative": 1
+    },
+    "desmadrito": {
+      "positive": 0,
+      "negative": 1
+    },
+    "nene": {
+      "positive": 1,
+      "negative": 0
+    },
+    "nena": {
+      "positive": 1,
+      "negative": 0
+    },
+    "atm": {
+      "positive": 2,
+      "negative": 0
+    },
+    "nenes": {
+      "positive": 1,
+      "negative": 0
+    },
+    "nenas": {
+      "positive": 1,
+      "negative": 0
+    },
+    "boy": {
+      "positive": 1,
+      "negative": 0
+    },
+    "boys": {
+      "positive": 1,
+      "negative": 0
+    },
+    "kid": {
+      "positive": 1,
+      "negative": 0
+    },
+    "kids": {
+      "positive": 1,
+      "negative": 0
+    },
+    "child": {
+      "positive": 1,
+      "negative": 0
+    },
+    "girl": {
+      "positive": 1,
+      "negative": 0
+    },
+    "girls": {
+      "positive": 1,
+      "negative": 0
+    },
+    "tía": {
+      "positive": 1,
+      "negative": 0
+    },
+    "tío": {
+      "positive": 1,
+      "negative": 0
+    },
+    "tías": {
+      "positive": 1,
+      "negative": 0
+    },
+    "tíos": {
+      "positive": 1,
+      "negative": 0
+    },
+    "tia": {
+      "positive": 1,
+      "negative": 0
+    },
+    "tias": {
+      "positive": 1,
+      "negative": 0
+    },
+    "tio": {
+      "positive": 1,
+      "negative": 0
+    },
+    "tios": {
+      "positive": 1,
+      "negative": 0
+    },
+    "guy": {
+      "positive": 1,
+      "negative": 0
+    },
+    "guys": {
+      "positive": 1,
+      "negative": 0
+    },
+    "maldita": {
+      "positive": 0,
+      "negative": 2
+    },
+    "malditos": {
+      "positive": 0,
+      "negative": 2
+    },
+    "malditas": {
+      "positive": 0,
+      "negative": 2
+    },
+    "cocowash": {
+      "positive": 0,
+      "negative": 1
+    },
+    "ntp": {
+      "positive": 1,
+      "negative": 0
+    },
+    "plis": {
+      "positive": 2,
+      "negative": 0
+    },
+    "please": {
+      "positive": 2,
+      "negative": 0
+    },
+    "xfa": {
+      "positive": 2,
+      "negative": 0
+    },
+    "porfa": {
+      "positive": 2,
+      "negative": 0
+    },
+    "plox": {
+      "positive": 2,
+      "negative": 0
+    },
+    "flipear": {
+      "positive": 1,
+      "negative": 1
+    },
+    "flipar": {
+      "positive": 1,
+      "negative": 1
+    },
+    "trompear": {
+      "positive": 0,
+      "negative": 2
+    },
+    "netas": {
+      "positive": 1,
+      "negative": 0
+    },
+    "gentuza": {
+      "positive": 0,
+      "negative": 1
+    },
+    "shit": {
+      "positive": 0,
+      "negative": 2
+    },
+    "mollerasumida": {
+      "positive": 0,
+      "negative": 1
+    },
+    "party": {
+      "positive": 1,
+      "negative": 0
+    },
+    "parties": {
+      "positive": 1,
+      "negative": 0
+    },
+    "guarros": {
+      "positive": 0,
+      "negative": 1
+    },
+    "nacos": {
+      "positive": 0,
+      "negative": 1
+    },
+    "naca": {
+      "positive": 0,
+      "negative": 1
+    },
+    "nacas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "naquito": {
+      "positive": 0,
+      "negative": 1
+    },
+    "naquitas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "naquita": {
+      "positive": 0,
+      "negative": 1
+    },
+    "naquitos": {
+      "positive": 0,
+      "negative": 1
+    },
+    "onfire": {
+      "positive": 2,
+      "negative": 0
+    },
+    "qdep": {
+      "positive": 0,
+      "negative": 1
+    },
+    "dep": {
+      "positive": 0,
+      "negative": 1
+    },
+    "rip": {
+      "positive": 0,
+      "negative": 1
+    },
+    "pelotudo": {
+      "positive": 0,
+      "negative": 1
+    },
+    "pelotudos": {
+      "positive": 0,
+      "negative": 1
+    },
+    "pelotuda": {
+      "positive": 0,
+      "negative": 1
+    },
+    "pelotudas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "pelotudez": {
+      "positive": 0,
+      "negative": 1
+    },
+    "pelotudes": {
+      "positive": 0,
+      "negative": 1
+    },
+    "pelotudeces": {
+      "positive": 0,
+      "negative": 1
+    },
+    "pavada": {
+      "positive": 0,
+      "negative": 1
+    },
+    "pavadas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "mg": {
+      "positive": 2,
+      "negative": 0
+    },
+    "huevon": {
+      "positive": 0,
+      "negative": 1
+    },
+    "huevona": {
+      "positive": 0,
+      "negative": 1
+    },
+    "huevones": {
+      "positive": 0,
+      "negative": 1
+    },
+    "huevonas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "huevonear": {
+      "positive": 0,
+      "negative": 1
+    },
+    "mello": {
+      "positive": 0,
+      "negative": 1
+    },
+    "patraña": {
+      "positive": 0,
+      "negative": 2
+    },
+    "patrañas": {
+      "positive": 0,
+      "negative": 2
+    },
+    "amnsiedad": {
+      "positive": 0,
+      "negative": 2
+    },
+    "gilipollas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "pajero": {
+      "positive": 0,
+      "negative": 1
+    },
+    "pajera": {
+      "positive": 0,
+      "negative": 1
+    },
+    "pajeros": {
+      "positive": 0,
+      "negative": 1
+    },
+    "pajeras": {
+      "positive": 0,
+      "negative": 1
+    },
+    "molar": {
+      "positive": 1,
+      "negative": 1
+    },
+    "bombón": {
+      "positive": 1,
+      "negative": 0
+    },
+    "bombom": {
+      "positive": 1,
+      "negative": 0
+    },
+    "bombones": {
+      "positive": 1,
+      "negative": 0
+    },
+    "albur": {
+      "positive": 0,
+      "negative": 1
+    },
+    "albures": {
+      "positive": 0,
+      "negative": 1
+    },
+    "favear": {
+      "positive": 1,
+      "negative": 0
+    },
+    "iloveyou": {
+      "positive": 2,
+      "negative": 0
+    },
+    "malaracha": {
+      "positive": 0,
+      "negative": 1
+    },
+    "grateful": {
+      "positive": 2,
+      "negative": 0
+    },
+    "loser": {
+      "positive": 0,
+      "negative": 1
+    },
+    "looser": {
+      "positive": 0,
+      "negative": 1
+    },
+    "losers": {
+      "positive": 0,
+      "negative": 1
+    },
+    "loosers": {
+      "positive": 0,
+      "negative": 1
+    },
+    "wtf": {
+      "positive": 0,
+      "negative": 1
+    },
+    "damn": {
+      "positive": 0,
+      "negative": 1
+    },
+    "okay": {
+      "positive": 1,
+      "negative": 0
+    },
+    "ok": {
+      "positive": 1,
+      "negative": 0
+    },
+    "oks": {
+      "positive": 1,
+      "negative": 0
+    },
+    "well": {
+      "positive": 1,
+      "negative": 0
+    },
+    "good": {
+      "positive": 1,
+      "negative": 0
+    },
+    "loca": {
+      "positive": 0,
+      "negative": 1
+    },
+    "lokas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "loko": {
+      "positive": 0,
+      "negative": 1
+    },
+    "lokos": {
+      "positive": 0,
+      "negative": 1
+    },
+    "loka": {
+      "positive": 0,
+      "negative": 1
+    },
+    "loquito": {
+      "positive": 1,
+      "negative": 1
+    },
+    "loquitos": {
+      "positive": 1,
+      "negative": 1
+    },
+    "loquita": {
+      "positive": 1,
+      "negative": 1
+    },
+    "loquitas": {
+      "positive": 1,
+      "negative": 1
+    },
+    "lokito": {
+      "positive": 1,
+      "negative": 1
+    },
+    "lokitos": {
+      "positive": 1,
+      "negative": 1
+    },
+    "lokita": {
+      "positive": 1,
+      "negative": 1
+    },
+    "lokitas": {
+      "positive": 1,
+      "negative": 1
+    },
+    "crazy": {
+      "positive": 1,
+      "negative": 1
+    },
+    "love": {
+      "positive": 2,
+      "negative": 0
+    },
+    "sweet": {
+      "positive": 1,
+      "negative": 0
+    },
+    "hapiness": {
+      "positive": 2,
+      "negative": 0
+    },
+    "tranqui": {
+      "positive": 1,
+      "negative": 0
+    },
+    "priísta": {
+      "positive": 1,
+      "negative": 1
+    },
+    "priista": {
+      "positive": 1,
+      "negative": 1
+    },
+    "priistas": {
+      "positive": 1,
+      "negative": 1
+    },
+    "panista": {
+      "positive": 1,
+      "negative": 1
+    },
+    "panistas": {
+      "positive": 1,
+      "negative": 1
+    },
+    "perredista": {
+      "positive": 1,
+      "negative": 1
+    },
+    "perredistas": {
+      "positive": 1,
+      "negative": 1
+    },
+    "morenista": {
+      "positive": 1,
+      "negative": 1
+    },
+    "chairo": {
+      "positive": 0,
+      "negative": 1
+    },
+    "chairos": {
+      "positive": 0,
+      "negative": 1
+    },
+    "derechairo": {
+      "positive": 0,
+      "negative": 1
+    },
+    "derechairos": {
+      "positive": 0,
+      "negative": 1
+    },
+    "pejezombi": {
+      "positive": 0,
+      "negative": 1
+    },
+    "pejezombie": {
+      "positive": 0,
+      "negative": 1
+    },
+    "pejezombis": {
+      "positive": 0,
+      "negative": 1
+    },
+    "pejezombies": {
+      "positive": 0,
+      "negative": 1
+    },
+    "zatanas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "zatanás": {
+      "positive": 0,
+      "negative": 1
+    },
+    "satanas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "satanás": {
+      "positive": 0,
+      "negative": 1
+    },
+    "cheerful": {
+      "positive": 2,
+      "negative": 0
+    },
+    "winner": {
+      "positive": 2,
+      "negative": 0
+    },
+    "anger": {
+      "positive": 0,
+      "negative": 2
+    },
+    "joy": {
+      "positive": 2,
+      "negative": 0
+    },
+    "disgusting": {
+      "positive": 0,
+      "negative": 2
+    },
+    "afraid": {
+      "positive": 0,
+      "negative": 1
+    },
+    "angry": {
+      "positive": 0,
+      "negative": 2
+    },
+    "calm": {
+      "positive": 2,
+      "negative": 0
+    },
+    "lovely": {
+      "positive": 2,
+      "negative": 0
+    },
+    "cute": {
+      "positive": 2,
+      "negative": 0
+    },
+    "ugly": {
+      "positive": 0,
+      "negative": 2
+    },
+    "thank": {
+      "positive": 1,
+      "negative": 0
+    },
+    "thanks": {
+      "positive": 1,
+      "negative": 0
+    },
+    "thankful": {
+      "positive": 1,
+      "negative": 0
+    },
+    "welcome": {
+      "positive": 1,
+      "negative": 0
+    },
+    "luck": {
+      "positive": 1,
+      "negative": 0
+    },
+    "fear": {
+      "positive": 0,
+      "negative": 2
+    },
+    "disconcerted": {
+      "positive": 0,
+      "negative": 2
+    },
+    "omg": {
+      "positive": 1,
+      "negative": 1
+    },
+    "happy": {
+      "positive": 2,
+      "negative": 0
+    },
+    "sadness": {
+      "positive": 0,
+      "negative": 2
+    },
+    "sad": {
+      "positive": 0,
+      "negative": 2
+    },
+    "nice": {
+      "positive": 2,
+      "negative": 0
+    },
+    "surprise": {
+      "positive": 1,
+      "negative": 1
+    },
+    "surprised": {
+      "positive": 1,
+      "negative": 1
+    },
+    "envergado": {
+      "positive": 0,
+      "negative": 2
+    },
+    "empanochado": {
+      "positive": 1,
+      "negative": 1
+    },
+    "alv": {
+      "positive": 1,
+      "negative": 1
+    },
+    "envergados": {
+      "positive": 0,
+      "negative": 2
+    },
+    "envergada": {
+      "positive": 0,
+      "negative": 2
+    },
+    "envergadas": {
+      "positive": 0,
+      "negative": 2
+    },
+    "jotito": {
+      "positive": 0,
+      "negative": 1
+    },
+    "jotos": {
+      "positive": 0,
+      "negative": 1
+    },
+    "jotitos": {
+      "positive": 0,
+      "negative": 1
+    },
+    "muerdealmohadas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "muerdealmoadas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "soplanucas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "putito": {
+      "positive": 0,
+      "negative": 1
+    },
+    "putita": {
+      "positive": 0,
+      "negative": 1
+    },
+    "putitos": {
+      "positive": 0,
+      "negative": 1
+    },
+    "putitas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "maricon": {
+      "positive": 0,
+      "negative": 1
+    },
+    "maricón": {
+      "positive": 0,
+      "negative": 1
+    },
+    "mariconazo": {
+      "positive": 0,
+      "negative": 1
+    },
+    "maricones": {
+      "positive": 0,
+      "negative": 1
+    },
+    "lenchas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "lencha": {
+      "positive": 0,
+      "negative": 1
+    },
+    "mariconzon": {
+      "positive": 0,
+      "negative": 1
+    },
+    "mariconzón": {
+      "positive": 0,
+      "negative": 1
+    },
+    "cabrear": {
+      "positive": 0,
+      "negative": 1
+    },
+    "cabreando": {
+      "positive": 0,
+      "negative": 1
+    },
+    "chingonsísimo": {
+      "positive": 1,
+      "negative": 0
+    },
+    "chingonsisimo": {
+      "positive": 1,
+      "negative": 0
+    },
+    "chingonsísimos": {
+      "positive": 1,
+      "negative": 0
+    },
+    "chingonsisimos": {
+      "positive": 1,
+      "negative": 0
+    },
+    "chingonsísima": {
+      "positive": 1,
+      "negative": 0
+    },
+    "chingonsisima": {
+      "positive": 1,
+      "negative": 0
+    },
+    "chingonsísimas": {
+      "positive": 1,
+      "negative": 0
+    },
+    "chingonsisimas": {
+      "positive": 1,
+      "negative": 0
+    },
+    "chingos": {
+      "positive": 1,
+      "negative": 1
+    },
+    "culera": {
+      "positive": 0,
+      "negative": 1
+    },
+    "culeros": {
+      "positive": 0,
+      "negative": 1
+    },
+    "culeras": {
+      "positive": 0,
+      "negative": 1
+    },
+    "culerísimo": {
+      "positive": 0,
+      "negative": 1
+    },
+    "culerísima": {
+      "positive": 0,
+      "negative": 1
+    },
+    "culerísimos": {
+      "positive": 0,
+      "negative": 1
+    },
+    "culerísimas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "culerisimo": {
+      "positive": 0,
+      "negative": 1
+    },
+    "culerisima": {
+      "positive": 0,
+      "negative": 1
+    },
+    "culerisimos": {
+      "positive": 0,
+      "negative": 1
+    },
+    "culerisimas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "afeminado": {
+      "positive": 0,
+      "negative": 1
+    },
+    "afeminados": {
+      "positive": 0,
+      "negative": 1
+    },
+    "mamarracho": {
+      "positive": 0,
+      "negative": 1
+    },
+    "mamarracha": {
+      "positive": 0,
+      "negative": 1
+    },
+    "chingon": {
+      "positive": 1,
+      "negative": 0
+    },
+    "chingona": {
+      "positive": 1,
+      "negative": 0
+    },
+    "chingones": {
+      "positive": 1,
+      "negative": 0
+    },
+    "chingonas": {
+      "positive": 1,
+      "negative": 0
+    },
+    "mamon": {
+      "positive": 0,
+      "negative": 1
+    },
+    "mamón": {
+      "positive": 0,
+      "negative": 1
+    },
+    "mamona": {
+      "positive": 0,
+      "negative": 1
+    },
+    "mamones": {
+      "positive": 0,
+      "negative": 1
+    },
+    "mamonas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "mierdita": {
+      "positive": 0,
+      "negative": 1
+    },
+    "mierditas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "cabronazo": {
+      "positive": 1,
+      "negative": 1
+    },
+    "cabronaza": {
+      "positive": 1,
+      "negative": 1
+    },
+    "lisiada": {
+      "positive": 0,
+      "negative": 1
+    },
+    "lisiados": {
+      "positive": 0,
+      "negative": 1
+    },
+    "lisiadas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "chafita": {
+      "positive": 0,
+      "negative": 1
+    },
+    "chafas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "crack": {
+      "positive": 1,
+      "negative": 1
+    },
+    "cruck": {
+      "positive": 1,
+      "negative": 0
+    },
+    "cracks": {
+      "positive": 1,
+      "negative": 0
+    },
+    "crucks": {
+      "positive": 1,
+      "negative": 0
+    },
+    "pendejamente": {
+      "positive": 0,
+      "negative": 1
+    },
+    "whitexican": {
+      "positive": 0,
+      "negative": 1
+    },
+    "whitexicans": {
+      "positive": 0,
+      "negative": 1
+    },
+    "covidiota": {
+      "positive": 0,
+      "negative": 2
+    },
+    "covidiotas": {
+      "positive": 0,
+      "negative": 2
+    },
+    "pendejazo": {
+      "positive": 0,
+      "negative": 2
+    },
+    "pendejazos": {
+      "positive": 0,
+      "negative": 2
+    },
+    "pendejaza": {
+      "positive": 0,
+      "negative": 2
+    },
+    "pendejazas": {
+      "positive": 0,
+      "negative": 2
+    },
+    "mamador": {
+      "positive": 0,
+      "negative": 1
+    },
+    "mamadores": {
+      "positive": 0,
+      "negative": 1
+    },
+    "mamadora": {
+      "positive": 0,
+      "negative": 1
+    },
+    "mamadoras": {
+      "positive": 0,
+      "negative": 1
+    },
+    "feminazi": {
+      "positive": 0,
+      "negative": 2
+    },
+    "feminazis": {
+      "positive": 0,
+      "negative": 2
+    },
+    "machista": {
+      "positive": 0,
+      "negative": 2
+    },
+    "machistas": {
+      "positive": 0,
+      "negative": 2
+    },
+    "zorra": {
+      "positive": 0,
+      "negative": 2
+    },
+    "zorras": {
+      "positive": 0,
+      "negative": 2
+    },
+    "zorrita": {
+      "positive": 0,
+      "negative": 2
+    },
+    "zorritas": {
+      "positive": 0,
+      "negative": 2
+    },
+    "cruzazuleada": {
+      "positive": 0,
+      "negative": 1
+    },
+    "cruzazulear": {
+      "positive": 0,
+      "negative": 1
+    },
+    "cruzazuleadas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "chiquibeibi": {
+      "positive": 1,
+      "negative": 0
+    },
+    "chiquibeibis": {
+      "positive": 1,
+      "negative": 0
+    },
+    "chiquibaby": {
+      "positive": 1,
+      "negative": 0
+    },
+    "chiquibabies": {
+      "positive": 1,
+      "negative": 0
+    },
+    "spoiler": {
+      "positive": 0,
+      "negative": 1
+    },
+    "spoilers": {
+      "positive": 0,
+      "negative": 1
+    },
+    "spoilearazo": {
+      "positive": 0,
+      "negative": 1
+    },
+    "spoilear": {
+      "positive": 0,
+      "negative": 1
+    },
+    "buenardo": {
+      "positive": 1,
+      "negative": 0
+    },
+    "buenarda": {
+      "positive": 1,
+      "negative": 0
+    },
+    "buenardos": {
+      "positive": 1,
+      "negative": 0
+    },
+    "buenardas": {
+      "positive": 1,
+      "negative": 0
+    },
+    "coger": {
+      "positive": 1,
+      "negative": 1
+    },
+    "follar": {
+      "positive": 0,
+      "negative": 1
+    },
+    "patito": {
+      "positive": 0,
+      "negative": 1
+    },
+    "chi": {
+      "positive": 1,
+      "negative": 0
+    },
+    "ño": {
+      "positive": 0,
+      "negative": 1
+    },
+    "chamaco": {
+      "positive": 1,
+      "negative": 0
+    },
+    "chamaca": {
+      "positive": 1,
+      "negative": 0
+    },
+    "chamacos": {
+      "positive": 1,
+      "negative": 0
+    },
+    "putas": {
+      "positive": 0,
+      "negative": 2
+    },
+    "putos": {
+      "positive": 0,
+      "negative": 2
+    },
+    "rameras": {
+      "positive": 0,
+      "negative": 2
+    },
+    "esquinera": {
+      "positive": 0,
+      "negative": 1
+    },
+    "esquineras": {
+      "positive": 0,
+      "negative": 1
+    },
+    "friendzone": {
+      "positive": 0,
+      "negative": 1
+    },
+    "friendzonear": {
+      "positive": 0,
+      "negative": 1
+    },
+    "friendzoneado": {
+      "positive": 0,
+      "negative": 1
+    },
+    "friendzoneados": {
+      "positive": 0,
+      "negative": 1
+    },
+    "friendzoneadas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "friendzoneada": {
+      "positive": 0,
+      "negative": 1
+    },
+    "friendzoneo": {
+      "positive": 0,
+      "negative": 1
+    },
+    "vlv": {
+      "positive": 0,
+      "negative": 2
+    },
+    "weyes": {
+      "positive": 1,
+      "negative": 1
+    },
+    "we": {
+      "positive": 1,
+      "negative": 1
+    },
+    "desmadrozo": {
+      "positive": 0,
+      "negative": 1
+    },
+    "desmadrozos": {
+      "positive": 0,
+      "negative": 1
+    },
+    "desmadroza": {
+      "positive": 0,
+      "negative": 1
+    },
+    "desmadrozas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "lol": {
+      "positive": 2,
+      "negative": 0
+    },
+    "lul": {
+      "positive": 2,
+      "negative": 0
+    },
+    "lulz": {
+      "positive": 2,
+      "negative": 0
+    },
+    "pocamadre": {
+      "positive": 0,
+      "negative": 1
+    },
+    "valemadre": {
+      "positive": 0,
+      "negative": 1
+    },
+    "valemadrista": {
+      "positive": 0,
+      "negative": 1
+    },
+    "valemadristas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "hater": {
+      "positive": 0,
+      "negative": 2
+    },
+    "haters": {
+      "positive": 0,
+      "negative": 2
+    },
+    "follower": {
+      "positive": 2,
+      "negative": 0
+    },
+    "followers": {
+      "positive": 2,
+      "negative": 0
+    },
+    "tontito": {
+      "positive": 0,
+      "negative": 1
+    },
+    "tontita": {
+      "positive": 0,
+      "negative": 1
+    },
+    "tontitos": {
+      "positive": 0,
+      "negative": 1
+    },
+    "tontitas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "crush": {
+      "positive": 1,
+      "negative": 0
+    },
+    "khe": {
+      "positive": 1,
+      "negative": 0
+    },
+    "cagado": {
+      "positive": 1,
+      "negative": 2
+    },
+    "cagada": {
+      "positive": 1,
+      "negative": 2
+    },
+    "golfo": {
+      "positive": 1,
+      "negative": 1
+    },
+    "golfos": {
+      "positive": 1,
+      "negative": 1
+    },
+    "golfas": {
+      "positive": 0,
+      "negative": 2
+    },
+    "inche": {
+      "positive": 1,
+      "negative": 1
+    },
+    "inches": {
+      "positive": 1,
+      "negative": 1
+    },
+    "che": {
+      "positive": 1,
+      "negative": 1
+    },
+    "ches": {
+      "positive": 1,
+      "negative": 1
+    },
+    "chacha": {
+      "positive": 0,
+      "negative": 1
+    },
+    "chachas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "gorda": {
+      "positive": 0,
+      "negative": 1
+    },
+    "gordas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "gordos": {
+      "positive": 0,
+      "negative": 1
+    },
+    "like": {
+      "positive": 2,
+      "negative": 0
+    },
+    "likes": {
+      "positive": 2,
+      "negative": 0
+    },
+    "apendejar": {
+      "positive": 0,
+      "negative": 2
+    },
+    "chulear": {
+      "positive": 2,
+      "negative": 0
+    },
+    "ojetes": {
+      "positive": 0,
+      "negative": 1
+    },
+    "ojt": {
+      "positive": 0,
+      "negative": 1
+    },
+    "ojts": {
+      "positive": 0,
+      "negative": 1
+    },
+    "ojte": {
+      "positive": 0,
+      "negative": 1
+    },
+    "ojtes": {
+      "positive": 0,
+      "negative": 1
+    },
+    "ogete": {
+      "positive": 0,
+      "negative": 1
+    },
+    "ogetes": {
+      "positive": 0,
+      "negative": 1
+    },
+    "ogt": {
+      "positive": 0,
+      "negative": 1
+    },
+    "ogts": {
+      "positive": 0,
+      "negative": 1
+    },
+    "ogte": {
+      "positive": 0,
+      "negative": 1
+    },
+    "ogtes": {
+      "positive": 0,
+      "negative": 1
+    },
+    "ahuevo": {
+      "positive": 1,
+      "negative": 0
+    },
+    "agüevo": {
+      "positive": 1,
+      "negative": 0
+    },
+    "emputo": {
+      "positive": 0,
+      "negative": 2
+    },
+    "emputó": {
+      "positive": 0,
+      "negative": 2
+    },
+    "empute": {
+      "positive": 0,
+      "negative": 2
+    },
+    "piruja": {
+      "positive": 0,
+      "negative": 1
+    },
+    "pirujas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "pirujilla": {
+      "positive": 0,
+      "negative": 1
+    },
+    "pirujillas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "meentristece": {
+      "positive": 0,
+      "negative": 1
+    },
+    "meenllora": {
+      "positive": 0,
+      "negative": 1
+    },
+    "meemputa": {
+      "positive": 0,
+      "negative": 2
+    },
+    "nini": {
+      "positive": 0,
+      "negative": 1
+    },
+    "ninis": {
+      "positive": 0,
+      "negative": 1
+    },
+    "lord": {
+      "positive": 1,
+      "negative": 1
+    },
+    "lady": {
+      "positive": 1,
+      "negative": 1
+    },
+    "lords": {
+      "positive": 1,
+      "negative": 1
+    },
+    "ladies": {
+      "positive": 1,
+      "negative": 1
+    },
+    "chavelardo": {
+      "positive": 1,
+      "negative": 0
+    },
+    "chabelardo": {
+      "positive": 1,
+      "negative": 0
+    },
+    "chavelardos": {
+      "positive": 1,
+      "negative": 0
     }
   },
   "4": {
@@ -14092,11 +17104,11 @@
     },
     "vete a la chingada": {
       "positive": 0,
-      "negative": 1
+      "negative": 2
     },
     "vete a la verga": {
       "positive": 0,
-      "negative": 1
+      "negative": 2
     },
     "vete a la mierda": {
       "positive": 0,
@@ -14105,6 +17117,170 @@
     "seguro de si mismo": {
       "positive": 2,
       "negative": 0
+    },
+    "hacer de a pedo": {
+      "positive": 0,
+      "negative": 2
+    },
+    "chingar a tu madre": {
+      "positive": 0,
+      "negative": 2
+    },
+    "hijo de mil putas": {
+      "positive": 0,
+      "negative": 2
+    },
+    "salir con una mamada": {
+      "positive": 0,
+      "negative": 1
+    },
+    "salir con tus mamadas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "ir a la verga": {
+      "positive": 0,
+      "negative": 2
+    },
+    "ir a la chingada": {
+      "positive": 0,
+      "negative": 2
+    },
+    "tomar por el culo": {
+      "positive": 1,
+      "negative": 1
+    },
+    "dar por el culo": {
+      "positive": 0,
+      "negative": 1
+    },
+    "ser la mera verga": {
+      "positive": 2,
+      "negative": 0
+    },
+    "ser el mera verga": {
+      "positive": 2,
+      "negative": 0
+    },
+    "chingar tu puta madre": {
+      "positive": 0,
+      "negative": 2
+    },
+    "chingar tu puto madre": {
+      "positive": 0,
+      "negative": 2
+    },
+    "chingar tu puto padre": {
+      "positive": 0,
+      "negative": 2
+    },
+    "chingar tu putísima madre": {
+      "positive": 0,
+      "negative": 2
+    },
+    "chingar tu putisima madre": {
+      "positive": 0,
+      "negative": 2
+    },
+    "chingar tu putisimo padre": {
+      "positive": 0,
+      "negative": 2
+    },
+    "chingar tu putísimo padre": {
+      "positive": 0,
+      "negative": 2
+    },
+    "llorar como una magdalena": {
+      "positive": 0,
+      "negative": 1
+    },
+    "llorar como la magdalena": {
+      "positive": 0,
+      "negative": 1
+    },
+    "llorar como el magdalena": {
+      "positive": 0,
+      "negative": 1
+    },
+    "mandar a la verga": {
+      "positive": 0,
+      "negative": 2
+    },
+    "mandar a el verga": {
+      "positive": 0,
+      "negative": 2
+    },
+    "mandar a la chingada": {
+      "positive": 0,
+      "negative": 2
+    },
+    "mandar a el chingada": {
+      "positive": 0,
+      "negative": 2
+    },
+    "mandar a freír espárragos": {
+      "positive": 0,
+      "negative": 2
+    },
+    "mandar a freir esparragos": {
+      "positive": 0,
+      "negative": 2
+    },
+    "mandar a freír esparragos": {
+      "positive": 0,
+      "negative": 2
+    },
+    "mandar a freir espárragos": {
+      "positive": 0,
+      "negative": 2
+    },
+    "hijo de la chingada": {
+      "positive": 0,
+      "negative": 2
+    },
+    "hija de la chingada": {
+      "positive": 0,
+      "negative": 2
+    },
+    "dar en la madre": {
+      "positive": 0,
+      "negative": 2
+    },
+    "dar en su madre": {
+      "positive": 0,
+      "negative": 2
+    },
+    "hijo de la verga": {
+      "positive": 0,
+      "negative": 2
+    },
+    "hijo de la berga": {
+      "positive": 0,
+      "negative": 2
+    },
+    "hija de la verga": {
+      "positive": 0,
+      "negative": 2
+    },
+    "hija de la berga": {
+      "positive": 0,
+      "negative": 2
+    },
+    "hijos de la verga": {
+      "positive": 0,
+      "negative": 2
+    },
+    "hijos de la berga": {
+      "positive": 0,
+      "negative": 2
+    },
+    "hijas de la verga": {
+      "positive": 0,
+      "negative": 2
+    },
+    "hijas de la berga": {
+      "positive": 0,
+      "negative": 2
     }
   }
 }
