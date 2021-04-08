@@ -607,7 +607,9 @@
     "i love you": "te amo",
     "i need you": "te necesito",
     "piece of cake": "fácil de hacer",
-    "full of beans": "lleno de energía"
+    "full of beans": "lleno de energía",
+	"estar super pedo": "borracho",
+	"estar bien pedo": "borracho"
   },
   "2": {
     "estar jugado": "borracho",
@@ -621,6 +623,7 @@
     "viejos verdes": "morbosos",
     "lame culos": "hombre arrastrado",
     "en bolas": "desnudo",
+	"en pelotas": "desnudo",
     "hacer cuchara": "acurrucar",
     "del nabo": "mal",
     "dar bola": "gustar",
