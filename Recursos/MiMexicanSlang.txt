@@ -972,3 +972,11 @@ chavelardo	+
 chabelardo	+
 chavelardos	+
 chavelardos	+
+puñetera	-
+puñetero	-
+puñeteras	-
+puñeteros	-
+puñeta	-
+puñetas	-
+olv	-
+olv	+

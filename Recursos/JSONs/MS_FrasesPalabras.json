@@ -17083,6 +17083,34 @@
     "chavelardos": {
       "positive": 1,
       "negative": 0
+    },
+    "puñetera": {
+      "positive": 0,
+      "negative": 1
+    },
+    "puñetero": {
+      "positive": 0,
+      "negative": 1
+    },
+    "puñeteras": {
+      "positive": 0,
+      "negative": 1
+    },
+    "puñeteros": {
+      "positive": 0,
+      "negative": 1
+    },
+    "puñeta": {
+      "positive": 0,
+      "negative": 1
+    },
+    "puñetas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "olv": {
+      "positive": 1,
+      "negative": 1
     }
   },
   "4": {
