@@ -334,7 +334,6 @@ loser	-
 looser	-
 losers	-
 loosers	-
-whore	-
 wtf	-
 damn	-
 damn it	-
@@ -700,6 +699,7 @@ coger	-
 follar	-
 violar	-
 dar por el culo	-
+coger por el culo	-
 dar por atrás	-
 dar por atras	-
 patito	-
@@ -830,6 +830,8 @@ no mamar	+
 no mamar	-
 pinche	+
 pinche	-
+pinches	+
+pinches	-
 cagado	+
 cagado	--
 cagada	+
@@ -980,3 +982,76 @@ puñeta	-
 puñetas	-
 olv	-
 olv	+
+chamaquear	-
+chamaquearon	-
+motherfucker	-
+mother fucker	-
+modafaqa	-
+madafaqa	-
+madafaca	-
+modafaqa	-
+ctm	-
+csm	-
+csm	+
+no me chingues	-
+me chingaste	-
+no la amueles	-
+no la chingues	-
+me chingó	-
+me chingo	-
+me amoló	-
+me amolo	-
+la amoló	-
+la amolo	-
+te chingó	-
+te chingo	-
+ahuevado	-
+ahuevados	-
+aguevado	-
+agüevado	-
+aguevados	-
+agüevados	-
+a huevado	-
+a huevados	-
+ahuevar	-
+a huevar	-
+a güevado	-
+a güevados	-
+a guevado	-
+a guevados	-
+agüevar	-
+a güevar	-
+ahuevada	-
+ahuevadas	-
+aguevada	-
+agüevada	-
+aguevadas	-
+agüevadas	-
+a huevada	-
+a huevadas	-
+a güevada	-
+a güevadas	-
+a guevada	-
+a guevadas	-
+generación de cristal	-
+generacion de cristal	-
+boomer	+
+boomer	-
+boomers	+
+boomers	-
+millenial	+
+millenials	-
+teporocho	-
+teporocha	-
+teporochos	-
+teporochos	-
+por sus huevos	-
+yo later	+
+tú later	+
+él later	+
+no yo later	-
+no tú later	-
+no él later	-
+yo él pelar	-
+tú él pelar	-
+él él pelar	-

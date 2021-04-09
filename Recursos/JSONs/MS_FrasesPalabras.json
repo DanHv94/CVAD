@@ -851,6 +851,46 @@
     "me enllora": {
       "positive": 0,
       "negative": 1
+    },
+    "mother fucker": {
+      "positive": 0,
+      "negative": 1
+    },
+    "me chingaste": {
+      "positive": 0,
+      "negative": 1
+    },
+    "me chingó": {
+      "positive": 0,
+      "negative": 1
+    },
+    "me chingo": {
+      "positive": 0,
+      "negative": 1
+    },
+    "me amoló": {
+      "positive": 0,
+      "negative": 1
+    },
+    "me amolo": {
+      "positive": 0,
+      "negative": 1
+    },
+    "la amoló": {
+      "positive": 0,
+      "negative": 1
+    },
+    "la amolo": {
+      "positive": 0,
+      "negative": 1
+    },
+    "te chingó": {
+      "positive": 0,
+      "negative": 1
+    },
+    "te chingo": {
+      "positive": 0,
+      "negative": 1
     }
   },
   "3": {
@@ -1435,6 +1475,14 @@
       "negative": 1
     },
     "creer un culo": {
+      "positive": 0,
+      "negative": 1
+    },
+    "no me chingues": {
+      "positive": 0,
+      "negative": 1
+    },
+    "no la amueles": {
       "positive": 0,
       "negative": 1
     }
@@ -15186,7 +15234,7 @@
     },
     "whore": {
       "positive": 0,
-      "negative": 1
+      "negative": 2
     },
     "golfa": {
       "positive": 0,
@@ -17111,6 +17159,38 @@
     "olv": {
       "positive": 1,
       "negative": 1
+    },
+    "chamaquear": {
+      "positive": 0,
+      "negative": 1
+    },
+    "chamaquearon": {
+      "positive": 0,
+      "negative": 1
+    },
+    "motherfucker": {
+      "positive": 0,
+      "negative": 1
+    },
+    "modafaqa": {
+      "positive": 0,
+      "negative": 1
+    },
+    "madafaqa": {
+      "positive": 0,
+      "negative": 1
+    },
+    "madafaca": {
+      "positive": 0,
+      "negative": 1
+    },
+    "ctm": {
+      "positive": 0,
+      "negative": 1
+    },
+    "csm": {
+      "positive": 1,
+      "negative": 1
     }
   },
   "4": {
@@ -17179,6 +17259,10 @@
       "negative": 1
     },
     "dar por el culo": {
+      "positive": 0,
+      "negative": 1
+    },
+    "coger por el culo": {
       "positive": 0,
       "negative": 1
     },
