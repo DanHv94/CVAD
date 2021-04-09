@@ -891,6 +891,74 @@
     "te chingo": {
       "positive": 0,
       "negative": 1
+    },
+    "a huevado": {
+      "positive": 0,
+      "negative": 1
+    },
+    "a huevados": {
+      "positive": 0,
+      "negative": 1
+    },
+    "a huevar": {
+      "positive": 0,
+      "negative": 1
+    },
+    "a güevado": {
+      "positive": 0,
+      "negative": 1
+    },
+    "a güevados": {
+      "positive": 0,
+      "negative": 1
+    },
+    "a guevado": {
+      "positive": 0,
+      "negative": 1
+    },
+    "a guevados": {
+      "positive": 0,
+      "negative": 1
+    },
+    "a güevar": {
+      "positive": 0,
+      "negative": 1
+    },
+    "a huevada": {
+      "positive": 0,
+      "negative": 1
+    },
+    "a huevadas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "a güevada": {
+      "positive": 0,
+      "negative": 1
+    },
+    "a güevadas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "a guevada": {
+      "positive": 0,
+      "negative": 1
+    },
+    "a guevadas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "yo later": {
+      "positive": 1,
+      "negative": 0
+    },
+    "tú later": {
+      "positive": 1,
+      "negative": 0
+    },
+    "él later": {
+      "positive": 1,
+      "negative": 0
     }
   },
   "3": {
@@ -1483,6 +1551,42 @@
       "negative": 1
     },
     "no la amueles": {
+      "positive": 0,
+      "negative": 1
+    },
+    "generación de cristal": {
+      "positive": 0,
+      "negative": 1
+    },
+    "generacion de cristal": {
+      "positive": 0,
+      "negative": 1
+    },
+    "por sus huevos": {
+      "positive": 0,
+      "negative": 1
+    },
+    "no yo later": {
+      "positive": 0,
+      "negative": 1
+    },
+    "no tú later": {
+      "positive": 0,
+      "negative": 1
+    },
+    "no él later": {
+      "positive": 0,
+      "negative": 1
+    },
+    "yo él pelar": {
+      "positive": 0,
+      "negative": 1
+    },
+    "tú él pelar": {
+      "positive": 0,
+      "negative": 1
+    },
+    "él él pelar": {
       "positive": 0,
       "negative": 1
     }
@@ -16932,6 +17036,10 @@
       "positive": 1,
       "negative": 0
     },
+    "pinches": {
+      "positive": 1,
+      "negative": 1
+    },
     "cagado": {
       "positive": 1,
       "negative": 2
@@ -17190,6 +17298,90 @@
     },
     "csm": {
       "positive": 1,
+      "negative": 1
+    },
+    "ahuevado": {
+      "positive": 0,
+      "negative": 1
+    },
+    "ahuevados": {
+      "positive": 0,
+      "negative": 1
+    },
+    "aguevado": {
+      "positive": 0,
+      "negative": 1
+    },
+    "agüevado": {
+      "positive": 0,
+      "negative": 1
+    },
+    "aguevados": {
+      "positive": 0,
+      "negative": 1
+    },
+    "agüevados": {
+      "positive": 0,
+      "negative": 1
+    },
+    "ahuevar": {
+      "positive": 0,
+      "negative": 1
+    },
+    "agüevar": {
+      "positive": 0,
+      "negative": 1
+    },
+    "ahuevada": {
+      "positive": 0,
+      "negative": 1
+    },
+    "ahuevadas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "aguevada": {
+      "positive": 0,
+      "negative": 1
+    },
+    "agüevada": {
+      "positive": 0,
+      "negative": 1
+    },
+    "aguevadas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "agüevadas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "boomer": {
+      "positive": 1,
+      "negative": 1
+    },
+    "boomers": {
+      "positive": 1,
+      "negative": 1
+    },
+    "millenial": {
+      "positive": 1,
+      "negative": 0
+    },
+    "millenials": {
+      "positive": 0,
+      "negative": 1
+    },
+    "teporocho": {
+      "positive": 0,
+      "negative": 1
+    },
+    "teporocha": {
+      "positive": 0,
+      "negative": 1
+    },
+    "teporochos": {
+      "positive": 0,
       "negative": 1
     }
   },
