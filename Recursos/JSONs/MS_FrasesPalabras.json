@@ -18,7 +18,7 @@
     },
     "puta madre": {
       "positive": 1,
-      "negative": 1
+      "negative": 2
     },
     "ta madre": {
       "positive": 0,
@@ -1589,6 +1589,10 @@
     "él él pelar": {
       "positive": 0,
       "negative": 1
+    },
+    "dios te bendiga": {
+      "positive": 2,
+      "negative": 0
     }
   },
   "1": {
@@ -17383,6 +17387,18 @@
     "teporochos": {
       "positive": 0,
       "negative": 1
+    },
+    "ptm": {
+      "positive": 0,
+      "negative": 2
+    },
+    "chacalear": {
+      "positive": 0,
+      "negative": 1
+    },
+    "dtb": {
+      "positive": 2,
+      "negative": 0
     }
   },
   "4": {
