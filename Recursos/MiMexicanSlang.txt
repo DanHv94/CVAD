@@ -668,6 +668,7 @@ spoilers	-
 spoilearazo	-
 spoilear	-
 spoiler alert	-
+alerta de spoiler	-
 chido	+
 que chido	+
 k chido	+
@@ -1060,3 +1061,4 @@ puta madre	--
 chacalear	-
 dtb	++
 dios te bendiga	++
+mrda	-
