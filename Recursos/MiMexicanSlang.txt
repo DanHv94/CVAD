@@ -1,8 +1,13 @@
 hacer de a pedo	-
 haber pedo	-
 no haber pedo	++
-chingar tu madre	--
-chingar a tu madre	--
+chingar yo madre	--
+chingar tú madre	--
+chingar él madre	--
+chingar a yo madre	--
+chingar a tú madre	--
+chingar a él madre	--
+ingatumadre	--
 sacar un pedo	-
 sacado de pedo	-
 dar de hostias	-
@@ -47,9 +52,21 @@ jejeje	++
 jijiji	++
 hahaha	++
 hdp	--
+hdpm	--
 hijo de puta	--
+hijos de puta	--
+hijos puta	--
+hijo puta	--
+hijoputa	--
+hijosputa	--
 hijo de mil putas	--
 hdtpm	--
+hdspm	--
+don nadie	-
+doña nadie	-
+donnadie	-
+doñanadie	-
+pintar dedo	-
 cucho	-
 cucha	-
 cuchos	-
@@ -927,6 +944,7 @@ a güevo	+
 agüevo	+
 sacar la verga	--
 a la verga	-
+ala verga	--
 emputo	--
 emputar	--
 emputó	--
@@ -1062,3 +1080,35 @@ chacalear	-
 dtb	++
 dios te bendiga	++
 mrda	-
+perfect	+
+holy shit	-
+holy shit	+
+oh shit	-
+oh shit	+
+al chile	-
+al chile	+
+huevos	+
+huevos	-
+terco	-
+terca	-
+tercos	-
+tercas	-
+prieto	-
+prieta	-
+prietos	-
+prietas	-
+puñal	-
+puñales	-
+tachas	-
+inhalar piedra	-
+fumar piedra	-
+guay	+
+closetero	-
+closeteros	-
+closetera	-
+closeteras	-
+de clóset	-
+de closet	-
+yo él jalar	-
+tú él jalar	-
+él él jalar	-
