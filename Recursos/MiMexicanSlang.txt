@@ -756,6 +756,9 @@ friendzoneada	-
 friendzoneo	-
 cagar	-
 vale verga	--
+valer verga	--
+vale pene	--
+valer pene	--
 vlv	--
 chingar tu puta madre	--
 chingar tu puto madre	--
@@ -888,11 +891,14 @@ ches	+
 che	-
 ches	-
 te la mamaste	+
-te el mamar	+
-te la mamar	+
 te la mamaste	-
-te el mamar	-
-te la mamar	-
+yo él mamar	-
+tú él mamar	-
+él él mamar	-
+yo él mamar	+
+tú él mamar	+
+él él mamar	+
+ya mamar	-
 chacha	-
 chachas	-
 gorda	-
@@ -1112,3 +1118,6 @@ de closet	-
 yo él jalar	-
 tú él jalar	-
 él él jalar	-
+verga	-
+vergas	-
+gaver	-
