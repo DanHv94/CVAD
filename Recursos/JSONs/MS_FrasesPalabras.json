@@ -446,7 +446,7 @@
     },
     "valer verga": {
       "positive": 0,
-      "negative": 1
+      "negative": 2
     },
     "bailar bertha": {
       "positive": 0,
@@ -704,6 +704,14 @@
       "positive": 0,
       "negative": 2
     },
+    "vale pene": {
+      "positive": 0,
+      "negative": 2
+    },
+    "valer pene": {
+      "positive": 0,
+      "negative": 2
+    },
     "que desmadre": {
       "positive": 0,
       "negative": 1
@@ -783,6 +791,10 @@
     "estar mamar": {
       "positive": 1,
       "negative": 0
+    },
+    "ya mamar": {
+      "positive": 0,
+      "negative": 1
     },
     "gorda de": {
       "positive": 0,
@@ -1534,11 +1546,15 @@
       "positive": 1,
       "negative": 1
     },
-    "te el mamar": {
+    "yo él mamar": {
       "positive": 1,
       "negative": 1
     },
-    "te la mamar": {
+    "tú él mamar": {
+      "positive": 1,
+      "negative": 1
+    },
+    "él él mamar": {
       "positive": 1,
       "negative": 1
     },
@@ -17569,6 +17585,18 @@
       "negative": 1
     },
     "closeteras": {
+      "positive": 0,
+      "negative": 1
+    },
+    "verga": {
+      "positive": 0,
+      "negative": 1
+    },
+    "vergas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "gaver": {
       "positive": 0,
       "negative": 1
     }
