@@ -102,7 +102,7 @@
     },
     "valer madre": {
       "positive": 0,
-      "negative": 2
+      "negative": 1
     },
     "me emputa": {
       "positive": 0,
@@ -300,6 +300,22 @@
       "positive": 0,
       "negative": 2
     },
+    "pinches indios": {
+      "positive": 0,
+      "negative": 2
+    },
+    "pinches negros": {
+      "positive": 0,
+      "negative": 2
+    },
+    "pinches indias": {
+      "positive": 0,
+      "negative": 2
+    },
+    "pinches negras": {
+      "positive": 0,
+      "negative": 2
+    },
     "coco wash": {
       "positive": 0,
       "negative": 1
@@ -336,6 +352,22 @@
       "positive": 0,
       "negative": 2
     },
+    "lame huevos": {
+      "positive": 0,
+      "negative": 2
+    },
+    "lame huevo": {
+      "positive": 0,
+      "negative": 2
+    },
+    "lame güevo": {
+      "positive": 0,
+      "negative": 2
+    },
+    "lame güevos": {
+      "positive": 0,
+      "negative": 2
+    },
     "haber bronca": {
       "positive": 0,
       "negative": 1
@@ -365,6 +397,10 @@
       "negative": 2
     },
     "poner cuernos": {
+      "positive": 0,
+      "negative": 2
+    },
+    "poner cuerno": {
       "positive": 0,
       "negative": 2
     },
@@ -444,10 +480,6 @@
       "positive": 1,
       "negative": 0
     },
-    "valer verga": {
-      "positive": 0,
-      "negative": 2
-    },
     "bailar bertha": {
       "positive": 0,
       "negative": 1
@@ -488,11 +520,59 @@
       "positive": 1,
       "negative": 1
     },
+    "me mama": {
+      "positive": 1,
+      "negative": 0
+    },
+    "te mama": {
+      "positive": 1,
+      "negative": 0
+    },
+    "le mama": {
+      "positive": 1,
+      "negative": 0
+    },
+    "nos mama": {
+      "positive": 1,
+      "negative": 0
+    },
+    "les mama": {
+      "positive": 1,
+      "negative": 0
+    },
+    "me mamó": {
+      "positive": 1,
+      "negative": 0
+    },
+    "te mamó": {
+      "positive": 1,
+      "negative": 0
+    },
+    "le mamó": {
+      "positive": 1,
+      "negative": 0
+    },
+    "nos mamó": {
+      "positive": 1,
+      "negative": 0
+    },
+    "les mamó": {
+      "positive": 1,
+      "negative": 0
+    },
     "andar cagar": {
       "positive": 0,
       "negative": 1
     },
     "andar cagando": {
+      "positive": 0,
+      "negative": 1
+    },
+    "caga palo": {
+      "positive": 0,
+      "negative": 1
+    },
+    "caga palos": {
       "positive": 0,
       "negative": 1
     },
@@ -616,6 +696,10 @@
       "positive": 1,
       "negative": 0
     },
+    "que chevere": {
+      "positive": 1,
+      "negative": 0
+    },
     "k chido": {
       "positive": 1,
       "negative": 0
@@ -704,6 +788,10 @@
       "positive": 0,
       "negative": 2
     },
+    "valer verga": {
+      "positive": 0,
+      "negative": 2
+    },
     "vale pene": {
       "positive": 0,
       "negative": 2
@@ -712,11 +800,35 @@
       "positive": 0,
       "negative": 2
     },
+    "valer pito": {
+      "positive": 0,
+      "negative": 2
+    },
+    "valer nepe": {
+      "positive": 0,
+      "negative": 2
+    },
     "que desmadre": {
       "positive": 0,
       "negative": 1
     },
     "tener huevos": {
+      "positive": 2,
+      "negative": 0
+    },
+    "tener huevo": {
+      "positive": 2,
+      "negative": 0
+    },
+    "tener pantalones": {
+      "positive": 2,
+      "negative": 0
+    },
+    "tener pantalon": {
+      "positive": 2,
+      "negative": 0
+    },
+    "tener pantalón": {
       "positive": 2,
       "negative": 0
     },
@@ -984,15 +1096,43 @@
       "positive": 0,
       "negative": 1
     },
-    "yo later": {
+    "me late": {
       "positive": 1,
       "negative": 0
     },
-    "tú later": {
+    "te late": {
       "positive": 1,
       "negative": 0
     },
-    "él later": {
+    "le late": {
+      "positive": 1,
+      "negative": 1
+    },
+    "nos late": {
+      "positive": 1,
+      "negative": 0
+    },
+    "les late": {
+      "positive": 1,
+      "negative": 0
+    },
+    "me latió": {
+      "positive": 1,
+      "negative": 0
+    },
+    "te latió": {
+      "positive": 1,
+      "negative": 0
+    },
+    "le latió": {
+      "positive": 1,
+      "negative": 0
+    },
+    "nos latió": {
+      "positive": 1,
+      "negative": 0
+    },
+    "les latió": {
       "positive": 1,
       "negative": 0
     },
@@ -1112,7 +1252,7 @@
     },
     "poner el cuerno": {
       "positive": 0,
-      "negative": 1
+      "negative": 2
     },
     "meter la pata": {
       "positive": 0,
@@ -1154,11 +1294,11 @@
       "positive": 0,
       "negative": 2
     },
-    "chingar tú madre": {
+    "chingar tu madre": {
       "positive": 0,
       "negative": 2
     },
-    "chingar él madre": {
+    "chingar el madre": {
       "positive": 0,
       "negative": 2
     },
@@ -1226,6 +1366,14 @@
       "positive": 1,
       "negative": 0
     },
+    "servir de nada": {
+      "positive": 0,
+      "negative": 1
+    },
+    "servir para nada": {
+      "positive": 0,
+      "negative": 1
+    },
     "no haber bronca": {
       "positive": 2,
       "negative": 0
@@ -1239,6 +1387,30 @@
       "negative": 2
     },
     "a la chingada": {
+      "positive": 0,
+      "negative": 2
+    },
+    "hasta los huevos": {
+      "positive": 0,
+      "negative": 2
+    },
+    "hasta el huevo": {
+      "positive": 0,
+      "negative": 2
+    },
+    "hasta tus huevos": {
+      "positive": 0,
+      "negative": 2
+    },
+    "hasta tu huevo": {
+      "positive": 0,
+      "negative": 2
+    },
+    "hasta mis huevos": {
+      "positive": 0,
+      "negative": 2
+    },
+    "hasta mi huevo": {
       "positive": 0,
       "negative": 2
     },
@@ -1290,10 +1462,6 @@
       "positive": 0,
       "negative": 1
     },
-    "hasta los huevos": {
-      "positive": 0,
-      "negative": 2
-    },
     "poner las pilas": {
       "positive": 1,
       "negative": 0
@@ -1342,12 +1510,36 @@
       "positive": 0,
       "negative": 1
     },
+    "rascar el huevo": {
+      "positive": 0,
+      "negative": 1
+    },
     "sacar un pedote": {
       "positive": 0,
       "negative": 1
     },
+    "ir al pito": {
+      "positive": 0,
+      "negative": 2
+    },
     "ah no bueno": {
       "positive": 1,
+      "negative": 1
+    },
+    "bueno para nada": {
+      "positive": 0,
+      "negative": 1
+    },
+    "buenos para nada": {
+      "positive": 0,
+      "negative": 1
+    },
+    "buena para nada": {
+      "positive": 0,
+      "negative": 1
+    },
+    "buenas para nada": {
+      "positive": 0,
       "negative": 1
     },
     "estar todo pacheco": {
@@ -1478,6 +1670,22 @@
       "positive": 0,
       "negative": 2
     },
+    "no tener huevo": {
+      "positive": 0,
+      "negative": 2
+    },
+    "no tener pantalones": {
+      "positive": 0,
+      "negative": 2
+    },
+    "no tener pantalon": {
+      "positive": 0,
+      "negative": 2
+    },
+    "no tener pantalón": {
+      "positive": 0,
+      "negative": 2
+    },
     "no tener cojones": {
       "positive": 0,
       "negative": 2
@@ -1582,6 +1790,10 @@
       "positive": 0,
       "negative": 1
     },
+    "estar de ardilla": {
+      "positive": 0,
+      "negative": 1
+    },
     "tirar el paro": {
       "positive": 2,
       "negative": 0
@@ -1589,6 +1801,18 @@
     "hacer el paro": {
       "positive": 2,
       "negative": 0
+    },
+    "no tirar paro": {
+      "positive": 0,
+      "negative": 2
+    },
+    "no hacer paro": {
+      "positive": 0,
+      "negative": 2
+    },
+    "no tirar esquina": {
+      "positive": 0,
+      "negative": 2
     },
     "hacer de pedo": {
       "positive": 0,
@@ -1615,6 +1839,22 @@
       "negative": 2
     },
     "llevar el chingada": {
+      "positive": 0,
+      "negative": 2
+    },
+    "llevar el verga": {
+      "positive": 0,
+      "negative": 2
+    },
+    "cargar el verga": {
+      "positive": 0,
+      "negative": 2
+    },
+    "cargar el payaso": {
+      "positive": 0,
+      "negative": 2
+    },
+    "cargar el chingada": {
       "positive": 0,
       "negative": 2
     },
@@ -1646,27 +1886,59 @@
       "positive": 0,
       "negative": 1
     },
-    "no yo later": {
+    "por su huevo": {
       "positive": 0,
       "negative": 1
     },
-    "no tú later": {
+    "por tus huevos": {
       "positive": 0,
       "negative": 1
     },
-    "no él later": {
+    "por tu huevo": {
       "positive": 0,
       "negative": 1
     },
-    "yo él pelar": {
+    "por mis huevos": {
       "positive": 0,
       "negative": 1
     },
-    "tú él pelar": {
+    "por mi huevo": {
       "positive": 0,
       "negative": 1
     },
-    "él él pelar": {
+    "no me late": {
+      "positive": 0,
+      "negative": 1
+    },
+    "no te late": {
+      "positive": 0,
+      "negative": 1
+    },
+    "no nos late": {
+      "positive": 0,
+      "negative": 1
+    },
+    "no les late": {
+      "positive": 0,
+      "negative": 1
+    },
+    "no me latió": {
+      "positive": 0,
+      "negative": 1
+    },
+    "no te latió": {
+      "positive": 0,
+      "negative": 1
+    },
+    "no le latió": {
+      "positive": 0,
+      "negative": 1
+    },
+    "no nos latió": {
+      "positive": 0,
+      "negative": 1
+    },
+    "no les latió": {
       "positive": 0,
       "negative": 1
     },
@@ -1683,6 +1955,18 @@
       "negative": 1
     },
     "él él jalar": {
+      "positive": 0,
+      "negative": 1
+    },
+    "recibir mi merecer": {
+      "positive": 0,
+      "negative": 1
+    },
+    "recibir tu merecer": {
+      "positive": 0,
+      "negative": 1
+    },
+    "recibir su merecer": {
       "positive": 0,
       "negative": 1
     }
@@ -3074,7 +3358,7 @@
     },
     "asaltar": {
       "positive": 0,
-      "negative": 2
+      "negative": 1
     },
     "asalto": {
       "positive": 0,
@@ -10906,7 +11190,7 @@
     },
     "ratero": {
       "positive": 0,
-      "negative": 2
+      "negative": 1
     },
     "fugarse": {
       "positive": 0,
@@ -15464,6 +15748,42 @@
       "positive": 1,
       "negative": 0
     },
+    "bros": {
+      "positive": 1,
+      "negative": 0
+    },
+    "pana": {
+      "positive": 1,
+      "negative": 0
+    },
+    "panas": {
+      "positive": 1,
+      "negative": 0
+    },
+    "parce": {
+      "positive": 1,
+      "negative": 0
+    },
+    "parces": {
+      "positive": 1,
+      "negative": 0
+    },
+    "parcero": {
+      "positive": 1,
+      "negative": 0
+    },
+    "parcera": {
+      "positive": 1,
+      "negative": 0
+    },
+    "parceros": {
+      "positive": 1,
+      "negative": 0
+    },
+    "parceras": {
+      "positive": 1,
+      "negative": 0
+    },
     "compa": {
       "positive": 1,
       "negative": 0
@@ -15480,6 +15800,10 @@
       "positive": 1,
       "negative": 0
     },
+    "compadres": {
+      "positive": 1,
+      "negative": 0
+    },
     "compadrito": {
       "positive": 1,
       "negative": 0
@@ -15489,6 +15813,10 @@
       "negative": 0
     },
     "comadre": {
+      "positive": 1,
+      "negative": 0
+    },
+    "comadres": {
       "positive": 1,
       "negative": 0
     },
@@ -15580,6 +15908,10 @@
       "positive": 0,
       "negative": 2
     },
+    "hdtp": {
+      "positive": 0,
+      "negative": 2
+    },
     "hdspm": {
       "positive": 0,
       "negative": 2
@@ -15640,7 +15972,15 @@
       "positive": 0,
       "negative": 1
     },
+    "malandrin": {
+      "positive": 0,
+      "negative": 1
+    },
     "malandrines": {
+      "positive": 0,
+      "negative": 1
+    },
+    "rateros": {
       "positive": 0,
       "negative": 1
     },
@@ -15996,6 +16336,14 @@
       "positive": 1,
       "negative": 0
     },
+    "nigga": {
+      "positive": 0,
+      "negative": 2
+    },
+    "niggas": {
+      "positive": 0,
+      "negative": 2
+    },
     "maldita": {
       "positive": 0,
       "negative": 2
@@ -16011,6 +16359,22 @@
     "cocowash": {
       "positive": 0,
       "negative": 1
+    },
+    "lameculos": {
+      "positive": 0,
+      "negative": 2
+    },
+    "lamehuevos": {
+      "positive": 0,
+      "negative": 2
+    },
+    "lamehuevo": {
+      "positive": 0,
+      "negative": 2
+    },
+    "lamegüevo": {
+      "positive": 0,
+      "negative": 2
     },
     "ntp": {
       "positive": 1,
@@ -16564,6 +16928,10 @@
       "positive": 1,
       "negative": 1
     },
+    "pito": {
+      "positive": 0,
+      "negative": 1
+    },
     "envergados": {
       "positive": 0,
       "negative": 2
@@ -16645,6 +17013,22 @@
       "negative": 1
     },
     "mariconzón": {
+      "positive": 0,
+      "negative": 1
+    },
+    "mayates": {
+      "positive": 0,
+      "negative": 1
+    },
+    "mamar": {
+      "positive": 1,
+      "negative": 1
+    },
+    "cagapalo": {
+      "positive": 0,
+      "negative": 1
+    },
+    "cagapalos": {
       "positive": 0,
       "negative": 1
     },
@@ -16860,6 +17244,22 @@
       "positive": 0,
       "negative": 2
     },
+    "covid": {
+      "positive": 0,
+      "negative": 1
+    },
+    "coronavirus": {
+      "positive": 0,
+      "negative": 1
+    },
+    "cobicho": {
+      "positive": 0,
+      "negative": 1
+    },
+    "covicho": {
+      "positive": 0,
+      "negative": 1
+    },
     "pendejazo": {
       "positive": 0,
       "negative": 2
@@ -16968,6 +17368,14 @@
       "positive": 0,
       "negative": 1
     },
+    "chidos": {
+      "positive": 1,
+      "negative": 0
+    },
+    "chevere": {
+      "positive": 1,
+      "negative": 0
+    },
     "buenardo": {
       "positive": 1,
       "negative": 0
@@ -17067,6 +17475,34 @@
     "vlv": {
       "positive": 0,
       "negative": 2
+    },
+    "vaga": {
+      "positive": 0,
+      "negative": 1
+    },
+    "vagos": {
+      "positive": 0,
+      "negative": 1
+    },
+    "vagas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "bago": {
+      "positive": 0,
+      "negative": 1
+    },
+    "baga": {
+      "positive": 0,
+      "negative": 1
+    },
+    "bagos": {
+      "positive": 0,
+      "negative": 1
+    },
+    "bagas": {
+      "positive": 0,
+      "negative": 1
     },
     "weyes": {
       "positive": 1,
@@ -17568,6 +18004,38 @@
       "positive": 0,
       "negative": 1
     },
+    "cocaína": {
+      "positive": 0,
+      "negative": 1
+    },
+    "cocaina": {
+      "positive": 0,
+      "negative": 1
+    },
+    "cocainómano": {
+      "positive": 0,
+      "negative": 1
+    },
+    "cocainomano": {
+      "positive": 0,
+      "negative": 1
+    },
+    "cocainómana": {
+      "positive": 0,
+      "negative": 1
+    },
+    "cocainomana": {
+      "positive": 0,
+      "negative": 1
+    },
+    "cocainómanas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "cocainomanas": {
+      "positive": 0,
+      "negative": 1
+    },
     "guay": {
       "positive": 1,
       "negative": 0
@@ -17597,6 +18065,82 @@
       "negative": 1
     },
     "gaver": {
+      "positive": 0,
+      "negative": 1
+    },
+    "pior": {
+      "positive": 0,
+      "negative": 1
+    },
+    "chillar": {
+      "positive": 0,
+      "negative": 1
+    },
+    "rata": {
+      "positive": 0,
+      "negative": 1
+    },
+    "ratas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "clarín": {
+      "positive": 1,
+      "negative": 0
+    },
+    "clarin": {
+      "positive": 1,
+      "negative": 0
+    },
+    "ardidos": {
+      "positive": 0,
+      "negative": 1
+    },
+    "ardida": {
+      "positive": 0,
+      "negative": 1
+    },
+    "ardidas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "ardillas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "verdulero": {
+      "positive": 0,
+      "negative": 1
+    },
+    "verduleros": {
+      "positive": 0,
+      "negative": 1
+    },
+    "verdulera": {
+      "positive": 0,
+      "negative": 1
+    },
+    "verduleras": {
+      "positive": 0,
+      "negative": 1
+    },
+    "fan": {
+      "positive": 1,
+      "negative": 0
+    },
+    "fans": {
+      "positive": 1,
+      "negative": 0
+    },
+    "marranada": {
+      "positive": 0,
+      "negative": 1
+    },
+    "marranadas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "fuchi": {
       "positive": 0,
       "negative": 1
     }
@@ -17638,15 +18182,19 @@
       "positive": 0,
       "negative": 2
     },
-    "chingar a yo madre": {
+    "chingar a mi madre": {
       "positive": 0,
       "negative": 2
     },
-    "chingar a tú madre": {
+    "chingar a tu madre": {
       "positive": 0,
       "negative": 2
     },
-    "chingar a él madre": {
+    "chingar a su madre": {
+      "positive": 2,
+      "negative": 2
+    },
+    "chingar a el madre": {
       "positive": 0,
       "negative": 2
     },
@@ -17807,6 +18355,14 @@
       "negative": 2
     },
     "hijas de la berga": {
+      "positive": 0,
+      "negative": 2
+    },
+    "no tirar el paro": {
+      "positive": 0,
+      "negative": 2
+    },
+    "no hacer el paro": {
       "positive": 0,
       "negative": 2
     }
