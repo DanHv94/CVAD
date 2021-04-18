@@ -1,12 +1,14 @@
 hacer de a pedo	-
 haber pedo	-
 no haber pedo	++
+chingar a mi madre	--
+chingar a tu madre	--
+chingar a su madre	--
+chingar a el madre	--
+chingar a su madre	++
 chingar yo madre	--
-chingar tú madre	--
-chingar él madre	--
-chingar a yo madre	--
-chingar a tú madre	--
-chingar a él madre	--
+chingar tu madre	--
+chingar el madre	--
 ingatumadre	--
 sacar un pedo	-
 sacado de pedo	-
@@ -26,13 +28,24 @@ bully	--
 bulli	--
 carnal	+
 bro	+
+bros	+
+pana	+
+panas	+
+parce	+
+parces	+
+parcero	+
+parcera	+
+parceros	+
+parceras	+
 compa	+
 compas	+
 compi	+
 compadre	+
+compadres	+
 compadrito	+
 compadritos	+
 comadre	+
+comadres	+
 comadrita	+
 comadritas	+
 conmadre	++
@@ -61,6 +74,7 @@ hijoputa	--
 hijosputa	--
 hijo de mil putas	--
 hdtpm	--
+hdtp	--
 hdspm	--
 don nadie	-
 doña nadie	-
@@ -80,7 +94,10 @@ lpm	--
 malandros	-
 malandro	-
 malandrín	-
+malandrin	-
 malandrines	-
+ratero	-
+rateros	-
 chacal	-
 chakal	-
 chacales	-
@@ -210,6 +227,12 @@ pinche indio	--
 pinche negro	--
 pinche india	--
 pinche negra	--
+pinches indios	--
+pinches negros	--
+pinches indias	--
+pinches negras	--
+nigga	--
+niggas	--
 maldito	--
 maldita	--
 malditos	--
@@ -226,7 +249,18 @@ rabos verdes	--
 viejo verde	--
 viejos verdes	--
 lame culos	--
+lameculos	--
 lamer culos	--
+lame huevos	--
+lame huevo	--
+lame güevo	--
+lame güevos	--
+lamehuevos	--
+lamehuevo	--
+lamegüevo	--
+lamegüevo	--
+servir de nada	-
+servir para nada	-
 bronca	-
 haber bronca	-
 no haber bronca	++
@@ -242,6 +276,12 @@ del culo	--
 de la chingada	--
 a la chingada	--
 hasta la madre	--
+hasta los huevos	--
+hasta el huevo	--
+hasta tus huevos	--
+hasta tu huevo	--
+hasta mis huevos	--
+hasta mi huevo	--
 flipear	-
 flipar	+
 flipear	+
@@ -257,7 +297,9 @@ netas	+
 gentuza	-
 shit	--
 poner cuernos	--
+poner cuerno	--
 poner los cuernos	--
+poner el cuerno	--
 cerrado de mollera	-
 cerrados de mollera	-
 cabeza sumida	-
@@ -479,7 +521,7 @@ pasate de verga	+
 pasate de verga	-
 alv	+
 alv	-
-valer verga	-
+pito	-
 bailar bertha	-
 bailar berta	-
 envergados	--
@@ -506,16 +548,31 @@ lenchas	-
 lencha	-
 mariconzon	-
 mariconzón	-
+mayate	-
+mayates	-
 jugar al verga	-
 jugar al vergas	-
 jugar al verga	+
 jugar al vergas	+
+c mamó	+
 c mamó	+
 c mamo	+
 c mamut	+
 se mamó	+
 se mamo	+
 se mamut	+
+me mama	+
+te mama	+
+le mama	+
+nos mama	+
+les mama	+
+me mamó	+
+te mamó	+
+le mamó	+
+nos mamó	+
+les mamó	+
+mamar	+
+mamar	-
 c mamó	-
 c mamo	-
 c mamut	-
@@ -525,11 +582,16 @@ se mamut	-
 andar cagar	-
 andar cagando	-
 cagando el palo	-
+caga palo	-
+cagapalo	-
+caga palos	-
+cagapalos	-
 engrosando el palo	-
 salir con una mamada	-
 salir con tus mamadas	-
 mamada	-
 rascar los huevos	-
+rascar el huevo	-
 cabrear	-
 cabreando	-
 chingonsísimo	+
@@ -606,6 +668,7 @@ cabronaza	-
 ah caramba	-
 vete a la verga	--
 ir a la verga	--
+ir al pito	--
 vete a la chingada	--
 ir a la chingada	--
 lisiado	-
@@ -618,6 +681,10 @@ chafita	-
 chafas	-
 ah no bueno	+
 ah no bueno	-
+bueno para nada	-
+buenos para nada	-
+buena para nada	-
+buenas para nada	-
 crack	+
 cruck	+
 cracks	+
@@ -652,6 +719,10 @@ whitexican	-
 whitexicans	-
 covidiota	--
 covidiotas	--
+covid	-
+coronavirus	-
+cobicho	-
+covicho	-
 pendejazo	--
 pendejazos	--
 pendejaza	--
@@ -687,7 +758,10 @@ spoilear	-
 spoiler alert	-
 alerta de spoiler	-
 chido	+
+chidos	+
 que chido	+
+chevere	+
+que chevere	+
 k chido	+
 todo chido	+
 que chidori	+
@@ -759,6 +833,8 @@ vale verga	--
 valer verga	--
 vale pene	--
 valer pene	--
+valer pito	--
+valer nepe	--
 vlv	--
 chingar tu puta madre	--
 chingar tu puto madre	--
@@ -786,7 +862,15 @@ lol	++
 lul	++
 lulz	++
 tener huevos	++
+tener huevo	++
 no tener huevos	--
+no tener huevo	--
+tener pantalones	++
+tener pantalon	++
+tener pantalón	++
+no tener pantalones	--
+no tener pantalon	--
+no tener pantalón	--
 tener cojones	++
 no tener cojones	--
 tener madre	+
@@ -797,7 +881,7 @@ vale madre	-
 valemadre	-
 valemadrista	-
 valemadristas	-
-valer madre	--
+valer madre	-
 llorar como una magdalena	-
 llorar como magdalena	-
 llorar como la magdalena	-
@@ -925,11 +1009,17 @@ que chulada	++
 chulada	++
 chulear	++
 estar ardilla	-
+estar de ardilla	-
 tirar paro	++
 tirar el paro	++
 hacer paro	++
 hacer el paro	++
 tirar esquina	++
+no tirar paro	--
+no tirar el paro	--
+no hacer paro	--
+no hacer el paro	--
+no tirar esquina	--
 hacer de pedo	--
 hacer de a pedo	--
 ojete	-
@@ -959,6 +1049,10 @@ ver el cara	-
 ver la cara	-
 llevar la chingada	--
 llevar el chingada	--
+llevar el verga	--
+cargar el verga	--
+cargar el payaso	--
+cargar el chingada	--
 ay wey	+
 ay wey	-
 ay cabrón	+
@@ -1071,15 +1165,31 @@ teporocha	-
 teporochos	-
 teporochos	-
 por sus huevos	-
-yo later	+
-tú later	+
-él later	+
-no yo later	-
-no tú later	-
-no él later	-
-yo él pelar	-
-tú él pelar	-
-él él pelar	-
+por su huevo	-
+por tus huevos	-
+por tu huevo	-
+por mis huevos	-
+por mi huevo	-
+me late	+
+no me late	-
+te late	+
+no te late	-
+le late	+
+le late	-
+nos late	+
+no nos late	-
+les late	+
+no les late	-
+me latió	+
+no me latió	-
+te latió	+
+no te latió	-
+le latió	+
+no le latió	-
+nos latió	+
+no nos latió	-
+les latió	+
+no les latió	-
 ptm	--
 puta madre	--
 chacalear	-
@@ -1106,6 +1216,14 @@ prietas	-
 puñal	-
 puñales	-
 tachas	-
+cocaína	-
+cocaina	-
+cocainómano	-
+cocainomano	-
+cocainómana	-
+cocainomana	-
+cocainómanas	-
+cocainomanas	-
 inhalar piedra	-
 fumar piedra	-
 guay	+
@@ -1121,3 +1239,28 @@ tú él jalar	-
 verga	-
 vergas	-
 gaver	-
+pior	-
+chillar	-
+recibir mi merecer	-
+recibir tu merecer	-
+recibir su merecer	-
+rata	-
+ratas	-
+clarín	+
+clarin	+
+ardido	-
+ardidos	-
+ardida	-
+ardidas	-
+ardilla	-
+ardillas	-
+asaltar	-
+verdulero	-
+verduleros	-
+verdulera	-
+verduleras	-
+fan	+
+fans	+
+marranada	-
+marranadas	-
+fuchi	-
