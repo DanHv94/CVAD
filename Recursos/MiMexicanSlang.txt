@@ -27,6 +27,7 @@ bullying	--
 bully	--
 bulli	--
 carnal	+
+karnal	+
 bro	+
 bros	+
 pana	+
@@ -37,6 +38,10 @@ parcero	+
 parcera	+
 parceros	+
 parceras	+
+cuate	+
+cuatito	+
+cuatitos	+
+cuates	+
 compa	+
 compas	+
 compi	+
@@ -531,6 +536,10 @@ joto	-
 jotito	-
 jotos	-
 jotitos	-
+jotazo	-
+jota	-
+jotazos	-
+jotazas	-
 muerde almohadas	-
 muerdealmohadas	-
 muerdealmoadas	-
@@ -802,6 +811,8 @@ ok maguey	++
 okey maguey	++
 okay maguey	++
 todo meco	-
+meco	-
+mecos	-
 todos mecos	-
 estar papa	++
 está papa	++
@@ -859,6 +870,10 @@ weyes	+
 weyes	-
 we	+
 we	-
+güey	-
+güeyes	-
+güey	+
+güeyes	+
 que desmadre	-
 desmadre	-
 desmadrito	-
@@ -1272,3 +1287,87 @@ fans	+
 marranada	-
 marranadas	-
 fuchi	-
+villamelon	-
+villamelón	-
+villamelones	-
+basura	-
+cabrón	-
+cabron	-
+cabrona	-
+cabrones	-
+cabronas	-
+gacho	-
+gachito	-
+zonzo	-
+zonza	-
+zonzos	-
+zonzas	-
+zopenco	-
+zopencos	-
+zopenca	-
+zopencas	-
+sopenco	-
+sopenca	-
+sopencos	-
+sopencas	-
+pagafantas	-
+simp	-
+carrilla	-
+doble moral	-
+marro	-
+ser uno basura	--
+muerto de hambre	-
+muerta de hambre	-
+muertos de hambre	-
+muertas de hambre	-
+echar carrilla	-
+tirar carrilla	-
+cargar carrilla	-
+dejar en visto	-
+mal cogido	-
+mal cogida	-
+mal cogidos	-
+mal cogidas	-
+malcogido	-
+malcogida	-
+malcogidos	-
+malcogidas	-
+chillon	-
+chillón	-
+chillona	-
+chillones	-
+chillonas	-
+chapulinear	-
+chilletas	-
+agachon	-
+agachón	-
+agachones	-
+agachona	-
+agachonas	-
+pecho frio	-
+pechos frios	-
+pecho frío	-
+pechos fríos	-
+concha de tu hermana	-
+concha de tu madre	-
+bobo	-
+boba	-
+bobos	-
+bobas	-
+bobalicón	-
+bobalicon	-
+bobalicones	-
+bobalicona	-
+bobaliconas	-
+pucha	-
+puchas	-
+panocha	-
+panochas	-
+teatrero	-
+teatrera	-
+teatreros	-
+teatreras	-
+coño	-
+coñazo	-
+patada en los huevos	-
+patada en el huevo	-
