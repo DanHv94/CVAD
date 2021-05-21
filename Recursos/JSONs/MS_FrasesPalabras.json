@@ -1159,6 +1159,54 @@
     "de closet": {
       "positive": 0,
       "negative": 1
+    },
+    "doble moral": {
+      "positive": 0,
+      "negative": 1
+    },
+    "echar carrilla": {
+      "positive": 0,
+      "negative": 1
+    },
+    "tirar carrilla": {
+      "positive": 0,
+      "negative": 1
+    },
+    "cargar carrilla": {
+      "positive": 0,
+      "negative": 1
+    },
+    "mal cogido": {
+      "positive": 0,
+      "negative": 1
+    },
+    "mal cogida": {
+      "positive": 0,
+      "negative": 1
+    },
+    "mal cogidos": {
+      "positive": 0,
+      "negative": 1
+    },
+    "mal cogidas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "pecho frio": {
+      "positive": 0,
+      "negative": 1
+    },
+    "pechos frios": {
+      "positive": 0,
+      "negative": 1
+    },
+    "pecho frío": {
+      "positive": 0,
+      "negative": 1
+    },
+    "pechos fríos": {
+      "positive": 0,
+      "negative": 1
     }
   },
   "3": {
@@ -1967,6 +2015,30 @@
       "negative": 1
     },
     "recibir su merecer": {
+      "positive": 0,
+      "negative": 1
+    },
+    "ser uno basura": {
+      "positive": 0,
+      "negative": 2
+    },
+    "muerto de hambre": {
+      "positive": 0,
+      "negative": 1
+    },
+    "muerta de hambre": {
+      "positive": 0,
+      "negative": 1
+    },
+    "muertos de hambre": {
+      "positive": 0,
+      "negative": 1
+    },
+    "muertas de hambre": {
+      "positive": 0,
+      "negative": 1
+    },
+    "dejar en visto": {
       "positive": 0,
       "negative": 1
     }
@@ -15744,6 +15816,10 @@
       "positive": 1,
       "negative": 0
     },
+    "karnal": {
+      "positive": 1,
+      "negative": 0
+    },
     "bro": {
       "positive": 1,
       "negative": 0
@@ -15781,6 +15857,22 @@
       "negative": 0
     },
     "parceras": {
+      "positive": 1,
+      "negative": 0
+    },
+    "cuate": {
+      "positive": 1,
+      "negative": 0
+    },
+    "cuatito": {
+      "positive": 1,
+      "negative": 0
+    },
+    "cuatitos": {
+      "positive": 1,
+      "negative": 0
+    },
+    "cuates": {
       "positive": 1,
       "negative": 0
     },
@@ -16956,6 +17048,22 @@
       "positive": 0,
       "negative": 1
     },
+    "jotazo": {
+      "positive": 0,
+      "negative": 1
+    },
+    "jota": {
+      "positive": 0,
+      "negative": 1
+    },
+    "jotazos": {
+      "positive": 0,
+      "negative": 1
+    },
+    "jotazas": {
+      "positive": 0,
+      "negative": 1
+    },
     "muerdealmohadas": {
       "positive": 0,
       "negative": 1
@@ -17412,6 +17520,14 @@
       "positive": 0,
       "negative": 1
     },
+    "meco": {
+      "positive": 0,
+      "negative": 1
+    },
+    "mecos": {
+      "positive": 0,
+      "negative": 1
+    },
     "chamaco": {
       "positive": 1,
       "negative": 0
@@ -17509,6 +17625,14 @@
       "negative": 1
     },
     "we": {
+      "positive": 1,
+      "negative": 1
+    },
+    "güey": {
+      "positive": 1,
+      "negative": 1
+    },
+    "güeyes": {
       "positive": 1,
       "negative": 1
     },
@@ -18143,6 +18267,226 @@
     "fuchi": {
       "positive": 0,
       "negative": 1
+    },
+    "villamelon": {
+      "positive": 0,
+      "negative": 1
+    },
+    "villamelón": {
+      "positive": 0,
+      "negative": 1
+    },
+    "villamelones": {
+      "positive": 0,
+      "negative": 1
+    },
+    "cabron": {
+      "positive": 0,
+      "negative": 1
+    },
+    "cabrona": {
+      "positive": 0,
+      "negative": 1
+    },
+    "cabrones": {
+      "positive": 0,
+      "negative": 1
+    },
+    "cabronas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "gachito": {
+      "positive": 0,
+      "negative": 1
+    },
+    "zonzo": {
+      "positive": 0,
+      "negative": 1
+    },
+    "zonza": {
+      "positive": 0,
+      "negative": 1
+    },
+    "zonzos": {
+      "positive": 0,
+      "negative": 1
+    },
+    "zonzas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "zopencos": {
+      "positive": 0,
+      "negative": 1
+    },
+    "zopenca": {
+      "positive": 0,
+      "negative": 1
+    },
+    "zopencas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "sopenco": {
+      "positive": 0,
+      "negative": 1
+    },
+    "sopenca": {
+      "positive": 0,
+      "negative": 1
+    },
+    "sopencos": {
+      "positive": 0,
+      "negative": 1
+    },
+    "sopencas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "pagafantas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "simp": {
+      "positive": 0,
+      "negative": 1
+    },
+    "marro": {
+      "positive": 0,
+      "negative": 1
+    },
+    "malcogido": {
+      "positive": 0,
+      "negative": 1
+    },
+    "malcogida": {
+      "positive": 0,
+      "negative": 1
+    },
+    "malcogidos": {
+      "positive": 0,
+      "negative": 1
+    },
+    "malcogidas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "chillon": {
+      "positive": 0,
+      "negative": 1
+    },
+    "chillona": {
+      "positive": 0,
+      "negative": 1
+    },
+    "chillones": {
+      "positive": 0,
+      "negative": 1
+    },
+    "chillonas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "chapulinear": {
+      "positive": 0,
+      "negative": 1
+    },
+    "chilletas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "agachon": {
+      "positive": 0,
+      "negative": 1
+    },
+    "agachón": {
+      "positive": 0,
+      "negative": 1
+    },
+    "agachones": {
+      "positive": 0,
+      "negative": 1
+    },
+    "agachona": {
+      "positive": 0,
+      "negative": 1
+    },
+    "agachonas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "boba": {
+      "positive": 0,
+      "negative": 1
+    },
+    "bobos": {
+      "positive": 0,
+      "negative": 1
+    },
+    "bobas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "bobalicón": {
+      "positive": 0,
+      "negative": 1
+    },
+    "bobalicon": {
+      "positive": 0,
+      "negative": 1
+    },
+    "bobalicones": {
+      "positive": 0,
+      "negative": 1
+    },
+    "bobalicona": {
+      "positive": 0,
+      "negative": 1
+    },
+    "bobaliconas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "pucha": {
+      "positive": 0,
+      "negative": 1
+    },
+    "puchas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "panocha": {
+      "positive": 0,
+      "negative": 1
+    },
+    "panochas": {
+      "positive": 0,
+      "negative": 1
+    },
+    "teatrero": {
+      "positive": 0,
+      "negative": 1
+    },
+    "teatrera": {
+      "positive": 0,
+      "negative": 1
+    },
+    "teatreros": {
+      "positive": 0,
+      "negative": 1
+    },
+    "teatreras": {
+      "positive": 0,
+      "negative": 1
+    },
+    "coño": {
+      "positive": 0,
+      "negative": 1
+    },
+    "coñazo": {
+      "positive": 0,
+      "negative": 1
     }
   },
   "4": {
@@ -18365,6 +18709,22 @@
     "no hacer el paro": {
       "positive": 0,
       "negative": 2
+    },
+    "concha de tu hermana": {
+      "positive": 0,
+      "negative": 1
+    },
+    "concha de tu madre": {
+      "positive": 0,
+      "negative": 1
+    },
+    "patada en los huevos": {
+      "positive": 0,
+      "negative": 1
+    },
+    "patada en el huevo": {
+      "positive": 0,
+      "negative": 1
     }
   }
 }
